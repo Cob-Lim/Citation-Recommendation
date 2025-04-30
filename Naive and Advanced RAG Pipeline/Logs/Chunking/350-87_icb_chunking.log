@@ -1,0 +1,223 @@
+True
+12.1
+90100
+[]
+GPU load successful.
+GPU: cuda
+JSON file loaded from /home/ubuntu/Infly-Chroma-Bread Pipeline/cleaned_global_train_eval_context_list.json
+Embedding model loaded: infly/inf-retriever-v1-1.5b
+Number of Chunks: 350
+Number of Overlaps: 87
+Initializing text splitter...
+Initializing ChromaDB...
+Everything can be found in: 350-87_vectorstore
+Added batch 1 to ChromaDB. Time taken: 388.46 seconds.
+Total of 50 documents out of 5164 documents.
+Added batch 2 to ChromaDB. Time taken: 360.90 seconds.
+Total of 100 documents out of 5164 documents.
+Added batch 3 to ChromaDB. Time taken: 380.97 seconds.
+Total of 150 documents out of 5164 documents.
+Added batch 4 to ChromaDB. Time taken: 372.12 seconds.
+Total of 200 documents out of 5164 documents.
+Added batch 5 to ChromaDB. Time taken: 324.62 seconds.
+Total of 250 documents out of 5164 documents.
+Added batch 6 to ChromaDB. Time taken: 371.70 seconds.
+Total of 300 documents out of 5164 documents.
+Added batch 7 to ChromaDB. Time taken: 362.57 seconds.
+Total of 350 documents out of 5164 documents.
+Added batch 8 to ChromaDB. Time taken: 351.58 seconds.
+Total of 400 documents out of 5164 documents.
+Added batch 9 to ChromaDB. Time taken: 348.21 seconds.
+Total of 450 documents out of 5164 documents.
+Added batch 10 to ChromaDB. Time taken: 318.70 seconds.
+Total of 500 documents out of 5164 documents.
+Added batch 11 to ChromaDB. Time taken: 343.69 seconds.
+Total of 550 documents out of 5164 documents.
+Added batch 12 to ChromaDB. Time taken: 366.24 seconds.
+Total of 600 documents out of 5164 documents.
+Added batch 13 to ChromaDB. Time taken: 376.55 seconds.
+Total of 650 documents out of 5164 documents.
+Added batch 14 to ChromaDB. Time taken: 334.67 seconds.
+Total of 700 documents out of 5164 documents.
+Added batch 15 to ChromaDB. Time taken: 399.06 seconds.
+Total of 750 documents out of 5164 documents.
+Added batch 16 to ChromaDB. Time taken: 366.51 seconds.
+Total of 800 documents out of 5164 documents.
+Added batch 17 to ChromaDB. Time taken: 305.86 seconds.
+Total of 850 documents out of 5164 documents.
+Added batch 18 to ChromaDB. Time taken: 315.84 seconds.
+Total of 900 documents out of 5164 documents.
+Added batch 19 to ChromaDB. Time taken: 348.81 seconds.
+Total of 950 documents out of 5164 documents.
+Added batch 20 to ChromaDB. Time taken: 373.89 seconds.
+Total of 1000 documents out of 5164 documents.
+Added batch 21 to ChromaDB. Time taken: 372.42 seconds.
+Total of 1050 documents out of 5164 documents.
+Added batch 22 to ChromaDB. Time taken: 352.99 seconds.
+Total of 1100 documents out of 5164 documents.
+Added batch 23 to ChromaDB. Time taken: 357.58 seconds.
+Total of 1150 documents out of 5164 documents.
+Added batch 24 to ChromaDB. Time taken: 323.15 seconds.
+Total of 1200 documents out of 5164 documents.
+Added batch 25 to ChromaDB. Time taken: 344.67 seconds.
+Total of 1250 documents out of 5164 documents.
+Added batch 26 to ChromaDB. Time taken: 344.51 seconds.
+Total of 1300 documents out of 5164 documents.
+Added batch 27 to ChromaDB. Time taken: 336.39 seconds.
+Total of 1350 documents out of 5164 documents.
+Added batch 28 to ChromaDB. Time taken: 334.07 seconds.
+Total of 1400 documents out of 5164 documents.
+Added batch 29 to ChromaDB. Time taken: 318.02 seconds.
+Total of 1450 documents out of 5164 documents.
+Added batch 30 to ChromaDB. Time taken: 310.44 seconds.
+Total of 1500 documents out of 5164 documents.
+Added batch 31 to ChromaDB. Time taken: 330.54 seconds.
+Total of 1550 documents out of 5164 documents.
+Added batch 32 to ChromaDB. Time taken: 340.37 seconds.
+Total of 1600 documents out of 5164 documents.
+Added batch 33 to ChromaDB. Time taken: 349.23 seconds.
+Total of 1650 documents out of 5164 documents.
+Added batch 34 to ChromaDB. Time taken: 333.78 seconds.
+Total of 1700 documents out of 5164 documents.
+Added batch 35 to ChromaDB. Time taken: 325.97 seconds.
+Total of 1750 documents out of 5164 documents.
+Added batch 36 to ChromaDB. Time taken: 326.23 seconds.
+Total of 1800 documents out of 5164 documents.
+Added batch 37 to ChromaDB. Time taken: 327.31 seconds.
+Total of 1850 documents out of 5164 documents.
+Added batch 38 to ChromaDB. Time taken: 320.72 seconds.
+Total of 1900 documents out of 5164 documents.
+Added batch 39 to ChromaDB. Time taken: 308.44 seconds.
+Total of 1950 documents out of 5164 documents.
+Added batch 40 to ChromaDB. Time taken: 375.26 seconds.
+Total of 2000 documents out of 5164 documents.
+Added batch 41 to ChromaDB. Time taken: 295.64 seconds.
+Total of 2050 documents out of 5164 documents.
+Added batch 42 to ChromaDB. Time taken: 345.26 seconds.
+Total of 2100 documents out of 5164 documents.
+Added batch 43 to ChromaDB. Time taken: 375.55 seconds.
+Total of 2150 documents out of 5164 documents.
+Added batch 44 to ChromaDB. Time taken: 350.77 seconds.
+Total of 2200 documents out of 5164 documents.
+Added batch 45 to ChromaDB. Time taken: 317.03 seconds.
+Total of 2250 documents out of 5164 documents.
+Added batch 46 to ChromaDB. Time taken: 368.92 seconds.
+Total of 2300 documents out of 5164 documents.
+Added batch 47 to ChromaDB. Time taken: 302.69 seconds.
+Total of 2350 documents out of 5164 documents.
+Added batch 48 to ChromaDB. Time taken: 347.05 seconds.
+Total of 2400 documents out of 5164 documents.
+Added batch 49 to ChromaDB. Time taken: 353.00 seconds.
+Total of 2450 documents out of 5164 documents.
+Added batch 50 to ChromaDB. Time taken: 323.19 seconds.
+Total of 2500 documents out of 5164 documents.
+Added batch 51 to ChromaDB. Time taken: 315.63 seconds.
+Total of 2550 documents out of 5164 documents.
+Added batch 52 to ChromaDB. Time taken: 335.39 seconds.
+Total of 2600 documents out of 5164 documents.
+Added batch 53 to ChromaDB. Time taken: 339.65 seconds.
+Total of 2650 documents out of 5164 documents.
+Added batch 54 to ChromaDB. Time taken: 338.50 seconds.
+Total of 2700 documents out of 5164 documents.
+Added batch 55 to ChromaDB. Time taken: 322.65 seconds.
+Total of 2750 documents out of 5164 documents.
+Added batch 56 to ChromaDB. Time taken: 364.29 seconds.
+Total of 2800 documents out of 5164 documents.
+Added batch 57 to ChromaDB. Time taken: 351.75 seconds.
+Total of 2850 documents out of 5164 documents.
+Added batch 58 to ChromaDB. Time taken: 321.74 seconds.
+Total of 2900 documents out of 5164 documents.
+Added batch 59 to ChromaDB. Time taken: 312.97 seconds.
+Total of 2950 documents out of 5164 documents.
+Added batch 60 to ChromaDB. Time taken: 331.79 seconds.
+Total of 3000 documents out of 5164 documents.
+Added batch 61 to ChromaDB. Time taken: 323.19 seconds.
+Total of 3050 documents out of 5164 documents.
+Added batch 62 to ChromaDB. Time taken: 342.23 seconds.
+Total of 3100 documents out of 5164 documents.
+Added batch 63 to ChromaDB. Time taken: 335.21 seconds.
+Total of 3150 documents out of 5164 documents.
+Added batch 64 to ChromaDB. Time taken: 309.58 seconds.
+Total of 3200 documents out of 5164 documents.
+Added batch 65 to ChromaDB. Time taken: 318.57 seconds.
+Total of 3250 documents out of 5164 documents.
+Added batch 66 to ChromaDB. Time taken: 364.34 seconds.
+Total of 3300 documents out of 5164 documents.
+Added batch 67 to ChromaDB. Time taken: 322.02 seconds.
+Total of 3350 documents out of 5164 documents.
+Added batch 68 to ChromaDB. Time taken: 312.92 seconds.
+Total of 3400 documents out of 5164 documents.
+Added batch 69 to ChromaDB. Time taken: 312.17 seconds.
+Total of 3450 documents out of 5164 documents.
+Added batch 70 to ChromaDB. Time taken: 313.31 seconds.
+Total of 3500 documents out of 5164 documents.
+Added batch 71 to ChromaDB. Time taken: 328.90 seconds.
+Total of 3550 documents out of 5164 documents.
+Added batch 72 to ChromaDB. Time taken: 332.71 seconds.
+Total of 3600 documents out of 5164 documents.
+Added batch 73 to ChromaDB. Time taken: 315.00 seconds.
+Total of 3650 documents out of 5164 documents.
+Added batch 74 to ChromaDB. Time taken: 306.05 seconds.
+Total of 3700 documents out of 5164 documents.
+Added batch 75 to ChromaDB. Time taken: 321.36 seconds.
+Total of 3750 documents out of 5164 documents.
+Added batch 76 to ChromaDB. Time taken: 280.26 seconds.
+Total of 3800 documents out of 5164 documents.
+Added batch 77 to ChromaDB. Time taken: 380.86 seconds.
+Total of 3850 documents out of 5164 documents.
+Added batch 78 to ChromaDB. Time taken: 295.60 seconds.
+Total of 3900 documents out of 5164 documents.
+Added batch 79 to ChromaDB. Time taken: 305.02 seconds.
+Total of 3950 documents out of 5164 documents.
+Added batch 80 to ChromaDB. Time taken: 360.18 seconds.
+Total of 4000 documents out of 5164 documents.
+Added batch 81 to ChromaDB. Time taken: 327.70 seconds.
+Total of 4050 documents out of 5164 documents.
+Added batch 82 to ChromaDB. Time taken: 345.23 seconds.
+Total of 4100 documents out of 5164 documents.
+Added batch 83 to ChromaDB. Time taken: 318.65 seconds.
+Total of 4150 documents out of 5164 documents.
+Added batch 84 to ChromaDB. Time taken: 330.64 seconds.
+Total of 4200 documents out of 5164 documents.
+Added batch 85 to ChromaDB. Time taken: 344.77 seconds.
+Total of 4250 documents out of 5164 documents.
+Added batch 86 to ChromaDB. Time taken: 304.61 seconds.
+Total of 4300 documents out of 5164 documents.
+Added batch 87 to ChromaDB. Time taken: 299.93 seconds.
+Total of 4350 documents out of 5164 documents.
+Added batch 88 to ChromaDB. Time taken: 314.32 seconds.
+Total of 4400 documents out of 5164 documents.
+Added batch 89 to ChromaDB. Time taken: 328.28 seconds.
+Total of 4450 documents out of 5164 documents.
+Added batch 90 to ChromaDB. Time taken: 330.89 seconds.
+Total of 4500 documents out of 5164 documents.
+Added batch 91 to ChromaDB. Time taken: 331.54 seconds.
+Total of 4550 documents out of 5164 documents.
+Added batch 92 to ChromaDB. Time taken: 320.57 seconds.
+Total of 4600 documents out of 5164 documents.
+Added batch 93 to ChromaDB. Time taken: 341.12 seconds.
+Total of 4650 documents out of 5164 documents.
+Added batch 94 to ChromaDB. Time taken: 347.00 seconds.
+Total of 4700 documents out of 5164 documents.
+Added batch 95 to ChromaDB. Time taken: 310.12 seconds.
+Total of 4750 documents out of 5164 documents.
+Added batch 96 to ChromaDB. Time taken: 259.81 seconds.
+Total of 4800 documents out of 5164 documents.
+Added batch 97 to ChromaDB. Time taken: 326.34 seconds.
+Total of 4850 documents out of 5164 documents.
+Added batch 98 to ChromaDB. Time taken: 345.02 seconds.
+Total of 4900 documents out of 5164 documents.
+Added batch 99 to ChromaDB. Time taken: 376.96 seconds.
+Total of 4950 documents out of 5164 documents.
+Added batch 100 to ChromaDB. Time taken: 327.75 seconds.
+Total of 5000 documents out of 5164 documents.
+Added batch 101 to ChromaDB. Time taken: 318.00 seconds.
+Total of 5050 documents out of 5164 documents.
+Added batch 102 to ChromaDB. Time taken: 322.48 seconds.
+Total of 5100 documents out of 5164 documents.
+Added batch 103 to ChromaDB. Time taken: 301.36 seconds.
+Total of 5150 documents out of 5164 documents.
+Added batch 104 to ChromaDB. Time taken: 85.08 seconds.
+Total of 5200 documents out of 5164 documents.
+Total documents stored in ChromaDB: 484717
+Total execution time: 34594.85 seconds.

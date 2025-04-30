@@ -1,0 +1,44 @@
+[2025-03-28 19:19:42] Starting job with: chunks=256, overlaps=64, docs=125
+True
+12.1
+90100
+[]
+GPU load successful.
+GPU: cuda
+Embedding model loaded: infly/inf-retriever-v1-1.5b
+Number of Chunks: 256
+Number of Overlaps: 64
+Collection loaded: final_256-64_vectorstore
+Number of Data: 177587
+Number of documents: 125
+Total number of queries: 1245
+Processing is ongoing/complete: 100 out of 1245 queries processed.
+Time elapsed since starting: 5.44859504699707 seconds.
+Processing is ongoing/complete: 200 out of 1245 queries processed.
+Time elapsed since starting: 9.698952913284302 seconds.
+Processing is ongoing/complete: 300 out of 1245 queries processed.
+Time elapsed since starting: 13.9898042678833 seconds.
+Processing is ongoing/complete: 400 out of 1245 queries processed.
+Time elapsed since starting: 18.290300607681274 seconds.
+Processing is ongoing/complete: 500 out of 1245 queries processed.
+Time elapsed since starting: 22.60672950744629 seconds.
+Processing is ongoing/complete: 600 out of 1245 queries processed.
+Time elapsed since starting: 26.93275785446167 seconds.
+Processing is ongoing/complete: 700 out of 1245 queries processed.
+Time elapsed since starting: 31.226850986480713 seconds.
+Processing is ongoing/complete: 800 out of 1245 queries processed.
+Time elapsed since starting: 35.494290590286255 seconds.
+Processing is ongoing/complete: 900 out of 1245 queries processed.
+Time elapsed since starting: 39.76445960998535 seconds.
+Processing is ongoing/complete: 1000 out of 1245 queries processed.
+Time elapsed since starting: 44.04486346244812 seconds.
+Processing is ongoing/complete: 1100 out of 1245 queries processed.
+Time elapsed since starting: 48.30740022659302 seconds.
+Processing is ongoing/complete: 1200 out of 1245 queries processed.
+Time elapsed since starting: 52.60161590576172 seconds.
+Processing is ongoing/complete: 1245 out of 1245 queries processed.
+Time elapsed since starting: 54.5578556060791 seconds.
+Retrieved chunks saved as a .json file.
+Retrieved citations saved as a .json file.
+Retrieved titles saved as a .json file.
+[2025-03-28 19:20:50] Job completed. Proceeding to next job...

@@ -1,0 +1,265 @@
+True
+12.1
+90100
+[]
+GPU load successful.
+GPU: cuda
+Embedding model loaded: infly/inf-retriever-v1-1.5b
+Number of Chunks: 512
+Number of Overlaps: 128
+Collection loaded: 512-128_vectorstore
+Number of Data: 332202
+Number of documents: 10
+Total number of queries: 12450
+Processing is ongoing/complete: 100 out of 12450 queries processed.
+Time elapsed since starting: 30.092761754989624 seconds.
+Processing is ongoing/complete: 200 out of 12450 queries processed.
+Time elapsed since starting: 36.4919171333313 seconds.
+Processing is ongoing/complete: 300 out of 12450 queries processed.
+Time elapsed since starting: 42.92978477478027 seconds.
+Processing is ongoing/complete: 400 out of 12450 queries processed.
+Time elapsed since starting: 49.46073293685913 seconds.
+Processing is ongoing/complete: 500 out of 12450 queries processed.
+Time elapsed since starting: 55.899999141693115 seconds.
+Processing is ongoing/complete: 600 out of 12450 queries processed.
+Time elapsed since starting: 62.127707958221436 seconds.
+Processing is ongoing/complete: 700 out of 12450 queries processed.
+Time elapsed since starting: 68.54825520515442 seconds.
+Processing is ongoing/complete: 800 out of 12450 queries processed.
+Time elapsed since starting: 74.90825891494751 seconds.
+Processing is ongoing/complete: 900 out of 12450 queries processed.
+Time elapsed since starting: 81.15543293952942 seconds.
+Processing is ongoing/complete: 1000 out of 12450 queries processed.
+Time elapsed since starting: 87.51671934127808 seconds.
+Processing is ongoing/complete: 1100 out of 12450 queries processed.
+Time elapsed since starting: 93.86342263221741 seconds.
+Processing is ongoing/complete: 1200 out of 12450 queries processed.
+Time elapsed since starting: 100.15076851844788 seconds.
+Processing is ongoing/complete: 1300 out of 12450 queries processed.
+Time elapsed since starting: 106.54106020927429 seconds.
+Processing is ongoing/complete: 1400 out of 12450 queries processed.
+Time elapsed since starting: 112.91975378990173 seconds.
+Processing is ongoing/complete: 1500 out of 12450 queries processed.
+Time elapsed since starting: 119.41105723381042 seconds.
+Processing is ongoing/complete: 1600 out of 12450 queries processed.
+Time elapsed since starting: 125.72331929206848 seconds.
+Processing is ongoing/complete: 1700 out of 12450 queries processed.
+Time elapsed since starting: 132.21500658988953 seconds.
+Processing is ongoing/complete: 1800 out of 12450 queries processed.
+Time elapsed since starting: 138.76652002334595 seconds.
+Processing is ongoing/complete: 1900 out of 12450 queries processed.
+Time elapsed since starting: 145.11288785934448 seconds.
+Processing is ongoing/complete: 2000 out of 12450 queries processed.
+Time elapsed since starting: 151.53898692131042 seconds.
+Processing is ongoing/complete: 2100 out of 12450 queries processed.
+Time elapsed since starting: 157.87736821174622 seconds.
+Processing is ongoing/complete: 2200 out of 12450 queries processed.
+Time elapsed since starting: 164.1260483264923 seconds.
+Processing is ongoing/complete: 2300 out of 12450 queries processed.
+Time elapsed since starting: 170.53665566444397 seconds.
+Processing is ongoing/complete: 2400 out of 12450 queries processed.
+Time elapsed since starting: 177.015869140625 seconds.
+Processing is ongoing/complete: 2500 out of 12450 queries processed.
+Time elapsed since starting: 183.2843451499939 seconds.
+Processing is ongoing/complete: 2600 out of 12450 queries processed.
+Time elapsed since starting: 189.5723876953125 seconds.
+Processing is ongoing/complete: 2700 out of 12450 queries processed.
+Time elapsed since starting: 195.94807291030884 seconds.
+Processing is ongoing/complete: 2800 out of 12450 queries processed.
+Time elapsed since starting: 202.34480667114258 seconds.
+Processing is ongoing/complete: 2900 out of 12450 queries processed.
+Time elapsed since starting: 208.7446804046631 seconds.
+Processing is ongoing/complete: 3000 out of 12450 queries processed.
+Time elapsed since starting: 215.13277316093445 seconds.
+Processing is ongoing/complete: 3100 out of 12450 queries processed.
+Time elapsed since starting: 221.55783939361572 seconds.
+Processing is ongoing/complete: 3200 out of 12450 queries processed.
+Time elapsed since starting: 227.8833327293396 seconds.
+Processing is ongoing/complete: 3300 out of 12450 queries processed.
+Time elapsed since starting: 234.21131801605225 seconds.
+Processing is ongoing/complete: 3400 out of 12450 queries processed.
+Time elapsed since starting: 240.64321374893188 seconds.
+Processing is ongoing/complete: 3500 out of 12450 queries processed.
+Time elapsed since starting: 247.03890752792358 seconds.
+Processing is ongoing/complete: 3600 out of 12450 queries processed.
+Time elapsed since starting: 253.34985160827637 seconds.
+Processing is ongoing/complete: 3700 out of 12450 queries processed.
+Time elapsed since starting: 259.7039484977722 seconds.
+Processing is ongoing/complete: 3800 out of 12450 queries processed.
+Time elapsed since starting: 266.04100275039673 seconds.
+Processing is ongoing/complete: 3900 out of 12450 queries processed.
+Time elapsed since starting: 272.4176490306854 seconds.
+Processing is ongoing/complete: 4000 out of 12450 queries processed.
+Time elapsed since starting: 278.7448446750641 seconds.
+Processing is ongoing/complete: 4100 out of 12450 queries processed.
+Time elapsed since starting: 285.0919315814972 seconds.
+Processing is ongoing/complete: 4200 out of 12450 queries processed.
+Time elapsed since starting: 291.380277633667 seconds.
+Processing is ongoing/complete: 4300 out of 12450 queries processed.
+Time elapsed since starting: 297.68619298934937 seconds.
+Processing is ongoing/complete: 4400 out of 12450 queries processed.
+Time elapsed since starting: 304.0953583717346 seconds.
+Processing is ongoing/complete: 4500 out of 12450 queries processed.
+Time elapsed since starting: 310.5033483505249 seconds.
+Processing is ongoing/complete: 4600 out of 12450 queries processed.
+Time elapsed since starting: 316.8897750377655 seconds.
+Processing is ongoing/complete: 4700 out of 12450 queries processed.
+Time elapsed since starting: 323.30382442474365 seconds.
+Processing is ongoing/complete: 4800 out of 12450 queries processed.
+Time elapsed since starting: 329.6348888874054 seconds.
+Processing is ongoing/complete: 4900 out of 12450 queries processed.
+Time elapsed since starting: 336.02055191993713 seconds.
+Processing is ongoing/complete: 5000 out of 12450 queries processed.
+Time elapsed since starting: 342.3409504890442 seconds.
+Processing is ongoing/complete: 5100 out of 12450 queries processed.
+Time elapsed since starting: 348.66413950920105 seconds.
+Processing is ongoing/complete: 5200 out of 12450 queries processed.
+Time elapsed since starting: 355.0180859565735 seconds.
+Processing is ongoing/complete: 5300 out of 12450 queries processed.
+Time elapsed since starting: 361.3363902568817 seconds.
+Processing is ongoing/complete: 5400 out of 12450 queries processed.
+Time elapsed since starting: 367.7618987560272 seconds.
+Processing is ongoing/complete: 5500 out of 12450 queries processed.
+Time elapsed since starting: 374.1398096084595 seconds.
+Processing is ongoing/complete: 5600 out of 12450 queries processed.
+Time elapsed since starting: 380.493124961853 seconds.
+Processing is ongoing/complete: 5700 out of 12450 queries processed.
+Time elapsed since starting: 386.8912236690521 seconds.
+Processing is ongoing/complete: 5800 out of 12450 queries processed.
+Time elapsed since starting: 393.2475666999817 seconds.
+Processing is ongoing/complete: 5900 out of 12450 queries processed.
+Time elapsed since starting: 399.6701147556305 seconds.
+Processing is ongoing/complete: 6000 out of 12450 queries processed.
+Time elapsed since starting: 405.99692010879517 seconds.
+Processing is ongoing/complete: 6100 out of 12450 queries processed.
+Time elapsed since starting: 412.4028811454773 seconds.
+Processing is ongoing/complete: 6200 out of 12450 queries processed.
+Time elapsed since starting: 418.74354457855225 seconds.
+Processing is ongoing/complete: 6300 out of 12450 queries processed.
+Time elapsed since starting: 425.03012919425964 seconds.
+Processing is ongoing/complete: 6400 out of 12450 queries processed.
+Time elapsed since starting: 431.3508768081665 seconds.
+Processing is ongoing/complete: 6500 out of 12450 queries processed.
+Time elapsed since starting: 437.80609607696533 seconds.
+Processing is ongoing/complete: 6600 out of 12450 queries processed.
+Time elapsed since starting: 444.22199845314026 seconds.
+Processing is ongoing/complete: 6700 out of 12450 queries processed.
+Time elapsed since starting: 450.51868891716003 seconds.
+Processing is ongoing/complete: 6800 out of 12450 queries processed.
+Time elapsed since starting: 456.9559955596924 seconds.
+Processing is ongoing/complete: 6900 out of 12450 queries processed.
+Time elapsed since starting: 463.3797125816345 seconds.
+Processing is ongoing/complete: 7000 out of 12450 queries processed.
+Time elapsed since starting: 469.8006935119629 seconds.
+Processing is ongoing/complete: 7100 out of 12450 queries processed.
+Time elapsed since starting: 476.18757486343384 seconds.
+Processing is ongoing/complete: 7200 out of 12450 queries processed.
+Time elapsed since starting: 482.6337842941284 seconds.
+Processing is ongoing/complete: 7300 out of 12450 queries processed.
+Time elapsed since starting: 489.02643156051636 seconds.
+Processing is ongoing/complete: 7400 out of 12450 queries processed.
+Time elapsed since starting: 495.3537425994873 seconds.
+Processing is ongoing/complete: 7500 out of 12450 queries processed.
+Time elapsed since starting: 501.78879594802856 seconds.
+Processing is ongoing/complete: 7600 out of 12450 queries processed.
+Time elapsed since starting: 508.2477877140045 seconds.
+Processing is ongoing/complete: 7700 out of 12450 queries processed.
+Time elapsed since starting: 514.6223564147949 seconds.
+Processing is ongoing/complete: 7800 out of 12450 queries processed.
+Time elapsed since starting: 521.0466787815094 seconds.
+Processing is ongoing/complete: 7900 out of 12450 queries processed.
+Time elapsed since starting: 527.4170224666595 seconds.
+Processing is ongoing/complete: 8000 out of 12450 queries processed.
+Time elapsed since starting: 533.7770235538483 seconds.
+Processing is ongoing/complete: 8100 out of 12450 queries processed.
+Time elapsed since starting: 540.0873944759369 seconds.
+Processing is ongoing/complete: 8200 out of 12450 queries processed.
+Time elapsed since starting: 546.3870389461517 seconds.
+Processing is ongoing/complete: 8300 out of 12450 queries processed.
+Time elapsed since starting: 552.8539822101593 seconds.
+Processing is ongoing/complete: 8400 out of 12450 queries processed.
+Time elapsed since starting: 559.2727787494659 seconds.
+Processing is ongoing/complete: 8500 out of 12450 queries processed.
+Time elapsed since starting: 565.7241911888123 seconds.
+Processing is ongoing/complete: 8600 out of 12450 queries processed.
+Time elapsed since starting: 572.1549921035767 seconds.
+Processing is ongoing/complete: 8700 out of 12450 queries processed.
+Time elapsed since starting: 578.5456278324127 seconds.
+Processing is ongoing/complete: 8800 out of 12450 queries processed.
+Time elapsed since starting: 584.8208079338074 seconds.
+Processing is ongoing/complete: 8900 out of 12450 queries processed.
+Time elapsed since starting: 591.26105427742 seconds.
+Processing is ongoing/complete: 9000 out of 12450 queries processed.
+Time elapsed since starting: 597.5880069732666 seconds.
+Processing is ongoing/complete: 9100 out of 12450 queries processed.
+Time elapsed since starting: 603.9398174285889 seconds.
+Processing is ongoing/complete: 9200 out of 12450 queries processed.
+Time elapsed since starting: 610.218254327774 seconds.
+Processing is ongoing/complete: 9300 out of 12450 queries processed.
+Time elapsed since starting: 616.566563129425 seconds.
+Processing is ongoing/complete: 9400 out of 12450 queries processed.
+Time elapsed since starting: 622.9759993553162 seconds.
+Processing is ongoing/complete: 9500 out of 12450 queries processed.
+Time elapsed since starting: 629.3520956039429 seconds.
+Processing is ongoing/complete: 9600 out of 12450 queries processed.
+Time elapsed since starting: 635.6158473491669 seconds.
+Processing is ongoing/complete: 9700 out of 12450 queries processed.
+Time elapsed since starting: 641.8767733573914 seconds.
+Processing is ongoing/complete: 9800 out of 12450 queries processed.
+Time elapsed since starting: 648.2241289615631 seconds.
+Processing is ongoing/complete: 9900 out of 12450 queries processed.
+Time elapsed since starting: 654.5236344337463 seconds.
+Processing is ongoing/complete: 10000 out of 12450 queries processed.
+Time elapsed since starting: 660.83149766922 seconds.
+Processing is ongoing/complete: 10100 out of 12450 queries processed.
+Time elapsed since starting: 667.1384773254395 seconds.
+Processing is ongoing/complete: 10200 out of 12450 queries processed.
+Time elapsed since starting: 673.4712560176849 seconds.
+Processing is ongoing/complete: 10300 out of 12450 queries processed.
+Time elapsed since starting: 679.8196349143982 seconds.
+Processing is ongoing/complete: 10400 out of 12450 queries processed.
+Time elapsed since starting: 686.2120966911316 seconds.
+Processing is ongoing/complete: 10500 out of 12450 queries processed.
+Time elapsed since starting: 692.5560295581818 seconds.
+Processing is ongoing/complete: 10600 out of 12450 queries processed.
+Time elapsed since starting: 698.8865089416504 seconds.
+Processing is ongoing/complete: 10700 out of 12450 queries processed.
+Time elapsed since starting: 705.2862589359283 seconds.
+Processing is ongoing/complete: 10800 out of 12450 queries processed.
+Time elapsed since starting: 711.6236236095428 seconds.
+Processing is ongoing/complete: 10900 out of 12450 queries processed.
+Time elapsed since starting: 717.9450912475586 seconds.
+Processing is ongoing/complete: 11000 out of 12450 queries processed.
+Time elapsed since starting: 724.3102076053619 seconds.
+Processing is ongoing/complete: 11100 out of 12450 queries processed.
+Time elapsed since starting: 730.6590821743011 seconds.
+Processing is ongoing/complete: 11200 out of 12450 queries processed.
+Time elapsed since starting: 736.9868333339691 seconds.
+Processing is ongoing/complete: 11300 out of 12450 queries processed.
+Time elapsed since starting: 743.3619656562805 seconds.
+Processing is ongoing/complete: 11400 out of 12450 queries processed.
+Time elapsed since starting: 749.6706912517548 seconds.
+Processing is ongoing/complete: 11500 out of 12450 queries processed.
+Time elapsed since starting: 756.021053314209 seconds.
+Processing is ongoing/complete: 11600 out of 12450 queries processed.
+Time elapsed since starting: 762.3974707126617 seconds.
+Processing is ongoing/complete: 11700 out of 12450 queries processed.
+Time elapsed since starting: 768.6879715919495 seconds.
+Processing is ongoing/complete: 11800 out of 12450 queries processed.
+Time elapsed since starting: 774.9986884593964 seconds.
+Processing is ongoing/complete: 11900 out of 12450 queries processed.
+Time elapsed since starting: 781.3915700912476 seconds.
+Processing is ongoing/complete: 12000 out of 12450 queries processed.
+Time elapsed since starting: 787.7533180713654 seconds.
+Processing is ongoing/complete: 12100 out of 12450 queries processed.
+Time elapsed since starting: 794.2049379348755 seconds.
+Processing is ongoing/complete: 12200 out of 12450 queries processed.
+Time elapsed since starting: 800.5776863098145 seconds.
+Processing is ongoing/complete: 12300 out of 12450 queries processed.
+Time elapsed since starting: 806.9672477245331 seconds.
+Processing is ongoing/complete: 12400 out of 12450 queries processed.
+Time elapsed since starting: 812.9402525424957 seconds.
+Processing is ongoing/complete: 12450 out of 12450 queries processed.
+Time elapsed since starting: 814.9806261062622 seconds.
+Retrieved chunks saved as a .json file.
+Retrieved citations saved as a .json file.

@@ -1,0 +1,517 @@
+True
+12.1
+90100
+[]
+GPU load successful.
+GPU: cuda
+Number of Chunks: 256
+Number of Overlaps: 64
+Number of Docs: 10
+Chunks and Citations file path loaded.
+Reranker model loaded: mixedbread-ai/mxbai-rerank-large-v1
+Other parameters loaded successfully!
+Evaluating for True_Query_Only-False_Rerank-256-64-Infly-ChromaDB-Bread-10-top_10
+Total Number of Queries to be Evaluated: 12450
+JSON file loaded from /home/ubuntu/Infly-Chroma-Bread Pipeline/Retrieved Chunks/10 Docs/256-64-retrieved_chunks.json
+JSON file loaded from /home/ubuntu/Infly-Chroma-Bread Pipeline/Retrieved Citations/10 Docs/256-64-retrieved_citations.json
+Processed batch ending at query 50 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.2800 | Average MRR: 0.1631 | Average NDCG: 0.1913
+Processed batch ending at query 100 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.2900 | Average MRR: 0.1578 | Average NDCG: 0.1901
+Processed batch ending at query 150 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.2933 | Average MRR: 0.1578 | Average NDCG: 0.1909
+Processed batch ending at query 200 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3150 | Average MRR: 0.1743 | Average NDCG: 0.2087
+Processed batch ending at query 250 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3440 | Average MRR: 0.1968 | Average NDCG: 0.2331
+Processed batch ending at query 300 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3367 | Average MRR: 0.1907 | Average NDCG: 0.2266
+Processed batch ending at query 350 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3314 | Average MRR: 0.1810 | Average NDCG: 0.2177
+Processed batch ending at query 400 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3175 | Average MRR: 0.1735 | Average NDCG: 0.2086
+Processed batch ending at query 450 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3200 | Average MRR: 0.1708 | Average NDCG: 0.2071
+Processed batch ending at query 500 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3120 | Average MRR: 0.1668 | Average NDCG: 0.2022
+Processed batch ending at query 550 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3091 | Average MRR: 0.1641 | Average NDCG: 0.1994
+Processed batch ending at query 600 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3167 | Average MRR: 0.1623 | Average NDCG: 0.1997
+Processed batch ending at query 650 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3169 | Average MRR: 0.1606 | Average NDCG: 0.1984
+Processed batch ending at query 700 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3171 | Average MRR: 0.1625 | Average NDCG: 0.2000
+Processed batch ending at query 750 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3160 | Average MRR: 0.1618 | Average NDCG: 0.1991
+Processed batch ending at query 800 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3212 | Average MRR: 0.1677 | Average NDCG: 0.2048
+Processed batch ending at query 850 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3294 | Average MRR: 0.1727 | Average NDCG: 0.2106
+Processed batch ending at query 900 out of 12450, Total time since start: 0.00 seconds
+Running Metrics: Average Recall: 0.3267 | Average MRR: 0.1710 | Average NDCG: 0.2086
+Processed batch ending at query 950 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3284 | Average MRR: 0.1719 | Average NDCG: 0.2098
+Processed batch ending at query 1000 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3250 | Average MRR: 0.1714 | Average NDCG: 0.2085
+Processed batch ending at query 1050 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3229 | Average MRR: 0.1702 | Average NDCG: 0.2072
+Processed batch ending at query 1100 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3218 | Average MRR: 0.1697 | Average NDCG: 0.2066
+Processed batch ending at query 1150 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3217 | Average MRR: 0.1690 | Average NDCG: 0.2060
+Processed batch ending at query 1200 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3200 | Average MRR: 0.1672 | Average NDCG: 0.2042
+Processed batch ending at query 1250 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3224 | Average MRR: 0.1678 | Average NDCG: 0.2053
+Processed batch ending at query 1300 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3246 | Average MRR: 0.1707 | Average NDCG: 0.2080
+Processed batch ending at query 1350 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3230 | Average MRR: 0.1692 | Average NDCG: 0.2065
+Processed batch ending at query 1400 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3214 | Average MRR: 0.1675 | Average NDCG: 0.2048
+Processed batch ending at query 1450 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3207 | Average MRR: 0.1667 | Average NDCG: 0.2041
+Processed batch ending at query 1500 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3200 | Average MRR: 0.1678 | Average NDCG: 0.2048
+Processed batch ending at query 1550 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3174 | Average MRR: 0.1660 | Average NDCG: 0.2028
+Processed batch ending at query 1600 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3162 | Average MRR: 0.1661 | Average NDCG: 0.2026
+Processed batch ending at query 1650 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3170 | Average MRR: 0.1672 | Average NDCG: 0.2036
+Processed batch ending at query 1700 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3141 | Average MRR: 0.1668 | Average NDCG: 0.2026
+Processed batch ending at query 1750 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3177 | Average MRR: 0.1682 | Average NDCG: 0.2045
+Processed batch ending at query 1800 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3172 | Average MRR: 0.1673 | Average NDCG: 0.2037
+Processed batch ending at query 1850 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3184 | Average MRR: 0.1684 | Average NDCG: 0.2048
+Processed batch ending at query 1900 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3142 | Average MRR: 0.1670 | Average NDCG: 0.2027
+Processed batch ending at query 1950 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3154 | Average MRR: 0.1671 | Average NDCG: 0.2031
+Processed batch ending at query 2000 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3170 | Average MRR: 0.1684 | Average NDCG: 0.2044
+Processed batch ending at query 2050 out of 12450, Total time since start: 0.01 seconds
+Running Metrics: Average Recall: 0.3156 | Average MRR: 0.1680 | Average NDCG: 0.2038
+Processed batch ending at query 2100 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3181 | Average MRR: 0.1679 | Average NDCG: 0.2043
+Processed batch ending at query 2150 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3167 | Average MRR: 0.1677 | Average NDCG: 0.2038
+Processed batch ending at query 2200 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3186 | Average MRR: 0.1680 | Average NDCG: 0.2045
+Processed batch ending at query 2250 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3178 | Average MRR: 0.1674 | Average NDCG: 0.2038
+Processed batch ending at query 2300 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3161 | Average MRR: 0.1668 | Average NDCG: 0.2030
+Processed batch ending at query 2350 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3162 | Average MRR: 0.1671 | Average NDCG: 0.2032
+Processed batch ending at query 2400 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3162 | Average MRR: 0.1660 | Average NDCG: 0.2024
+Processed batch ending at query 2450 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3180 | Average MRR: 0.1660 | Average NDCG: 0.2028
+Processed batch ending at query 2500 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3176 | Average MRR: 0.1658 | Average NDCG: 0.2026
+Processed batch ending at query 2550 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3176 | Average MRR: 0.1660 | Average NDCG: 0.2028
+Processed batch ending at query 2600 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3177 | Average MRR: 0.1657 | Average NDCG: 0.2025
+Processed batch ending at query 2650 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3181 | Average MRR: 0.1651 | Average NDCG: 0.2022
+Processed batch ending at query 2700 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3185 | Average MRR: 0.1659 | Average NDCG: 0.2028
+Processed batch ending at query 2750 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3207 | Average MRR: 0.1671 | Average NDCG: 0.2043
+Processed batch ending at query 2800 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3186 | Average MRR: 0.1668 | Average NDCG: 0.2035
+Processed batch ending at query 2850 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3186 | Average MRR: 0.1668 | Average NDCG: 0.2036
+Processed batch ending at query 2900 out of 12450, Total time since start: 0.02 seconds
+Running Metrics: Average Recall: 0.3190 | Average MRR: 0.1674 | Average NDCG: 0.2042
+Processed batch ending at query 2950 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3207 | Average MRR: 0.1677 | Average NDCG: 0.2048
+Processed batch ending at query 3000 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3200 | Average MRR: 0.1672 | Average NDCG: 0.2043
+Processed batch ending at query 3050 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3207 | Average MRR: 0.1667 | Average NDCG: 0.2041
+Processed batch ending at query 3100 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3181 | Average MRR: 0.1652 | Average NDCG: 0.2023
+Processed batch ending at query 3150 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3168 | Average MRR: 0.1645 | Average NDCG: 0.2014
+Processed batch ending at query 3200 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3169 | Average MRR: 0.1648 | Average NDCG: 0.2017
+Processed batch ending at query 3250 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3172 | Average MRR: 0.1651 | Average NDCG: 0.2020
+Processed batch ending at query 3300 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3161 | Average MRR: 0.1647 | Average NDCG: 0.2014
+Processed batch ending at query 3350 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3152 | Average MRR: 0.1649 | Average NDCG: 0.2014
+Processed batch ending at query 3400 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3153 | Average MRR: 0.1651 | Average NDCG: 0.2015
+Processed batch ending at query 3450 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3162 | Average MRR: 0.1646 | Average NDCG: 0.2014
+Processed batch ending at query 3500 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3166 | Average MRR: 0.1644 | Average NDCG: 0.2013
+Processed batch ending at query 3550 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3161 | Average MRR: 0.1639 | Average NDCG: 0.2008
+Processed batch ending at query 3600 out of 12450, Total time since start: 0.03 seconds
+Running Metrics: Average Recall: 0.3142 | Average MRR: 0.1637 | Average NDCG: 0.2002
+Processed batch ending at query 3650 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3134 | Average MRR: 0.1636 | Average NDCG: 0.1999
+Processed batch ending at query 3700 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3135 | Average MRR: 0.1640 | Average NDCG: 0.2002
+Processed batch ending at query 3750 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3133 | Average MRR: 0.1643 | Average NDCG: 0.2004
+Processed batch ending at query 3800 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3126 | Average MRR: 0.1639 | Average NDCG: 0.1999
+Processed batch ending at query 3850 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3125 | Average MRR: 0.1633 | Average NDCG: 0.1995
+Processed batch ending at query 3900 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3118 | Average MRR: 0.1629 | Average NDCG: 0.1990
+Processed batch ending at query 3950 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3101 | Average MRR: 0.1621 | Average NDCG: 0.1980
+Processed batch ending at query 4000 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3110 | Average MRR: 0.1623 | Average NDCG: 0.1984
+Processed batch ending at query 4050 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3104 | Average MRR: 0.1627 | Average NDCG: 0.1985
+Processed batch ending at query 4100 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3110 | Average MRR: 0.1632 | Average NDCG: 0.1991
+Processed batch ending at query 4150 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3116 | Average MRR: 0.1636 | Average NDCG: 0.1995
+Processed batch ending at query 4200 out of 12450, Total time since start: 0.04 seconds
+Running Metrics: Average Recall: 0.3105 | Average MRR: 0.1634 | Average NDCG: 0.1991
+Processed batch ending at query 4250 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3101 | Average MRR: 0.1635 | Average NDCG: 0.1990
+Processed batch ending at query 4300 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3100 | Average MRR: 0.1636 | Average NDCG: 0.1991
+Processed batch ending at query 4350 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3097 | Average MRR: 0.1637 | Average NDCG: 0.1991
+Processed batch ending at query 4400 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3102 | Average MRR: 0.1640 | Average NDCG: 0.1995
+Processed batch ending at query 4450 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3101 | Average MRR: 0.1646 | Average NDCG: 0.1998
+Processed batch ending at query 4500 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3111 | Average MRR: 0.1648 | Average NDCG: 0.2003
+Processed batch ending at query 4550 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3108 | Average MRR: 0.1649 | Average NDCG: 0.2003
+Processed batch ending at query 4600 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3104 | Average MRR: 0.1644 | Average NDCG: 0.1998
+Processed batch ending at query 4650 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3101 | Average MRR: 0.1647 | Average NDCG: 0.1999
+Processed batch ending at query 4700 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3100 | Average MRR: 0.1648 | Average NDCG: 0.2000
+Processed batch ending at query 4750 out of 12450, Total time since start: 0.05 seconds
+Running Metrics: Average Recall: 0.3099 | Average MRR: 0.1649 | Average NDCG: 0.2000
+Processed batch ending at query 4800 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3104 | Average MRR: 0.1649 | Average NDCG: 0.2002
+Processed batch ending at query 4850 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3103 | Average MRR: 0.1645 | Average NDCG: 0.1999
+Processed batch ending at query 4900 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3096 | Average MRR: 0.1640 | Average NDCG: 0.1993
+Processed batch ending at query 4950 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3095 | Average MRR: 0.1635 | Average NDCG: 0.1989
+Processed batch ending at query 5000 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3084 | Average MRR: 0.1631 | Average NDCG: 0.1983
+Processed batch ending at query 5050 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3077 | Average MRR: 0.1630 | Average NDCG: 0.1981
+Processed batch ending at query 5100 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3084 | Average MRR: 0.1635 | Average NDCG: 0.1986
+Processed batch ending at query 5150 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3085 | Average MRR: 0.1630 | Average NDCG: 0.1983
+Processed batch ending at query 5200 out of 12450, Total time since start: 0.06 seconds
+Running Metrics: Average Recall: 0.3083 | Average MRR: 0.1626 | Average NDCG: 0.1979
+Processed batch ending at query 5250 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3090 | Average MRR: 0.1626 | Average NDCG: 0.1980
+Processed batch ending at query 5300 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3089 | Average MRR: 0.1625 | Average NDCG: 0.1979
+Processed batch ending at query 5350 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3097 | Average MRR: 0.1631 | Average NDCG: 0.1986
+Processed batch ending at query 5400 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3098 | Average MRR: 0.1632 | Average NDCG: 0.1987
+Processed batch ending at query 5450 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3101 | Average MRR: 0.1635 | Average NDCG: 0.1990
+Processed batch ending at query 5500 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3102 | Average MRR: 0.1635 | Average NDCG: 0.1990
+Processed batch ending at query 5550 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3110 | Average MRR: 0.1642 | Average NDCG: 0.1997
+Processed batch ending at query 5600 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3118 | Average MRR: 0.1648 | Average NDCG: 0.2004
+Processed batch ending at query 5650 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3115 | Average MRR: 0.1643 | Average NDCG: 0.2000
+Processed batch ending at query 5700 out of 12450, Total time since start: 0.07 seconds
+Running Metrics: Average Recall: 0.3109 | Average MRR: 0.1641 | Average NDCG: 0.1996
+Processed batch ending at query 5750 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3103 | Average MRR: 0.1641 | Average NDCG: 0.1994
+Processed batch ending at query 5800 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3102 | Average MRR: 0.1641 | Average NDCG: 0.1995
+Processed batch ending at query 5850 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3111 | Average MRR: 0.1646 | Average NDCG: 0.2000
+Processed batch ending at query 5900 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3107 | Average MRR: 0.1642 | Average NDCG: 0.1996
+Processed batch ending at query 5950 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3111 | Average MRR: 0.1639 | Average NDCG: 0.1995
+Processed batch ending at query 6000 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3108 | Average MRR: 0.1638 | Average NDCG: 0.1994
+Processed batch ending at query 6050 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3114 | Average MRR: 0.1643 | Average NDCG: 0.1999
+Processed batch ending at query 6100 out of 12450, Total time since start: 0.08 seconds
+Running Metrics: Average Recall: 0.3111 | Average MRR: 0.1644 | Average NDCG: 0.1999
+Processed batch ending at query 6150 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3119 | Average MRR: 0.1648 | Average NDCG: 0.2003
+Processed batch ending at query 6200 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3116 | Average MRR: 0.1643 | Average NDCG: 0.1999
+Processed batch ending at query 6250 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3125 | Average MRR: 0.1641 | Average NDCG: 0.2000
+Processed batch ending at query 6300 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3130 | Average MRR: 0.1641 | Average NDCG: 0.2001
+Processed batch ending at query 6350 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3123 | Average MRR: 0.1638 | Average NDCG: 0.1997
+Processed batch ending at query 6400 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3116 | Average MRR: 0.1634 | Average NDCG: 0.1992
+Processed batch ending at query 6450 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3116 | Average MRR: 0.1633 | Average NDCG: 0.1992
+Processed batch ending at query 6500 out of 12450, Total time since start: 0.09 seconds
+Running Metrics: Average Recall: 0.3109 | Average MRR: 0.1629 | Average NDCG: 0.1986
+Processed batch ending at query 6550 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3108 | Average MRR: 0.1628 | Average NDCG: 0.1986
+Processed batch ending at query 6600 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3100 | Average MRR: 0.1624 | Average NDCG: 0.1980
+Processed batch ending at query 6650 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3104 | Average MRR: 0.1627 | Average NDCG: 0.1984
+Processed batch ending at query 6700 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3110 | Average MRR: 0.1631 | Average NDCG: 0.1989
+Processed batch ending at query 6750 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3121 | Average MRR: 0.1635 | Average NDCG: 0.1994
+Processed batch ending at query 6800 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3118 | Average MRR: 0.1633 | Average NDCG: 0.1991
+Processed batch ending at query 6850 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3118 | Average MRR: 0.1632 | Average NDCG: 0.1991
+Processed batch ending at query 6900 out of 12450, Total time since start: 0.10 seconds
+Running Metrics: Average Recall: 0.3116 | Average MRR: 0.1632 | Average NDCG: 0.1990
+Processed batch ending at query 6950 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3111 | Average MRR: 0.1630 | Average NDCG: 0.1988
+Processed batch ending at query 7000 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3104 | Average MRR: 0.1628 | Average NDCG: 0.1985
+Processed batch ending at query 7050 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3096 | Average MRR: 0.1623 | Average NDCG: 0.1979
+Processed batch ending at query 7100 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3090 | Average MRR: 0.1621 | Average NDCG: 0.1976
+Processed batch ending at query 7150 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3095 | Average MRR: 0.1624 | Average NDCG: 0.1980
+Processed batch ending at query 7200 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3090 | Average MRR: 0.1622 | Average NDCG: 0.1977
+Processed batch ending at query 7250 out of 12450, Total time since start: 0.11 seconds
+Running Metrics: Average Recall: 0.3091 | Average MRR: 0.1624 | Average NDCG: 0.1978
+Processed batch ending at query 7300 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3084 | Average MRR: 0.1619 | Average NDCG: 0.1973
+Processed batch ending at query 7350 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3082 | Average MRR: 0.1618 | Average NDCG: 0.1971
+Processed batch ending at query 7400 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3080 | Average MRR: 0.1615 | Average NDCG: 0.1969
+Processed batch ending at query 7450 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3079 | Average MRR: 0.1614 | Average NDCG: 0.1968
+Processed batch ending at query 7500 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3075 | Average MRR: 0.1614 | Average NDCG: 0.1967
+Processed batch ending at query 7550 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3073 | Average MRR: 0.1612 | Average NDCG: 0.1965
+Processed batch ending at query 7600 out of 12450, Total time since start: 0.12 seconds
+Running Metrics: Average Recall: 0.3078 | Average MRR: 0.1617 | Average NDCG: 0.1970
+Processed batch ending at query 7650 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3081 | Average MRR: 0.1619 | Average NDCG: 0.1972
+Processed batch ending at query 7700 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3081 | Average MRR: 0.1620 | Average NDCG: 0.1973
+Processed batch ending at query 7750 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3077 | Average MRR: 0.1619 | Average NDCG: 0.1971
+Processed batch ending at query 7800 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3074 | Average MRR: 0.1614 | Average NDCG: 0.1967
+Processed batch ending at query 7850 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3071 | Average MRR: 0.1610 | Average NDCG: 0.1963
+Processed batch ending at query 7900 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3070 | Average MRR: 0.1612 | Average NDCG: 0.1964
+Processed batch ending at query 7950 out of 12450, Total time since start: 0.13 seconds
+Running Metrics: Average Recall: 0.3073 | Average MRR: 0.1616 | Average NDCG: 0.1968
+Processed batch ending at query 8000 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3074 | Average MRR: 0.1615 | Average NDCG: 0.1968
+Processed batch ending at query 8050 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3066 | Average MRR: 0.1611 | Average NDCG: 0.1963
+Processed batch ending at query 8100 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3069 | Average MRR: 0.1611 | Average NDCG: 0.1963
+Processed batch ending at query 8150 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3069 | Average MRR: 0.1611 | Average NDCG: 0.1963
+Processed batch ending at query 8200 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3074 | Average MRR: 0.1611 | Average NDCG: 0.1964
+Processed batch ending at query 8250 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3076 | Average MRR: 0.1612 | Average NDCG: 0.1966
+Processed batch ending at query 8300 out of 12450, Total time since start: 0.14 seconds
+Running Metrics: Average Recall: 0.3076 | Average MRR: 0.1613 | Average NDCG: 0.1966
+Processed batch ending at query 8350 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3077 | Average MRR: 0.1612 | Average NDCG: 0.1965
+Processed batch ending at query 8400 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3076 | Average MRR: 0.1610 | Average NDCG: 0.1964
+Processed batch ending at query 8450 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3072 | Average MRR: 0.1610 | Average NDCG: 0.1963
+Processed batch ending at query 8500 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3068 | Average MRR: 0.1608 | Average NDCG: 0.1961
+Processed batch ending at query 8550 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3069 | Average MRR: 0.1608 | Average NDCG: 0.1961
+Processed batch ending at query 8600 out of 12450, Total time since start: 0.15 seconds
+Running Metrics: Average Recall: 0.3066 | Average MRR: 0.1607 | Average NDCG: 0.1959
+Processed batch ending at query 8650 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3064 | Average MRR: 0.1603 | Average NDCG: 0.1956
+Processed batch ending at query 8700 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3056 | Average MRR: 0.1601 | Average NDCG: 0.1952
+Processed batch ending at query 8750 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1597 | Average NDCG: 0.1948
+Processed batch ending at query 8800 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3052 | Average MRR: 0.1597 | Average NDCG: 0.1948
+Processed batch ending at query 8850 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3055 | Average MRR: 0.1598 | Average NDCG: 0.1950
+Processed batch ending at query 8900 out of 12450, Total time since start: 0.16 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1597 | Average NDCG: 0.1948
+Processed batch ending at query 8950 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3057 | Average MRR: 0.1601 | Average NDCG: 0.1952
+Processed batch ending at query 9000 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1598 | Average NDCG: 0.1949
+Processed batch ending at query 9050 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1596 | Average NDCG: 0.1948
+Processed batch ending at query 9100 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3057 | Average MRR: 0.1597 | Average NDCG: 0.1950
+Processed batch ending at query 9150 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3057 | Average MRR: 0.1595 | Average NDCG: 0.1948
+Processed batch ending at query 9200 out of 12450, Total time since start: 0.17 seconds
+Running Metrics: Average Recall: 0.3058 | Average MRR: 0.1595 | Average NDCG: 0.1948
+Processed batch ending at query 9250 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3052 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 9300 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3055 | Average MRR: 0.1592 | Average NDCG: 0.1945
+Processed batch ending at query 9350 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 9400 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1590 | Average NDCG: 0.1943
+Processed batch ending at query 9450 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1591 | Average NDCG: 0.1943
+Processed batch ending at query 9500 out of 12450, Total time since start: 0.18 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1590 | Average NDCG: 0.1941
+Processed batch ending at query 9550 out of 12450, Total time since start: 0.19 seconds
+Running Metrics: Average Recall: 0.3046 | Average MRR: 0.1590 | Average NDCG: 0.1941
+Processed batch ending at query 9600 out of 12450, Total time since start: 0.19 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1592 | Average NDCG: 0.1944
+Processed batch ending at query 9650 out of 12450, Total time since start: 0.19 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1593 | Average NDCG: 0.1944
+Processed batch ending at query 9700 out of 12450, Total time since start: 0.19 seconds
+Running Metrics: Average Recall: 0.3041 | Average MRR: 0.1590 | Average NDCG: 0.1941
+Processed batch ending at query 9750 out of 12450, Total time since start: 0.19 seconds
+Running Metrics: Average Recall: 0.3045 | Average MRR: 0.1591 | Average NDCG: 0.1942
+Processed batch ending at query 9800 out of 12450, Total time since start: 0.20 seconds
+Running Metrics: Average Recall: 0.3044 | Average MRR: 0.1590 | Average NDCG: 0.1941
+Processed batch ending at query 9850 out of 12450, Total time since start: 0.20 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1591 | Average NDCG: 0.1943
+Processed batch ending at query 9900 out of 12450, Total time since start: 0.20 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1590 | Average NDCG: 0.1942
+Processed batch ending at query 9950 out of 12450, Total time since start: 0.20 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1587 | Average NDCG: 0.1939
+Processed batch ending at query 10000 out of 12450, Total time since start: 0.20 seconds
+Running Metrics: Average Recall: 0.3046 | Average MRR: 0.1585 | Average NDCG: 0.1937
+Processed batch ending at query 10050 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1586 | Average NDCG: 0.1940
+Processed batch ending at query 10100 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3056 | Average MRR: 0.1588 | Average NDCG: 0.1942
+Processed batch ending at query 10150 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1585 | Average NDCG: 0.1939
+Processed batch ending at query 10200 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1585 | Average NDCG: 0.1938
+Processed batch ending at query 10250 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1588 | Average NDCG: 0.1941
+Processed batch ending at query 10300 out of 12450, Total time since start: 0.21 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1589 | Average NDCG: 0.1942
+Processed batch ending at query 10350 out of 12450, Total time since start: 0.22 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1589 | Average NDCG: 0.1942
+Processed batch ending at query 10400 out of 12450, Total time since start: 0.22 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1588 | Average NDCG: 0.1941
+Processed batch ending at query 10450 out of 12450, Total time since start: 0.22 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 10500 out of 12450, Total time since start: 0.22 seconds
+Running Metrics: Average Recall: 0.3055 | Average MRR: 0.1592 | Average NDCG: 0.1945
+Processed batch ending at query 10550 out of 12450, Total time since start: 0.22 seconds
+Running Metrics: Average Recall: 0.3054 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 10600 out of 12450, Total time since start: 0.23 seconds
+Running Metrics: Average Recall: 0.3054 | Average MRR: 0.1590 | Average NDCG: 0.1944
+Processed batch ending at query 10650 out of 12450, Total time since start: 0.23 seconds
+Running Metrics: Average Recall: 0.3052 | Average MRR: 0.1588 | Average NDCG: 0.1941
+Processed batch ending at query 10700 out of 12450, Total time since start: 0.23 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1586 | Average NDCG: 0.1939
+Processed batch ending at query 10750 out of 12450, Total time since start: 0.23 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1586 | Average NDCG: 0.1939
+Processed batch ending at query 10800 out of 12450, Total time since start: 0.23 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1584 | Average NDCG: 0.1938
+Processed batch ending at query 10850 out of 12450, Total time since start: 0.24 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1585 | Average NDCG: 0.1939
+Processed batch ending at query 10900 out of 12450, Total time since start: 0.24 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1585 | Average NDCG: 0.1938
+Processed batch ending at query 10950 out of 12450, Total time since start: 0.24 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1586 | Average NDCG: 0.1939
+Processed batch ending at query 11000 out of 12450, Total time since start: 0.24 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1588 | Average NDCG: 0.1942
+Processed batch ending at query 11050 out of 12450, Total time since start: 0.24 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1587 | Average NDCG: 0.1941
+Processed batch ending at query 11100 out of 12450, Total time since start: 0.25 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1586 | Average NDCG: 0.1940
+Processed batch ending at query 11150 out of 12450, Total time since start: 0.25 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1587 | Average NDCG: 0.1940
+Processed batch ending at query 11200 out of 12450, Total time since start: 0.25 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 11250 out of 12450, Total time since start: 0.25 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1590 | Average NDCG: 0.1943
+Processed batch ending at query 11300 out of 12450, Total time since start: 0.25 seconds
+Running Metrics: Average Recall: 0.3052 | Average MRR: 0.1590 | Average NDCG: 0.1944
+Processed batch ending at query 11350 out of 12450, Total time since start: 0.26 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1591 | Average NDCG: 0.1943
+Processed batch ending at query 11400 out of 12450, Total time since start: 0.26 seconds
+Running Metrics: Average Recall: 0.3046 | Average MRR: 0.1589 | Average NDCG: 0.1941
+Processed batch ending at query 11450 out of 12450, Total time since start: 0.26 seconds
+Running Metrics: Average Recall: 0.3046 | Average MRR: 0.1590 | Average NDCG: 0.1942
+Processed batch ending at query 11500 out of 12450, Total time since start: 0.26 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1589 | Average NDCG: 0.1942
+Processed batch ending at query 11550 out of 12450, Total time since start: 0.26 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1590 | Average NDCG: 0.1942
+Processed batch ending at query 11600 out of 12450, Total time since start: 0.27 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1591 | Average NDCG: 0.1944
+Processed batch ending at query 11650 out of 12450, Total time since start: 0.27 seconds
+Running Metrics: Average Recall: 0.3048 | Average MRR: 0.1590 | Average NDCG: 0.1942
+Processed batch ending at query 11700 out of 12450, Total time since start: 0.27 seconds
+Running Metrics: Average Recall: 0.3047 | Average MRR: 0.1588 | Average NDCG: 0.1941
+Processed batch ending at query 11750 out of 12450, Total time since start: 0.27 seconds
+Running Metrics: Average Recall: 0.3046 | Average MRR: 0.1588 | Average NDCG: 0.1940
+Processed batch ending at query 11800 out of 12450, Total time since start: 0.28 seconds
+Running Metrics: Average Recall: 0.3045 | Average MRR: 0.1586 | Average NDCG: 0.1938
+Processed batch ending at query 11850 out of 12450, Total time since start: 0.28 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1589 | Average NDCG: 0.1942
+Processed batch ending at query 11900 out of 12450, Total time since start: 0.28 seconds
+Running Metrics: Average Recall: 0.3054 | Average MRR: 0.1592 | Average NDCG: 0.1945
+Processed batch ending at query 11950 out of 12450, Total time since start: 0.28 seconds
+Running Metrics: Average Recall: 0.3054 | Average MRR: 0.1590 | Average NDCG: 0.1944
+Processed batch ending at query 12000 out of 12450, Total time since start: 0.28 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1588 | Average NDCG: 0.1942
+Processed batch ending at query 12050 out of 12450, Total time since start: 0.29 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1589 | Average NDCG: 0.1942
+Processed batch ending at query 12100 out of 12450, Total time since start: 0.29 seconds
+Running Metrics: Average Recall: 0.3053 | Average MRR: 0.1589 | Average NDCG: 0.1943
+Processed batch ending at query 12150 out of 12450, Total time since start: 0.29 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1586 | Average NDCG: 0.1940
+Processed batch ending at query 12200 out of 12450, Total time since start: 0.29 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1585 | Average NDCG: 0.1939
+Processed batch ending at query 12250 out of 12450, Total time since start: 0.29 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1586 | Average NDCG: 0.1940
+Processed batch ending at query 12300 out of 12450, Total time since start: 0.30 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1586 | Average NDCG: 0.1940
+Processed batch ending at query 12350 out of 12450, Total time since start: 0.30 seconds
+Running Metrics: Average Recall: 0.3049 | Average MRR: 0.1585 | Average NDCG: 0.1939
+Processed batch ending at query 12400 out of 12450, Total time since start: 0.30 seconds
+Running Metrics: Average Recall: 0.3051 | Average MRR: 0.1585 | Average NDCG: 0.1939
+Processed batch ending at query 12450 out of 12450, Total time since start: 0.30 seconds
+Running Metrics: Average Recall: 0.3050 | Average MRR: 0.1583 | Average NDCG: 0.1938
+Overall Metrics:
+{'Recall': 0.30497991967871485, 'MRR': 0.15834455281443235, 'NDCG': 0.19377601180350645, 'count': 12450}
+Done Evaluating for True_Query Only-False_Rerank-256-64-Infly-ChromaDB-Bread-10-top_10
