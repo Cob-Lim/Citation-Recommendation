@@ -1,0 +1,292 @@
+2025-03-15 16:51:45.842976: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Datasets loaded.
+Checkpoint and Model Saves directories created successfully.
+BART Configurations loaded.
+Map:   0%|          | 0/49367 [00:00<?, ? examples/s]Map:   2%|▏         | 1000/49367 [00:02<01:41, 475.50 examples/s]Map:   4%|▍         | 2000/49367 [00:03<01:30, 525.04 examples/s]Map:   6%|▌         | 3000/49367 [00:05<01:24, 546.90 examples/s]Map:   8%|▊         | 4000/49367 [00:07<01:20, 561.44 examples/s]Map:  10%|█         | 5000/49367 [00:09<01:19, 560.59 examples/s]Map:  12%|█▏        | 6000/49367 [00:10<01:18, 554.26 examples/s]Map:  14%|█▍        | 7000/49367 [00:12<01:14, 571.76 examples/s]Map:  16%|█▌        | 8000/49367 [00:14<01:11, 579.05 examples/s]Map:  18%|█▊        | 9000/49367 [00:15<01:09, 582.05 examples/s]Map:  20%|██        | 10000/49367 [00:17<01:06, 591.20 examples/s]Map:  22%|██▏       | 11000/49367 [00:19<01:04, 598.35 examples/s]Map:  24%|██▍       | 12000/49367 [00:20<01:02, 599.16 examples/s]Map:  26%|██▋       | 13000/49367 [00:22<01:00, 604.93 examples/s]Map:  28%|██▊       | 14000/49367 [00:24<00:58, 608.24 examples/s]Map:  30%|███       | 15000/49367 [00:25<00:56, 609.90 examples/s]Map:  32%|███▏      | 16000/49367 [00:27<00:54, 613.38 examples/s]Map:  34%|███▍      | 17000/49367 [00:28<00:52, 615.34 examples/s]Map:  36%|███▋      | 18000/49367 [00:30<00:50, 617.71 examples/s]Map:  38%|███▊      | 19000/49367 [00:32<00:50, 595.79 examples/s]Map:  41%|████      | 20000/49367 [00:33<00:48, 604.31 examples/s]Map:  43%|████▎     | 21000/49367 [00:35<00:47, 602.12 examples/s]Map:  45%|████▍     | 22000/49367 [00:37<00:44, 609.00 examples/s]Map:  47%|████▋     | 23000/49367 [00:38<00:42, 614.68 examples/s]Map:  49%|████▊     | 24000/49367 [00:40<00:41, 608.81 examples/s]Map:  51%|█████     | 25000/49367 [00:42<00:39, 613.68 examples/s]Map:  53%|█████▎    | 26000/49367 [00:43<00:38, 614.30 examples/s]Map:  55%|█████▍    | 27000/49367 [00:45<00:36, 616.52 examples/s]Map:  57%|█████▋    | 28000/49367 [00:46<00:34, 619.77 examples/s]Map:  59%|█████▊    | 29000/49367 [00:48<00:32, 622.49 examples/s]Map:  61%|██████    | 30000/49367 [00:50<00:31, 624.16 examples/s]Map:  63%|██████▎   | 31000/49367 [00:51<00:29, 627.20 examples/s]Map:  65%|██████▍   | 32000/49367 [00:53<00:27, 628.86 examples/s]Map:  67%|██████▋   | 33000/49367 [00:54<00:25, 630.75 examples/s]Map:  69%|██████▉   | 34000/49367 [00:56<00:24, 629.91 examples/s]Map:  71%|███████   | 35000/49367 [00:58<00:22, 631.35 examples/s]Map:  73%|███████▎  | 36000/49367 [00:59<00:21, 631.84 examples/s]Map:  75%|███████▍  | 37000/49367 [01:01<00:19, 632.84 examples/s]Map:  77%|███████▋  | 38000/49367 [01:02<00:17, 633.81 examples/s]Map:  79%|███████▉  | 39000/49367 [01:04<00:16, 634.37 examples/s]Map:  81%|████████  | 40000/49367 [01:05<00:14, 632.89 examples/s]Map:  83%|████████▎ | 41000/49367 [01:07<00:13, 633.82 examples/s]Map:  85%|████████▌ | 42000/49367 [01:09<00:11, 633.61 examples/s]Map:  87%|████████▋ | 43000/49367 [01:10<00:10, 633.62 examples/s]Map:  89%|████████▉ | 44000/49367 [01:12<00:08, 633.93 examples/s]Map:  91%|█████████ | 45000/49367 [01:13<00:06, 632.77 examples/s]Map:  93%|█████████▎| 46000/49367 [01:15<00:05, 633.30 examples/s]Map:  95%|█████████▌| 47000/49367 [01:17<00:03, 614.20 examples/s]Map:  97%|█████████▋| 48000/49367 [01:18<00:02, 619.59 examples/s]Map:  99%|█████████▉| 49000/49367 [01:20<00:00, 624.22 examples/s]Map: 100%|██████████| 49367/49367 [01:20<00:00, 626.17 examples/s]Map: 100%|██████████| 49367/49367 [01:20<00:00, 610.37 examples/s]
+Map:   0%|          | 0/12450 [00:00<?, ? examples/s]Map:   8%|▊         | 1000/12450 [00:02<00:23, 482.47 examples/s]Map:  16%|█▌        | 2000/12450 [00:03<00:19, 526.51 examples/s]Map:  24%|██▍       | 3000/12450 [00:05<00:17, 547.73 examples/s]Map:  32%|███▏      | 4000/12450 [00:07<00:15, 563.18 examples/s]Map:  40%|████      | 5000/12450 [00:08<00:12, 573.30 examples/s]Map:  48%|████▊     | 6000/12450 [00:10<00:11, 545.47 examples/s]Map:  56%|█████▌    | 7000/12450 [00:13<00:10, 509.96 examples/s]Map:  64%|██████▍   | 8000/12450 [00:14<00:08, 539.04 examples/s]Map:  72%|███████▏  | 9000/12450 [00:16<00:06, 560.12 examples/s]Map:  80%|████████  | 10000/12450 [00:18<00:04, 570.95 examples/s]Map:  88%|████████▊ | 11000/12450 [00:19<00:02, 577.99 examples/s]Map:  96%|█████████▋| 12000/12450 [00:21<00:00, 575.80 examples/s]Map: 100%|██████████| 12450/12450 [00:22<00:00, 576.61 examples/s]Map: 100%|██████████| 12450/12450 [00:22<00:00, 556.96 examples/s]
+Datasets tokenized successfully.
+/opt/conda/lib/python3.12/site-packages/transformers/training_args.py:1594: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+/home/ubuntu/CiteBART/Final_CiteBART_Run/CiteBART_final_global_acl_200_run.py:286: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.
+  trainer = Trainer(
+Training parameters initialized.
+Starting training...or not?
+Found 0 checkpoint folder(s) out of 15 epochs expected.
+{'loss': 2.2839, 'grad_norm': 0.25160878896713257, 'learning_rate': 1.9891381089447674e-05, 'epoch': 0.1620482903905364}
+{'loss': 0.0416, 'grad_norm': 0.16895608603954315, 'learning_rate': 1.967414326834302e-05, 'epoch': 0.3240965807810728}
+{'loss': 0.0372, 'grad_norm': 0.2306593954563141, 'learning_rate': 1.9456905447238367e-05, 'epoch': 0.48614487117160915}
+{'loss': 0.0332, 'grad_norm': 0.19372443854808807, 'learning_rate': 1.923966762613371e-05, 'epoch': 0.6481931615621456}
+{'loss': 0.0304, 'grad_norm': 0.19436514377593994, 'learning_rate': 1.9022429805029056e-05, 'epoch': 0.8102414519526819}
+{'loss': 0.0283, 'grad_norm': 0.1471826732158661, 'learning_rate': 1.88051919839244e-05, 'epoch': 0.9722897423432183}
+{'eval_loss': 0.02433652989566326, 'eval_runtime': 252.6292, 'eval_samples_per_second': 49.282, 'eval_steps_per_second': 6.163, 'epoch': 1.0}
+/opt/conda/lib/python3.12/site-packages/transformers/modeling_utils.py:2810: UserWarning: Moving the following attributes in the config to the generation config: {'early_stopping': True, 'num_beams': 4, 'no_repeat_ngram_size': 3, 'forced_bos_token_id': 0}. You are seeing this warning because you've set generation parameters in the model config, as opposed to in the generation config.
+  warnings.warn(
+{'loss': 0.0259, 'grad_norm': 0.19236184656620026, 'learning_rate': 1.858795416281975e-05, 'epoch': 1.1343380327337547}
+{'loss': 0.0242, 'grad_norm': 0.23473885655403137, 'learning_rate': 1.8370716341715094e-05, 'epoch': 1.296386323124291}
+{'loss': 0.0231, 'grad_norm': 0.19413891434669495, 'learning_rate': 1.815347852061044e-05, 'epoch': 1.4584346135148274}
+{'loss': 0.0218, 'grad_norm': 0.13515573740005493, 'learning_rate': 1.7936240699505784e-05, 'epoch': 1.6204829039053639}
+{'loss': 0.0211, 'grad_norm': 0.2065608650445938, 'learning_rate': 1.771900287840113e-05, 'epoch': 1.7825311942959001}
+{'loss': 0.0203, 'grad_norm': 0.19255134463310242, 'learning_rate': 1.7501765057296476e-05, 'epoch': 1.9445794846864366}
+{'eval_loss': 0.01802067458629608, 'eval_runtime': 252.5811, 'eval_samples_per_second': 49.291, 'eval_steps_per_second': 6.164, 'epoch': 2.0}
+{'loss': 0.0187, 'grad_norm': 0.16426971554756165, 'learning_rate': 1.728452723619182e-05, 'epoch': 2.106627775076973}
+{'loss': 0.0177, 'grad_norm': 0.19902588427066803, 'learning_rate': 1.7067289415087166e-05, 'epoch': 2.2686760654675093}
+{'loss': 0.0171, 'grad_norm': 0.27025365829467773, 'learning_rate': 1.6850051593982514e-05, 'epoch': 2.430724355858046}
+{'loss': 0.0169, 'grad_norm': 0.16804049909114838, 'learning_rate': 1.663281377287786e-05, 'epoch': 2.592772646248582}
+{'loss': 0.0162, 'grad_norm': 0.23252253234386444, 'learning_rate': 1.6415575951773207e-05, 'epoch': 2.7548209366391183}
+{'loss': 0.0159, 'grad_norm': 0.17025695741176605, 'learning_rate': 1.6198338130668552e-05, 'epoch': 2.916869227029655}
+{'eval_loss': 0.015534908510744572, 'eval_runtime': 255.1817, 'eval_samples_per_second': 48.789, 'eval_steps_per_second': 6.102, 'epoch': 3.0}
+{'loss': 0.0149, 'grad_norm': 0.15139394998550415, 'learning_rate': 1.5981100309563896e-05, 'epoch': 3.0789175174201913}
+{'loss': 0.0137, 'grad_norm': 0.1084212213754654, 'learning_rate': 1.576386248845924e-05, 'epoch': 3.2409658078107277}
+{'loss': 0.0139, 'grad_norm': 0.17071270942687988, 'learning_rate': 1.554662466735459e-05, 'epoch': 3.4030140982012638}
+{'loss': 0.0138, 'grad_norm': 0.21852248907089233, 'learning_rate': 1.5329386846249934e-05, 'epoch': 3.5650623885918002}
+{'loss': 0.0134, 'grad_norm': 0.154988095164299, 'learning_rate': 1.5112149025145279e-05, 'epoch': 3.7271106789823367}
+{'loss': 0.0129, 'grad_norm': 0.18755875527858734, 'learning_rate': 1.4894911204040625e-05, 'epoch': 3.889158969372873}
+{'eval_loss': 0.01406136155128479, 'eval_runtime': 252.2988, 'eval_samples_per_second': 49.346, 'eval_steps_per_second': 6.171, 'epoch': 4.0}
+{'loss': 0.0124, 'grad_norm': 0.12922824919223785, 'learning_rate': 1.467767338293597e-05, 'epoch': 4.05120725976341}
+{'loss': 0.0115, 'grad_norm': 0.17799456417560577, 'learning_rate': 1.4460435561831316e-05, 'epoch': 4.213255550153946}
+{'loss': 0.0112, 'grad_norm': 0.14197109639644623, 'learning_rate': 1.4243197740726661e-05, 'epoch': 4.375303840544483}
+{'loss': 0.0109, 'grad_norm': 0.16040508449077606, 'learning_rate': 1.4025959919622008e-05, 'epoch': 4.537352130935019}
+{'loss': 0.0113, 'grad_norm': 0.06314434856176376, 'learning_rate': 1.3808722098517352e-05, 'epoch': 4.699400421325555}
+{'loss': 0.0111, 'grad_norm': 0.16960297524929047, 'learning_rate': 1.3591484277412699e-05, 'epoch': 4.861448711716092}
+{'eval_loss': 0.012979038991034031, 'eval_runtime': 252.3157, 'eval_samples_per_second': 49.343, 'eval_steps_per_second': 6.171, 'epoch': 5.0}
+{'loss': 0.011, 'grad_norm': 0.1993003785610199, 'learning_rate': 1.3374246456308044e-05, 'epoch': 5.023497002106628}
+{'loss': 0.0092, 'grad_norm': 0.12824486196041107, 'learning_rate': 1.315700863520339e-05, 'epoch': 5.185545292497165}
+{'loss': 0.0094, 'grad_norm': 0.1396390050649643, 'learning_rate': 1.2939770814098735e-05, 'epoch': 5.347593582887701}
+{'loss': 0.0093, 'grad_norm': 0.17252810299396515, 'learning_rate': 1.2722532992994081e-05, 'epoch': 5.509641873278237}
+{'loss': 0.0096, 'grad_norm': 0.11659344285726547, 'learning_rate': 1.2505295171889426e-05, 'epoch': 5.6716901636687735}
+{'loss': 0.0093, 'grad_norm': 0.16376455128192902, 'learning_rate': 1.2288057350784772e-05, 'epoch': 5.83373845405931}
+{'loss': 0.0093, 'grad_norm': 0.13781051337718964, 'learning_rate': 1.2070819529680117e-05, 'epoch': 5.9957867444498465}
+{'eval_loss': 0.01257158350199461, 'eval_runtime': 255.2894, 'eval_samples_per_second': 48.768, 'eval_steps_per_second': 6.099, 'epoch': 6.0}
+{'loss': 0.0078, 'grad_norm': 0.11116541922092438, 'learning_rate': 1.1853581708575464e-05, 'epoch': 6.1578350348403825}
+{'loss': 0.008, 'grad_norm': 0.12014485150575638, 'learning_rate': 1.1636343887470808e-05, 'epoch': 6.319883325230919}
+{'loss': 0.0078, 'grad_norm': 0.1524534970521927, 'learning_rate': 1.1419106066366155e-05, 'epoch': 6.4819316156214555}
+{'loss': 0.008, 'grad_norm': 0.14577265083789825, 'learning_rate': 1.12018682452615e-05, 'epoch': 6.6439799060119915}
+{'loss': 0.0079, 'grad_norm': 0.12538644671440125, 'learning_rate': 1.0984630424156846e-05, 'epoch': 6.8060281964025275}
+{'loss': 0.0078, 'grad_norm': 0.14962375164031982, 'learning_rate': 1.076739260305219e-05, 'epoch': 6.9680764867930645}
+{'eval_loss': 0.012306474149227142, 'eval_runtime': 255.4107, 'eval_samples_per_second': 48.745, 'eval_steps_per_second': 6.096, 'epoch': 7.0}
+{'loss': 0.007, 'grad_norm': 0.1425117403268814, 'learning_rate': 1.0550154781947537e-05, 'epoch': 7.1301247771836005}
+{'loss': 0.0066, 'grad_norm': 0.19948427379131317, 'learning_rate': 1.0332916960842882e-05, 'epoch': 7.292173067574137}
+{'loss': 0.0068, 'grad_norm': 0.13685503602027893, 'learning_rate': 1.011567913973823e-05, 'epoch': 7.4542213579646734}
+{'loss': 0.0068, 'grad_norm': 0.1385304033756256, 'learning_rate': 9.898441318633575e-06, 'epoch': 7.6162696483552095}
+{'loss': 0.0067, 'grad_norm': 0.1293860375881195, 'learning_rate': 9.68120349752892e-06, 'epoch': 7.778317938745746}
+{'loss': 0.0067, 'grad_norm': 0.19004833698272705, 'learning_rate': 9.463965676424266e-06, 'epoch': 7.940366229136282}
+{'eval_loss': 0.012802300974726677, 'eval_runtime': 255.2325, 'eval_samples_per_second': 48.779, 'eval_steps_per_second': 6.1, 'epoch': 8.0}
+{'loss': 0.006, 'grad_norm': 0.14692935347557068, 'learning_rate': 9.24672785531961e-06, 'epoch': 8.10241451952682}
+{'loss': 0.0057, 'grad_norm': 0.13381807506084442, 'learning_rate': 9.029490034214957e-06, 'epoch': 8.264462809917354}
+{'loss': 0.0058, 'grad_norm': 0.15270237624645233, 'learning_rate': 8.812252213110302e-06, 'epoch': 8.426511100307891}
+{'loss': 0.0057, 'grad_norm': 0.2168237715959549, 'learning_rate': 8.595014392005648e-06, 'epoch': 8.588559390698428}
+{'loss': 0.0059, 'grad_norm': 0.1577327847480774, 'learning_rate': 8.377776570900995e-06, 'epoch': 8.750607681088965}
+{'loss': 0.0059, 'grad_norm': 0.15680430829524994, 'learning_rate': 8.160538749796341e-06, 'epoch': 8.9126559714795}
+{'eval_loss': 0.01249992847442627, 'eval_runtime': 255.141, 'eval_samples_per_second': 48.797, 'eval_steps_per_second': 6.103, 'epoch': 9.0}
+{'loss': 0.0055, 'grad_norm': 0.10463249683380127, 'learning_rate': 7.943300928691686e-06, 'epoch': 9.074704261870037}
+{'loss': 0.0049, 'grad_norm': 0.1612909883260727, 'learning_rate': 7.726063107587033e-06, 'epoch': 9.236752552260574}
+{'loss': 0.0049, 'grad_norm': 0.16166657209396362, 'learning_rate': 7.508825286482377e-06, 'epoch': 9.39880084265111}
+{'loss': 0.005, 'grad_norm': 0.0936620682477951, 'learning_rate': 7.291587465377723e-06, 'epoch': 9.560849133041646}
+{'loss': 0.0049, 'grad_norm': 0.18894745409488678, 'learning_rate': 7.0743496442730684e-06, 'epoch': 9.722897423432183}
+{'loss': 0.0051, 'grad_norm': 0.14312131702899933, 'learning_rate': 6.857111823168414e-06, 'epoch': 9.884945713822718}
+{'eval_loss': 0.01274879090487957, 'eval_runtime': 252.6955, 'eval_samples_per_second': 49.269, 'eval_steps_per_second': 6.162, 'epoch': 10.0}
+{'loss': 0.0047, 'grad_norm': 0.16019456088542938, 'learning_rate': 6.63987400206376e-06, 'epoch': 10.046994004213255}
+{'loss': 0.0043, 'grad_norm': 0.1141870766878128, 'learning_rate': 6.422636180959105e-06, 'epoch': 10.209042294603792}
+{'loss': 0.0043, 'grad_norm': 0.18713080883026123, 'learning_rate': 6.205398359854451e-06, 'epoch': 10.37109058499433}
+{'loss': 0.0043, 'grad_norm': 0.11965855956077576, 'learning_rate': 5.9881605387497964e-06, 'epoch': 10.533138875384864}
+{'loss': 0.0044, 'grad_norm': 0.17159608006477356, 'learning_rate': 5.770922717645142e-06, 'epoch': 10.695187165775401}
+{'loss': 0.0043, 'grad_norm': 0.20375025272369385, 'learning_rate': 5.553684896540488e-06, 'epoch': 10.857235456165938}
+{'eval_loss': 0.012788214720785618, 'eval_runtime': 252.6605, 'eval_samples_per_second': 49.276, 'eval_steps_per_second': 6.162, 'epoch': 11.0}
+{'loss': 0.0042, 'grad_norm': 0.15826161205768585, 'learning_rate': 5.336447075435833e-06, 'epoch': 11.019283746556473}
+{'loss': 0.0038, 'grad_norm': 0.11524111032485962, 'learning_rate': 5.11920925433118e-06, 'epoch': 11.18133203694701}
+{'loss': 0.0037, 'grad_norm': 0.1535845249891281, 'learning_rate': 4.901971433226525e-06, 'epoch': 11.343380327337547}
+{'loss': 0.0037, 'grad_norm': 0.1705237776041031, 'learning_rate': 4.684733612121871e-06, 'epoch': 11.505428617728082}
+{'loss': 0.0037, 'grad_norm': 0.139055997133255, 'learning_rate': 4.4674957910172165e-06, 'epoch': 11.66747690811862}
+{'loss': 0.0038, 'grad_norm': 0.1504528671503067, 'learning_rate': 4.250257969912562e-06, 'epoch': 11.829525198509156}
+{'loss': 0.0038, 'grad_norm': 0.17798909544944763, 'learning_rate': 4.033020148807908e-06, 'epoch': 11.991573488899693}
+{'eval_loss': 0.012672444805502892, 'eval_runtime': 252.8712, 'eval_samples_per_second': 49.235, 'eval_steps_per_second': 6.157, 'epoch': 12.0}
+{'loss': 0.0033, 'grad_norm': 0.12726053595542908, 'learning_rate': 3.815782327703253e-06, 'epoch': 12.153621779290228}
+{'loss': 0.0033, 'grad_norm': 0.1462288796901703, 'learning_rate': 3.5985445065985993e-06, 'epoch': 12.315670069680765}
+{'loss': 0.0033, 'grad_norm': 0.21475720405578613, 'learning_rate': 3.381306685493945e-06, 'epoch': 12.477718360071302}
+{'loss': 0.0033, 'grad_norm': 0.19594401121139526, 'learning_rate': 3.1640688643892905e-06, 'epoch': 12.639766650461837}
+{'loss': 0.0033, 'grad_norm': 0.09796222299337387, 'learning_rate': 2.946831043284636e-06, 'epoch': 12.801814940852374}
+{'loss': 0.0033, 'grad_norm': 0.07203611731529236, 'learning_rate': 2.729593222179982e-06, 'epoch': 12.963863231242911}
+{'eval_loss': 0.013065680861473083, 'eval_runtime': 255.0151, 'eval_samples_per_second': 48.821, 'eval_steps_per_second': 6.106, 'epoch': 13.0}
+{'loss': 0.003, 'grad_norm': 0.19876126945018768, 'learning_rate': 2.5123554010753277e-06, 'epoch': 13.125911521633446}
+{'loss': 0.0029, 'grad_norm': 0.14394378662109375, 'learning_rate': 2.2951175799706733e-06, 'epoch': 13.287959812023983}
+{'loss': 0.0029, 'grad_norm': 0.14794473350048065, 'learning_rate': 2.077879758866019e-06, 'epoch': 13.45000810241452}
+{'loss': 0.003, 'grad_norm': 0.1296902745962143, 'learning_rate': 1.8606419377613645e-06, 'epoch': 13.612056392805055}
+{'loss': 0.003, 'grad_norm': 0.12602044641971588, 'learning_rate': 1.64340411665671e-06, 'epoch': 13.774104683195592}
+{'loss': 0.003, 'grad_norm': 0.1534273475408554, 'learning_rate': 1.4261662955520559e-06, 'epoch': 13.936152973586129}
+{'eval_loss': 0.013060729019343853, 'eval_runtime': 255.1123, 'eval_samples_per_second': 48.802, 'eval_steps_per_second': 6.103, 'epoch': 14.0}
+{'loss': 0.0028, 'grad_norm': 0.05607801675796509, 'learning_rate': 1.2089284744474015e-06, 'epoch': 14.098201263976666}
+{'loss': 0.0027, 'grad_norm': 0.14792406558990479, 'learning_rate': 9.91690653342747e-07, 'epoch': 14.260249554367201}
+{'loss': 0.0028, 'grad_norm': 0.12331563979387283, 'learning_rate': 7.744528322380928e-07, 'epoch': 14.422297844757738}
+{'loss': 0.0027, 'grad_norm': 0.032866839319467545, 'learning_rate': 5.572150111334384e-07, 'epoch': 14.584346135148275}
+{'loss': 0.0026, 'grad_norm': 0.17497746646404266, 'learning_rate': 3.3997719002878406e-07, 'epoch': 14.74639442553881}
+{'loss': 0.0027, 'grad_norm': 0.18820403516292572, 'learning_rate': 1.227393689241297e-07, 'epoch': 14.908442715929347}
+{'eval_loss': 0.013180837035179138, 'eval_runtime': 253.8063, 'eval_samples_per_second': 49.053, 'eval_steps_per_second': 6.135, 'epoch': 15.0}
+{'train_runtime': 50794.727, 'train_samples_per_second': 14.578, 'train_steps_per_second': 1.822, 'train_loss': 0.03428506475145811, 'epoch': 15.0}
+Training Completed Successfully ✅
+
+Metrics:
+  loss  grad_norm  learning_rate     epoch  step  eval_loss  eval_runtime  eval_samples_per_second  eval_steps_per_second  train_runtime  train_samples_per_second  train_steps_per_second   total_flos  train_loss
+2.2839   0.251609   1.989138e-05  0.162048  1000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0416   0.168956   1.967414e-05  0.324097  2000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0372   0.230659   1.945691e-05  0.486145  3000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0332   0.193724   1.923967e-05  0.648193  4000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0304   0.194365   1.902243e-05  0.810241  5000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0283   0.147183   1.880519e-05  0.972290  6000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  1.000000  6171   0.024337      252.6292                   49.282                  6.163            NaN                       NaN                     NaN          NaN         NaN
+0.0259   0.192362   1.858795e-05  1.134338  7000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0242   0.234739   1.837072e-05  1.296386  8000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0231   0.194139   1.815348e-05  1.458435  9000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0218   0.135156   1.793624e-05  1.620483 10000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0211   0.206561   1.771900e-05  1.782531 11000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0203   0.192551   1.750177e-05  1.944579 12000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  2.000000 12342   0.018021      252.5811                   49.291                  6.164            NaN                       NaN                     NaN          NaN         NaN
+0.0187   0.164270   1.728453e-05  2.106628 13000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0177   0.199026   1.706729e-05  2.268676 14000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0171   0.270254   1.685005e-05  2.430724 15000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0169   0.168040   1.663281e-05  2.592773 16000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0162   0.232523   1.641558e-05  2.754821 17000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0159   0.170257   1.619834e-05  2.916869 18000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  3.000000 18513   0.015535      255.1817                   48.789                  6.102            NaN                       NaN                     NaN          NaN         NaN
+0.0149   0.151394   1.598110e-05  3.078918 19000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0137   0.108421   1.576386e-05  3.240966 20000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0139   0.170713   1.554662e-05  3.403014 21000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0138   0.218522   1.532939e-05  3.565062 22000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0134   0.154988   1.511215e-05  3.727111 23000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0129   0.187559   1.489491e-05  3.889159 24000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  4.000000 24684   0.014061      252.2988                   49.346                  6.171            NaN                       NaN                     NaN          NaN         NaN
+0.0124   0.129228   1.467767e-05  4.051207 25000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0115   0.177995   1.446044e-05  4.213256 26000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0112   0.141971   1.424320e-05  4.375304 27000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0109   0.160405   1.402596e-05  4.537352 28000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0113   0.063144   1.380872e-05  4.699400 29000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0111   0.169603   1.359148e-05  4.861449 30000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  5.000000 30855   0.012979      252.3157                   49.343                  6.171            NaN                       NaN                     NaN          NaN         NaN
+0.0110   0.199300   1.337425e-05  5.023497 31000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0092   0.128245   1.315701e-05  5.185545 32000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0094   0.139639   1.293977e-05  5.347594 33000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0093   0.172528   1.272253e-05  5.509642 34000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0096   0.116593   1.250530e-05  5.671690 35000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0093   0.163765   1.228806e-05  5.833738 36000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0093   0.137811   1.207082e-05  5.995787 37000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  6.000000 37026   0.012572      255.2894                   48.768                  6.099            NaN                       NaN                     NaN          NaN         NaN
+0.0078   0.111165   1.185358e-05  6.157835 38000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0080   0.120145   1.163634e-05  6.319883 39000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0078   0.152453   1.141911e-05  6.481932 40000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0080   0.145773   1.120187e-05  6.643980 41000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0079   0.125386   1.098463e-05  6.806028 42000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0078   0.149624   1.076739e-05  6.968076 43000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  7.000000 43197   0.012306      255.4107                   48.745                  6.096            NaN                       NaN                     NaN          NaN         NaN
+0.0070   0.142512   1.055015e-05  7.130125 44000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0066   0.199484   1.033292e-05  7.292173 45000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0068   0.136855   1.011568e-05  7.454221 46000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0068   0.138530   9.898441e-06  7.616270 47000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0067   0.129386   9.681203e-06  7.778318 48000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0067   0.190048   9.463966e-06  7.940366 49000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  8.000000 49368   0.012802      255.2325                   48.779                  6.100            NaN                       NaN                     NaN          NaN         NaN
+0.0060   0.146929   9.246728e-06  8.102415 50000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0057   0.133818   9.029490e-06  8.264463 51000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0058   0.152702   8.812252e-06  8.426511 52000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0057   0.216824   8.595014e-06  8.588559 53000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0059   0.157733   8.377777e-06  8.750608 54000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0059   0.156804   8.160539e-06  8.912656 55000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN  9.000000 55539   0.012500      255.1410                   48.797                  6.103            NaN                       NaN                     NaN          NaN         NaN
+0.0055   0.104632   7.943301e-06  9.074704 56000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0049   0.161291   7.726063e-06  9.236753 57000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0049   0.161667   7.508825e-06  9.398801 58000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0050   0.093662   7.291587e-06  9.560849 59000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0049   0.188947   7.074350e-06  9.722897 60000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0051   0.143121   6.857112e-06  9.884946 61000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 10.000000 61710   0.012749      252.6955                   49.269                  6.162            NaN                       NaN                     NaN          NaN         NaN
+0.0047   0.160195   6.639874e-06 10.046994 62000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0043   0.114187   6.422636e-06 10.209042 63000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0043   0.187131   6.205398e-06 10.371091 64000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0043   0.119659   5.988161e-06 10.533139 65000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0044   0.171596   5.770923e-06 10.695187 66000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0043   0.203750   5.553685e-06 10.857235 67000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 11.000000 67881   0.012788      252.6605                   49.276                  6.162            NaN                       NaN                     NaN          NaN         NaN
+0.0042   0.158262   5.336447e-06 11.019284 68000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0038   0.115241   5.119209e-06 11.181332 69000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0037   0.153585   4.901971e-06 11.343380 70000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0037   0.170524   4.684734e-06 11.505429 71000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0037   0.139056   4.467496e-06 11.667477 72000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0038   0.150453   4.250258e-06 11.829525 73000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0038   0.177989   4.033020e-06 11.991573 74000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 12.000000 74052   0.012672      252.8712                   49.235                  6.157            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.127261   3.815782e-06 12.153622 75000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.146229   3.598545e-06 12.315670 76000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.214757   3.381307e-06 12.477718 77000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.195944   3.164069e-06 12.639767 78000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.097962   2.946831e-06 12.801815 79000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0033   0.072036   2.729593e-06 12.963863 80000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 13.000000 80223   0.013066      255.0151                   48.821                  6.106            NaN                       NaN                     NaN          NaN         NaN
+0.0030   0.198761   2.512355e-06 13.125912 81000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0029   0.143944   2.295118e-06 13.287960 82000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0029   0.147945   2.077880e-06 13.450008 83000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0030   0.129690   1.860642e-06 13.612056 84000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0030   0.126020   1.643404e-06 13.774105 85000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0030   0.153427   1.426166e-06 13.936153 86000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 14.000000 86394   0.013061      255.1123                   48.802                  6.103            NaN                       NaN                     NaN          NaN         NaN
+0.0028   0.056078   1.208928e-06 14.098201 87000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0027   0.147924   9.916907e-07 14.260250 88000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0028   0.123316   7.744528e-07 14.422298 89000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0027   0.032867   5.572150e-07 14.584346 90000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0026   0.174977   3.399772e-07 14.746394 91000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+0.0027   0.188204   1.227394e-07 14.908443 92000        NaN           NaN                      NaN                    NaN            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 15.000000 92565   0.013181      253.8063                   49.053                  6.135            NaN                       NaN                     NaN          NaN         NaN
+   NaN        NaN            NaN 15.000000 92565        NaN           NaN                      NaN                    NaN      50794.727                    14.578                   1.822 1.543257e+17    0.034285
+Total Training Time: 50796.61 seconds
+Beginning Evaluation...
+{'eval_loss': 0.013180837035179138, 'eval_runtime': 230.3932, 'eval_samples_per_second': 54.038, 'eval_steps_per_second': 6.758, 'epoch': 15.0}
+
+*****************
+Eval loss after fine-tuning: 0.013180837035179138
+Perplexity after fine-tuning: 1.01
+
+
+=== Evaluation Started ===
+After 500 entries - Running Mean Recall@10: 0.4980, MRR@10: 0.3541, NDCG@10: 0.3883, Elapsed Time: 398.71 seconds
+After 1000 entries - Running Mean Recall@10: 0.4740, MRR@10: 0.3399, NDCG@10: 0.3717, Elapsed Time: 711.45 seconds
+After 1500 entries - Running Mean Recall@10: 0.4593, MRR@10: 0.3302, NDCG@10: 0.3610, Elapsed Time: 1026.22 seconds
+After 2000 entries - Running Mean Recall@10: 0.4640, MRR@10: 0.3356, NDCG@10: 0.3663, Elapsed Time: 1339.93 seconds
+After 2500 entries - Running Mean Recall@10: 0.4648, MRR@10: 0.3361, NDCG@10: 0.3669, Elapsed Time: 1653.53 seconds
+After 3000 entries - Running Mean Recall@10: 0.4627, MRR@10: 0.3345, NDCG@10: 0.3652, Elapsed Time: 1966.64 seconds
+After 3500 entries - Running Mean Recall@10: 0.4614, MRR@10: 0.3304, NDCG@10: 0.3618, Elapsed Time: 2281.40 seconds
+After 4000 entries - Running Mean Recall@10: 0.4545, MRR@10: 0.3266, NDCG@10: 0.3573, Elapsed Time: 2592.91 seconds
+After 4500 entries - Running Mean Recall@10: 0.4544, MRR@10: 0.3271, NDCG@10: 0.3576, Elapsed Time: 2906.96 seconds
+After 5000 entries - Running Mean Recall@10: 0.4518, MRR@10: 0.3238, NDCG@10: 0.3544, Elapsed Time: 3220.91 seconds
+After 5500 entries - Running Mean Recall@10: 0.4484, MRR@10: 0.3212, NDCG@10: 0.3516, Elapsed Time: 3536.31 seconds
+After 6000 entries - Running Mean Recall@10: 0.4465, MRR@10: 0.3198, NDCG@10: 0.3501, Elapsed Time: 3849.40 seconds
+After 6500 entries - Running Mean Recall@10: 0.4465, MRR@10: 0.3188, NDCG@10: 0.3493, Elapsed Time: 4165.38 seconds
+After 7000 entries - Running Mean Recall@10: 0.4474, MRR@10: 0.3198, NDCG@10: 0.3503, Elapsed Time: 4480.67 seconds
+After 7500 entries - Running Mean Recall@10: 0.4464, MRR@10: 0.3193, NDCG@10: 0.3497, Elapsed Time: 4796.28 seconds
+After 8000 entries - Running Mean Recall@10: 0.4469, MRR@10: 0.3203, NDCG@10: 0.3506, Elapsed Time: 5108.99 seconds
+After 8500 entries - Running Mean Recall@10: 0.4466, MRR@10: 0.3196, NDCG@10: 0.3500, Elapsed Time: 5424.24 seconds
+After 9000 entries - Running Mean Recall@10: 0.4462, MRR@10: 0.3192, NDCG@10: 0.3496, Elapsed Time: 5738.95 seconds
+After 9500 entries - Running Mean Recall@10: 0.4469, MRR@10: 0.3199, NDCG@10: 0.3503, Elapsed Time: 6053.12 seconds
+After 10000 entries - Running Mean Recall@10: 0.4462, MRR@10: 0.3192, NDCG@10: 0.3496, Elapsed Time: 6368.02 seconds
+After 10500 entries - Running Mean Recall@10: 0.4496, MRR@10: 0.3213, NDCG@10: 0.3520, Elapsed Time: 6682.21 seconds
+After 11000 entries - Running Mean Recall@10: 0.4478, MRR@10: 0.3200, NDCG@10: 0.3506, Elapsed Time: 6998.10 seconds
+After 11500 entries - Running Mean Recall@10: 0.4473, MRR@10: 0.3190, NDCG@10: 0.3497, Elapsed Time: 7312.45 seconds
+After 12000 entries - Running Mean Recall@10: 0.4490, MRR@10: 0.3206, NDCG@10: 0.3513, Elapsed Time: 7624.14 seconds
+
+=== Final Evaluation Metrics ===
+
+Mean Recall@10: 0.4497
+
+Mean MRR@10: 0.3205
+
+Mean NDCG@10: 0.3514
+
+Total Evaluation Time: 7877.85 seconds
+
+=============================
+
+
+=======>>> Evaluation Metrics Summary
+
+                                  Metric    Value
+                               Recall@10 0.449719
+                 Mean Reciprocal Rank@10 0.320486
+Normalized Discounted Cumulative Gain@10 0.351425
+Done evaluating.
