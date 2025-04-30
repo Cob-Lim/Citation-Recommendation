@@ -1,0 +1,63 @@
+/home/ubuntu/CiteRec RAG/Python Executions/evaluating_chunks.py:13: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+GPU load successful.
+GPU: cuda
+JSON file loaded from /home/ubuntu/CiteRec RAG/global_train_eval_context_list_for_rag.json
+Loading existing FAISS index and metadata...
+FAISS index and metadata loaded successfully!
+Reranker model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+Other parameters loaded successfully!
+
+Evaluating batch 1 (queries 1399 to 2797)...
+Batch 1 metrics: {'Recall': np.float64(0.3023588277340958), 'MRR': np.float64(0.12190283308939491), 'NDCG': np.float64(0.16411945488788388), 'count': 1399}
+Batch 1 completed in 2071.49 seconds.
+Saved batch 1 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_1399_2797.json
+
+Evaluating batch 2 (queries 2798 to 4196)...
+Batch 2 metrics: {'Recall': np.float64(0.29949964260185846), 'MRR': np.float64(0.12421315678999738), 'NDCG': np.float64(0.16497389772709614), 'count': 1399}
+Batch 2 completed in 2378.15 seconds.
+Saved batch 2 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_2798_4196.json
+
+Evaluating batch 3 (queries 4197 to 5595)...
+Batch 3 metrics: {'Recall': np.float64(0.3073624017155111), 'MRR': np.float64(0.12631471459205557), 'NDCG': np.float64(0.16854919926043663), 'count': 1399}
+Batch 3 completed in 2373.19 seconds.
+Saved batch 3 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_4197_5595.json
+
+Evaluating batch 4 (queries 5596 to 6994)...
+Batch 4 metrics: {'Recall': np.float64(0.29735525375268046), 'MRR': np.float64(0.13250876476394702), 'NDCG': np.float64(0.17115970553498486), 'count': 1399}
+Batch 4 completed in 2380.35 seconds.
+Saved batch 4 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_5596_6994.json
+
+Evaluating batch 5 (queries 6995 to 8393)...
+Batch 5 metrics: {'Recall': np.float64(0.2780557541100786), 'MRR': np.float64(0.11895458207109387), 'NDCG': np.float64(0.15588176799816686), 'count': 1399}
+Batch 5 completed in 2370.62 seconds.
+Saved batch 5 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_6995_8393.json
+
+Evaluating batch 6 (queries 8394 to 9792)...
+Batch 6 metrics: {'Recall': np.float64(0.2930664760543245), 'MRR': np.float64(0.1169823683583512), 'NDCG': np.float64(0.15806645367267663), 'count': 1399}
+Batch 6 completed in 2343.04 seconds.
+Saved batch 6 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_8394_9792.json
+
+Evaluating batch 7 (queries 9793 to 11191)...
+Batch 7 metrics: {'Recall': np.float64(0.2873481057898499), 'MRR': np.float64(0.11244851764866062), 'NDCG': np.float64(0.15360336287484633), 'count': 1399}
+Batch 7 completed in 2333.36 seconds.
+Saved batch 7 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_9793_11191.json
+
+Evaluating batch 8 (queries 11192 to 12590)...
+Batch 8 metrics: {'Recall': np.float64(0.2930664760543245), 'MRR': np.float64(0.11456539251392718), 'NDCG': np.float64(0.15614870960971997), 'count': 1399}
+Batch 8 completed in 2296.41 seconds.
+Saved batch 8 results to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/evaluation_results_batch_11192_12590.json
+
+Total evaluation process completed in 18546.88 seconds.
+Final Weighted Recall: 0.296085
+Final Weighted MRR: 0.122049
+Final Weighted NDCG: 0.162712
+Final Count: 12591
+Results saved to ../100 Documents Retrieved Top 10_Reranked/512 Chunks 128 Overlaps Batch Evaluation Results/final_weighted_metrics.json

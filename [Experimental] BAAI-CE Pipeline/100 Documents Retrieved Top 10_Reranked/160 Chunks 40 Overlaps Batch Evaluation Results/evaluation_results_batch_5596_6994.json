@@ -1,0 +1,13 @@
+{
+    "batch_number": 5,
+    "start_index": 5596,
+    "end_index": 6994,
+    "next_start_index": 6995,
+    "metrics": {
+        "Recall": 0.28877769835596856,
+        "MRR": 0.12765836141461587,
+        "NDCG": 0.16524537718104093,
+        "count": 1399
+    },
+    "batch_time_seconds": 1427.0127499103546
+}

@@ -1,0 +1,282 @@
+/home/ubuntu/CiteRec RAG/Python Executions/bge_chunk_and_eval.py:13: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import FAISS
+GPU load successful.
+GPU: cuda
+JSON file loaded
+Number of chunks: 160
+Number of overlaps: 40
+Initializing text splitter...
+Added batch 1 to FAISS index. Time taken: 182.46 seconds.
+Total of 50 documents out of 5246 documents.
+Added batch 2 to FAISS index. Time taken: 190.44 seconds.
+Total of 100 documents out of 5246 documents.
+Added batch 3 to FAISS index. Time taken: 195.61 seconds.
+Total of 150 documents out of 5246 documents.
+Added batch 4 to FAISS index. Time taken: 189.66 seconds.
+Total of 200 documents out of 5246 documents.
+Added batch 5 to FAISS index. Time taken: 174.17 seconds.
+Total of 250 documents out of 5246 documents.
+Added batch 6 to FAISS index. Time taken: 186.10 seconds.
+Total of 300 documents out of 5246 documents.
+Added batch 7 to FAISS index. Time taken: 192.21 seconds.
+Total of 350 documents out of 5246 documents.
+Added batch 8 to FAISS index. Time taken: 179.99 seconds.
+Total of 400 documents out of 5246 documents.
+Added batch 9 to FAISS index. Time taken: 181.13 seconds.
+Total of 450 documents out of 5246 documents.
+Added batch 10 to FAISS index. Time taken: 168.41 seconds.
+Total of 500 documents out of 5246 documents.
+Added batch 11 to FAISS index. Time taken: 177.76 seconds.
+Total of 550 documents out of 5246 documents.
+Added batch 12 to FAISS index. Time taken: 182.01 seconds.
+Total of 600 documents out of 5246 documents.
+Added batch 13 to FAISS index. Time taken: 198.40 seconds.
+Total of 650 documents out of 5246 documents.
+Added batch 14 to FAISS index. Time taken: 173.33 seconds.
+Total of 700 documents out of 5246 documents.
+Added batch 15 to FAISS index. Time taken: 202.60 seconds.
+Total of 750 documents out of 5246 documents.
+Added batch 16 to FAISS index. Time taken: 190.51 seconds.
+Total of 800 documents out of 5246 documents.
+Added batch 17 to FAISS index. Time taken: 162.79 seconds.
+Total of 850 documents out of 5246 documents.
+Added batch 18 to FAISS index. Time taken: 168.30 seconds.
+Total of 900 documents out of 5246 documents.
+Added batch 19 to FAISS index. Time taken: 174.71 seconds.
+Total of 950 documents out of 5246 documents.
+Added batch 20 to FAISS index. Time taken: 198.74 seconds.
+Total of 1000 documents out of 5246 documents.
+Added batch 21 to FAISS index. Time taken: 182.21 seconds.
+Total of 1050 documents out of 5246 documents.
+Added batch 22 to FAISS index. Time taken: 189.69 seconds.
+Total of 1100 documents out of 5246 documents.
+Added batch 23 to FAISS index. Time taken: 182.73 seconds.
+Total of 1150 documents out of 5246 documents.
+Added batch 24 to FAISS index. Time taken: 178.07 seconds.
+Total of 1200 documents out of 5246 documents.
+Added batch 25 to FAISS index. Time taken: 168.36 seconds.
+Total of 1250 documents out of 5246 documents.
+Added batch 26 to FAISS index. Time taken: 180.02 seconds.
+Total of 1300 documents out of 5246 documents.
+Added batch 27 to FAISS index. Time taken: 176.74 seconds.
+Total of 1350 documents out of 5246 documents.
+Added batch 28 to FAISS index. Time taken: 178.09 seconds.
+Total of 1400 documents out of 5246 documents.
+Added batch 29 to FAISS index. Time taken: 156.70 seconds.
+Total of 1450 documents out of 5246 documents.
+Added batch 30 to FAISS index. Time taken: 166.71 seconds.
+Total of 1500 documents out of 5246 documents.
+Added batch 31 to FAISS index. Time taken: 162.38 seconds.
+Total of 1550 documents out of 5246 documents.
+Added batch 32 to FAISS index. Time taken: 177.44 seconds.
+Total of 1600 documents out of 5246 documents.
+Added batch 33 to FAISS index. Time taken: 180.96 seconds.
+Total of 1650 documents out of 5246 documents.
+Added batch 34 to FAISS index. Time taken: 164.72 seconds.
+Total of 1700 documents out of 5246 documents.
+Added batch 35 to FAISS index. Time taken: 173.54 seconds.
+Total of 1750 documents out of 5246 documents.
+Added batch 36 to FAISS index. Time taken: 164.73 seconds.
+Total of 1800 documents out of 5246 documents.
+Added batch 37 to FAISS index. Time taken: 167.55 seconds.
+Total of 1850 documents out of 5246 documents.
+Added batch 38 to FAISS index. Time taken: 159.56 seconds.
+Total of 1900 documents out of 5246 documents.
+Added batch 39 to FAISS index. Time taken: 164.56 seconds.
+Total of 1950 documents out of 5246 documents.
+Added batch 40 to FAISS index. Time taken: 179.43 seconds.
+Total of 2000 documents out of 5246 documents.
+Added batch 41 to FAISS index. Time taken: 167.37 seconds.
+Total of 2050 documents out of 5246 documents.
+Added batch 42 to FAISS index. Time taken: 159.35 seconds.
+Total of 2100 documents out of 5246 documents.
+Added batch 43 to FAISS index. Time taken: 193.50 seconds.
+Total of 2150 documents out of 5246 documents.
+Added batch 44 to FAISS index. Time taken: 191.15 seconds.
+Total of 2200 documents out of 5246 documents.
+Added batch 45 to FAISS index. Time taken: 159.19 seconds.
+Total of 2250 documents out of 5246 documents.
+Added batch 46 to FAISS index. Time taken: 171.92 seconds.
+Total of 2300 documents out of 5246 documents.
+Added batch 47 to FAISS index. Time taken: 172.83 seconds.
+Total of 2350 documents out of 5246 documents.
+Added batch 48 to FAISS index. Time taken: 164.67 seconds.
+Total of 2400 documents out of 5246 documents.
+Added batch 49 to FAISS index. Time taken: 172.41 seconds.
+Total of 2450 documents out of 5246 documents.
+Added batch 50 to FAISS index. Time taken: 177.46 seconds.
+Total of 2500 documents out of 5246 documents.
+Added batch 51 to FAISS index. Time taken: 164.33 seconds.
+Total of 2550 documents out of 5246 documents.
+Added batch 52 to FAISS index. Time taken: 165.69 seconds.
+Total of 2600 documents out of 5246 documents.
+Added batch 53 to FAISS index. Time taken: 172.76 seconds.
+Total of 2650 documents out of 5246 documents.
+Added batch 54 to FAISS index. Time taken: 175.72 seconds.
+Total of 2700 documents out of 5246 documents.
+Added batch 55 to FAISS index. Time taken: 162.64 seconds.
+Total of 2750 documents out of 5246 documents.
+Added batch 56 to FAISS index. Time taken: 162.07 seconds.
+Total of 2800 documents out of 5246 documents.
+Added batch 57 to FAISS index. Time taken: 183.95 seconds.
+Total of 2850 documents out of 5246 documents.
+Added batch 58 to FAISS index. Time taken: 174.60 seconds.
+Total of 2900 documents out of 5246 documents.
+Added batch 59 to FAISS index. Time taken: 164.61 seconds.
+Total of 2950 documents out of 5246 documents.
+Added batch 60 to FAISS index. Time taken: 160.90 seconds.
+Total of 3000 documents out of 5246 documents.
+Added batch 61 to FAISS index. Time taken: 164.31 seconds.
+Total of 3050 documents out of 5246 documents.
+Added batch 62 to FAISS index. Time taken: 159.36 seconds.
+Total of 3100 documents out of 5246 documents.
+Added batch 63 to FAISS index. Time taken: 172.90 seconds.
+Total of 3150 documents out of 5246 documents.
+Added batch 64 to FAISS index. Time taken: 174.15 seconds.
+Total of 3200 documents out of 5246 documents.
+Added batch 65 to FAISS index. Time taken: 159.37 seconds.
+Total of 3250 documents out of 5246 documents.
+Added batch 66 to FAISS index. Time taken: 156.42 seconds.
+Total of 3300 documents out of 5246 documents.
+Added batch 67 to FAISS index. Time taken: 196.31 seconds.
+Total of 3350 documents out of 5246 documents.
+Added batch 68 to FAISS index. Time taken: 158.30 seconds.
+Total of 3400 documents out of 5246 documents.
+Added batch 69 to FAISS index. Time taken: 156.35 seconds.
+Total of 3450 documents out of 5246 documents.
+Added batch 70 to FAISS index. Time taken: 159.37 seconds.
+Total of 3500 documents out of 5246 documents.
+Added batch 71 to FAISS index. Time taken: 158.49 seconds.
+Total of 3550 documents out of 5246 documents.
+Added batch 72 to FAISS index. Time taken: 159.05 seconds.
+Total of 3600 documents out of 5246 documents.
+Added batch 73 to FAISS index. Time taken: 172.27 seconds.
+Total of 3650 documents out of 5246 documents.
+Added batch 74 to FAISS index. Time taken: 154.50 seconds.
+Total of 3700 documents out of 5246 documents.
+Added batch 75 to FAISS index. Time taken: 153.65 seconds.
+Total of 3750 documents out of 5246 documents.
+Added batch 76 to FAISS index. Time taken: 162.21 seconds.
+Total of 3800 documents out of 5246 documents.
+Added batch 77 to FAISS index. Time taken: 143.07 seconds.
+Total of 3850 documents out of 5246 documents.
+Added batch 78 to FAISS index. Time taken: 191.01 seconds.
+Total of 3900 documents out of 5246 documents.
+Added batch 79 to FAISS index. Time taken: 147.29 seconds.
+Total of 3950 documents out of 5246 documents.
+Added batch 80 to FAISS index. Time taken: 155.20 seconds.
+Total of 4000 documents out of 5246 documents.
+Added batch 81 to FAISS index. Time taken: 180.79 seconds.
+Total of 4050 documents out of 5246 documents.
+Added batch 82 to FAISS index. Time taken: 162.92 seconds.
+Total of 4100 documents out of 5246 documents.
+Added batch 83 to FAISS index. Time taken: 157.20 seconds.
+Total of 4150 documents out of 5246 documents.
+Added batch 84 to FAISS index. Time taken: 139.87 seconds.
+Total of 4200 documents out of 5246 documents.
+Added batch 85 to FAISS index. Time taken: 144.54 seconds.
+Total of 4250 documents out of 5246 documents.
+Added batch 86 to FAISS index. Time taken: 151.28 seconds.
+Total of 4300 documents out of 5246 documents.
+Added batch 87 to FAISS index. Time taken: 135.41 seconds.
+Total of 4350 documents out of 5246 documents.
+Added batch 88 to FAISS index. Time taken: 132.71 seconds.
+Total of 4400 documents out of 5246 documents.
+Added batch 89 to FAISS index. Time taken: 141.59 seconds.
+Total of 4450 documents out of 5246 documents.
+Added batch 90 to FAISS index. Time taken: 140.35 seconds.
+Total of 4500 documents out of 5246 documents.
+Added batch 91 to FAISS index. Time taken: 146.52 seconds.
+Total of 4550 documents out of 5246 documents.
+Added batch 92 to FAISS index. Time taken: 147.78 seconds.
+Total of 4600 documents out of 5246 documents.
+Added batch 93 to FAISS index. Time taken: 134.43 seconds.
+Total of 4650 documents out of 5246 documents.
+Added batch 94 to FAISS index. Time taken: 150.57 seconds.
+Total of 4700 documents out of 5246 documents.
+Added batch 95 to FAISS index. Time taken: 146.01 seconds.
+Total of 4750 documents out of 5246 documents.
+Added batch 96 to FAISS index. Time taken: 139.48 seconds.
+Total of 4800 documents out of 5246 documents.
+Added batch 97 to FAISS index. Time taken: 117.70 seconds.
+Total of 4850 documents out of 5246 documents.
+Added batch 98 to FAISS index. Time taken: 142.04 seconds.
+Total of 4900 documents out of 5246 documents.
+Added batch 99 to FAISS index. Time taken: 147.17 seconds.
+Total of 4950 documents out of 5246 documents.
+Added batch 100 to FAISS index. Time taken: 152.89 seconds.
+Total of 5000 documents out of 5246 documents.
+Added batch 101 to FAISS index. Time taken: 144.03 seconds.
+Total of 5050 documents out of 5246 documents.
+Added batch 102 to FAISS index. Time taken: 135.30 seconds.
+Total of 5100 documents out of 5246 documents.
+Added batch 103 to FAISS index. Time taken: 134.62 seconds.
+Total of 5150 documents out of 5246 documents.
+Added batch 104 to FAISS index. Time taken: 121.71 seconds.
+Total of 5200 documents out of 5246 documents.
+Added batch 105 to FAISS index. Time taken: 66.80 seconds.
+Total of 5250 documents out of 5246 documents.
+Total documents for FAISS: 1072945
+Total execution time: 17308.16 seconds.
+FAISS index and metadata saved as 160-chunks_40-overlaps_faiss_store.pkl.
+Reranker model loaded: cross-encoder/ms-marco-MiniLM-L-6-v2
+Other parameters loaded successfully!
+
+Evaluating batch 1 (queries 0 to 1398)...
+Batch 1 metrics: {'Recall': np.float64(0.2944960686204432), 'MRR': np.float64(0.1269498054165674), 'NDCG': np.float64(0.16645309756208773), 'count': 1399}
+Batch 1 completed in 1430.61 seconds.
+Saved batch 1 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_0_1398.json
+
+Evaluating batch 2 (queries 1399 to 2797)...
+Batch 2 metrics: {'Recall': np.float64(0.27305218012866334), 'MRR': np.float64(0.11650300100979158), 'NDCG': np.float64(0.15319101571209995), 'count': 1399}
+Batch 2 completed in 1426.83 seconds.
+Saved batch 2 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_1399_2797.json
+
+Evaluating batch 3 (queries 2798 to 4196)...
+Batch 3 metrics: {'Recall': np.float64(0.2830593280914939), 'MRR': np.float64(0.1194472809376312), 'NDCG': np.float64(0.157746780523585), 'count': 1399}
+Batch 3 completed in 1426.37 seconds.
+Saved batch 3 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_2798_4196.json
+
+Evaluating batch 4 (queries 4197 to 5595)...
+Batch 4 metrics: {'Recall': np.float64(0.2909220872051465), 'MRR': np.float64(0.12637172810510908), 'NDCG': np.float64(0.16472084126213477), 'count': 1399}
+Batch 4 completed in 1428.21 seconds.
+Saved batch 4 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_4197_5595.json
+
+Evaluating batch 5 (queries 5596 to 6994)...
+Batch 5 metrics: {'Recall': np.float64(0.28877769835596856), 'MRR': np.float64(0.12765836141461587), 'NDCG': np.float64(0.16524537718104093), 'count': 1399}
+Batch 5 completed in 1427.01 seconds.
+Saved batch 5 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_5596_6994.json
+
+Evaluating batch 6 (queries 6995 to 8393)...
+Batch 6 metrics: {'Recall': np.float64(0.2773409578270193), 'MRR': np.float64(0.11832176044113143), 'NDCG': np.float64(0.1551951669186351), 'count': 1399}
+Batch 6 completed in 1430.21 seconds.
+Saved batch 6 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_6995_8393.json
+
+Evaluating batch 7 (queries 8394 to 9792)...
+Batch 7 metrics: {'Recall': np.float64(0.27162258756254465), 'MRR': np.float64(0.11003664749197273), 'NDCG': np.float64(0.14791675994673467), 'count': 1399}
+Batch 7 completed in 1431.91 seconds.
+Saved batch 7 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_8394_9792.json
+
+Evaluating batch 8 (queries 9793 to 11191)...
+Batch 8 metrics: {'Recall': np.float64(0.270192994996426), 'MRR': np.float64(0.10731446498065511), 'NDCG': np.float64(0.14555859631833729), 'count': 1399}
+Batch 8 completed in 1425.66 seconds.
+Saved batch 8 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_9793_11191.json
+
+Evaluating batch 9 (queries 11192 to 12590)...
+Batch 9 metrics: {'Recall': np.float64(0.2687634024303074), 'MRR': np.float64(0.10996176407184269), 'NDCG': np.float64(0.14709144297133167), 'count': 1399}
+Batch 9 completed in 1421.49 seconds.
+Saved batch 9 results to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/evaluation_results_batch_11192_12590.json
+
+Total evaluation process completed in 12848.60 seconds.
+Final Weighted Recall: 0.279803
+Final Weighted MRR: 0.118063
+Final Weighted NDCG: 0.155902
+Final Count: 12591
+Results saved to ../100 Documents Retrieved Top 10_Reranked/160 Chunks 40 Overlaps Batch Evaluation Results/final_weighted_metrics.json
