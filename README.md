@@ -13,11 +13,11 @@ This project explores multiple **Citation Recommendation** strategies using both
 ### 2. Chunking Strategy
 - Used LangChain’s RecursiveCharacterTextSplitter to experiment with various chunk sizes and overlap configurations.
 - Found that 1024-token chunks with a 256-token overlap provided the best performance in terms of retrieval accuracy and context preservation.
-- 
+  
 ### 3. Embedding
 - Used Infly’s INF-Retriever-v1-1.5B embedding model to generate dense vector representations of text chunks.
 - Stored embeddings in vector databases such as ChromaDB for efficient similarity-based retrieval.
-- 
+  
 ### 4. Retrieval & Generation Approaches
 
 #### CiteBART (SOTA)
@@ -42,7 +42,7 @@ This project explores multiple **Citation Recommendation** strategies using both
 - Stage 2: Retrieved results via Gemini 2.0 Flash + Google Search as external fallback.
 - Both result sets were combined by merging similar citations, and the remaining entries were appended based on their original relevance scores.
 - An LLM-based reranker can optionally be introduced in the future to refine final citation relevance ordering.
-- 
+  
 ### 5. Evaluation
 
 - Used a benchmark dataset with **citation context + ground truth citation**.
@@ -74,7 +74,8 @@ This project explores multiple **Citation Recommendation** strategies using both
 ![MRR Across Architectures](Images/MRR%20Across%20Architectures.png)
 
 - The **Two-Stage Hybrid (Advanced RAG + Gemini)** pipeline achieved the highest performance across all methods, outperforming others in both Recall and Mean Reciprocal Rank (MRR).
+
 ---
 
 ## Disclaimer
-- All experiments were run on an Amazon EC2 g5.xlarge instance, with the exception of external API calls, which were executed outside the instance.
+- All experiments were run on an Amazon EC2 **'g5.xlarge'** instance, with the exception of external API calls, which were executed outside the instance.
