@@ -1,0 +1,207 @@
+Training Completed Successfully ✅
+
+Metrics:
+ train_runtime  train_samples_per_second  train_steps_per_second   total_flos  train_loss  epoch
+    11498.1516                    30.501                   1.907 8.352913e+16    0.118619    7.0
+Training Completed Successfully ✅
+
+Metrics:
+ train_runtime  train_samples_per_second  train_steps_per_second   total_flos  train_loss  epoch
+    11572.8517                    30.304                   1.894 8.352913e+16    0.118581    7.0
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/runs
+Training Failed ❌
+
+Error Details:
+Traceback (most recent call last):
+  File "/tmp/ipykernel_17226/65523083.py", line 8, in <module>
+    train_output = trainer.train(resume_from_checkpoint=latest_checkpoint)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 2143, in train
+    self._load_from_checkpoint(resume_from_checkpoint)
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 2773, in _load_from_checkpoint
+    raise ValueError(f"Can't find a valid checkpoint at {resume_from_checkpoint}")
+ValueError: Can't find a valid checkpoint at ./checkpoints/citeBART_base_ACL200/runs
+
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/checkpoint-21924
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/checkpoint-21924
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/checkpoint-21924
+Training Failed ❌
+
+Error Details:
+Traceback (most recent call last):
+  File "/tmp/ipykernel_17944/65523083.py", line 8, in <module>
+    train_output = trainer.train(resume_from_checkpoint=latest_checkpoint)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 2171, in train
+    return inner_training_loop(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 2531, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs, num_items_in_batch)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 3675, in training_step
+    loss = self.compute_loss(model, inputs, num_items_in_batch=num_items_in_batch)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/trainer.py", line 3731, in compute_loss
+    outputs = model(**inputs)
+              ^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/models/bart/modeling_bart.py", line 1641, in forward
+    outputs = self.model(
+              ^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/models/bart/modeling_bart.py", line 1509, in forward
+    encoder_outputs = self.encoder(
+                      ^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/models/bart/modeling_bart.py", line 1114, in forward
+    layer_outputs = encoder_layer(
+                    ^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/models/bart/modeling_bart.py", line 567, in forward
+    hidden_states, attn_weights, _ = self.self_attn(
+                                     ^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/transformers/models/bart/modeling_bart.py", line 449, in forward
+    query_states = self.q_proj(hidden_states)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/conda/lib/python3.12/site-packages/torch/nn/modules/linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: CUDA error: CUBLAS_STATUS_ALLOC_FAILED when calling `cublasCreate(handle)`
+
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/checkpoint-21924
+Resuming training from checkpoint: ./checkpoints/citeBART_base_ACL200/checkpoint-25056
+Training Completed Successfully ✅
+
+Metrics:
+ train_runtime  train_samples_per_second  train_steps_per_second   total_flos  train_loss  epoch
+    11478.5834                     65.47                   4.093 1.789910e+17    0.003735   15.0
+=== Evaluation Started ===
+=== Evaluation Started ===
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 1.0451
+Mean MRR@10: 0.6375
+Mean NDCG@10: 0.7355
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 1.1000
+Mean MRR@10: 0.5792
+Mean NDCG@10: 0.7360
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 1.1000
+Mean MRR@10: 0.5792
+Mean NDCG@10: 0.7360
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 1.1000
+Mean MRR@10: 0.5792
+Mean NDCG@10: 0.7360
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.1833
+Mean MRR@10: 0.4000
+Mean NDCG@10: 0.2309
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.1833
+Mean MRR@10: 0.4000
+Mean NDCG@10: 0.2309
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.0000
+Mean MRR@10: 0.0000
+Mean NDCG@10: 0.0000
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.4000
+Mean MRR@10: 0.4000
+Mean NDCG@10: 0.4000
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.4000
+Mean MRR@10: 0.4000
+Mean NDCG@10: 0.4000
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.4000
+Mean MRR@10: 0.4000
+Mean NDCG@10: 0.4000
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.5000
+Mean MRR@10: 0.3738
+Mean NDCG@10: 0.4048
+=============================
+
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.5930
+Mean MRR@10: 0.4418
+Mean NDCG@10: 0.4783
+=============================
+
