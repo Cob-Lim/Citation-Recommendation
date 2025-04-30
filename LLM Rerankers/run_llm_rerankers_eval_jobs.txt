@@ -1,0 +1,12 @@
+# llm_type number_of_docs top_k
+#DeepSeek 20 20
+#DeepSeek 35 35
+#DeepSeek 50 50
+#DeepSeek 75 75
+#DeepSeek 100 100
+#Gemini 20 20
+#Gemini 35 35
+#Gemini 50 50
+#Gemini 75 75
+#Gemini 100 100
+Gemini 20 10

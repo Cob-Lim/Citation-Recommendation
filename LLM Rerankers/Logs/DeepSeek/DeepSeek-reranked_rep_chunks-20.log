@@ -1,0 +1,1422 @@
+[2025-04-08 16:02:02] Starting job with: target chunks=256, target overlaps=64, original chunks=1024, original overlaps=256, docs=20
+Number of Retrieved Chunks: 1245
+Number of Documents per Retrieved Chunks: 20
+Done reranking query 1. Elapsed time since start: 7.00 seconds.
+Done reranking query 2. Elapsed time since start: 16.03 seconds.
+Done reranking query 3. Elapsed time since start: 26.14 seconds.
+Done reranking query 4. Elapsed time since start: 35.09 seconds.
+Done reranking query 5. Elapsed time since start: 44.22 seconds.
+Done reranking query 6. Elapsed time since start: 54.33 seconds.
+Done reranking query 7. Elapsed time since start: 63.94 seconds.
+Done reranking query 8. Elapsed time since start: 73.65 seconds.
+Done reranking query 9. Elapsed time since start: 83.04 seconds.
+Done reranking query 10. Elapsed time since start: 92.23 seconds.
+Done reranking query 11. Elapsed time since start: 101.73 seconds.
+Done reranking query 12. Elapsed time since start: 112.63 seconds.
+Done reranking query 13. Elapsed time since start: 122.08 seconds.
+Done reranking query 14. Elapsed time since start: 133.91 seconds.
+Done reranking query 15. Elapsed time since start: 143.33 seconds.
+Saved 15 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 15 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 16. Elapsed time since start: 152.90 seconds.
+Done reranking query 17. Elapsed time since start: 162.88 seconds.
+Done reranking query 18. Elapsed time since start: 172.34 seconds.
+Done reranking query 19. Elapsed time since start: 183.44 seconds.
+Done reranking query 20. Elapsed time since start: 195.03 seconds.
+Done reranking query 21. Elapsed time since start: 205.24 seconds.
+Done reranking query 22. Elapsed time since start: 214.80 seconds.
+Done reranking query 23. Elapsed time since start: 224.08 seconds.
+Done reranking query 24. Elapsed time since start: 232.85 seconds.
+Done reranking query 25. Elapsed time since start: 242.43 seconds.
+Done reranking query 26. Elapsed time since start: 253.03 seconds.
+Done reranking query 27. Elapsed time since start: 263.90 seconds.
+Done reranking query 28. Elapsed time since start: 273.30 seconds.
+Done reranking query 29. Elapsed time since start: 283.00 seconds.
+Done reranking query 30. Elapsed time since start: 293.20 seconds.
+Saved 30 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 30 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 31. Elapsed time since start: 302.23 seconds.
+Done reranking query 32. Elapsed time since start: 313.96 seconds.
+Done reranking query 33. Elapsed time since start: 324.88 seconds.
+Done reranking query 34. Elapsed time since start: 334.82 seconds.
+Done reranking query 35. Elapsed time since start: 344.35 seconds.
+Done reranking query 36. Elapsed time since start: 354.58 seconds.
+Done reranking query 37. Elapsed time since start: 363.35 seconds.
+Done reranking query 38. Elapsed time since start: 372.44 seconds.
+Done reranking query 39. Elapsed time since start: 383.00 seconds.
+Done reranking query 40. Elapsed time since start: 395.08 seconds.
+Done reranking query 41. Elapsed time since start: 404.71 seconds.
+Done reranking query 42. Elapsed time since start: 415.38 seconds.
+Done reranking query 43. Elapsed time since start: 425.25 seconds.
+Done reranking query 44. Elapsed time since start: 434.18 seconds.
+Done reranking query 45. Elapsed time since start: 443.81 seconds.
+Saved 45 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 45 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 46. Elapsed time since start: 452.99 seconds.
+Done reranking query 47. Elapsed time since start: 461.90 seconds.
+Done reranking query 48. Elapsed time since start: 471.60 seconds.
+Done reranking query 49. Elapsed time since start: 480.60 seconds.
+Done reranking query 50. Elapsed time since start: 489.74 seconds.
+Done reranking query 51. Elapsed time since start: 499.69 seconds.
+Done reranking query 52. Elapsed time since start: 509.17 seconds.
+Done reranking query 53. Elapsed time since start: 518.96 seconds.
+Done reranking query 54. Elapsed time since start: 527.51 seconds.
+Done reranking query 55. Elapsed time since start: 538.39 seconds.
+Done reranking query 56. Elapsed time since start: 547.48 seconds.
+Done reranking query 57. Elapsed time since start: 559.28 seconds.
+Done reranking query 58. Elapsed time since start: 568.86 seconds.
+Done reranking query 59. Elapsed time since start: 577.98 seconds.
+Done reranking query 60. Elapsed time since start: 587.66 seconds.
+Saved 60 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 60 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 61. Elapsed time since start: 598.17 seconds.
+Done reranking query 62. Elapsed time since start: 607.36 seconds.
+Done reranking query 63. Elapsed time since start: 617.18 seconds.
+Done reranking query 64. Elapsed time since start: 626.75 seconds.
+Done reranking query 65. Elapsed time since start: 636.35 seconds.
+Done reranking query 66. Elapsed time since start: 646.92 seconds.
+Done reranking query 67. Elapsed time since start: 656.37 seconds.
+Done reranking query 68. Elapsed time since start: 666.07 seconds.
+Done reranking query 69. Elapsed time since start: 675.44 seconds.
+Done reranking query 70. Elapsed time since start: 684.51 seconds.
+Done reranking query 71. Elapsed time since start: 693.50 seconds.
+Done reranking query 72. Elapsed time since start: 703.29 seconds.
+Done reranking query 73. Elapsed time since start: 712.58 seconds.
+Done reranking query 74. Elapsed time since start: 722.21 seconds.
+Done reranking query 75. Elapsed time since start: 731.63 seconds.
+Saved 75 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 75 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 76. Elapsed time since start: 741.27 seconds.
+Done reranking query 77. Elapsed time since start: 752.53 seconds.
+Done reranking query 78. Elapsed time since start: 761.74 seconds.
+Done reranking query 79. Elapsed time since start: 770.73 seconds.
+Done reranking query 80. Elapsed time since start: 783.03 seconds.
+Done reranking query 81. Elapsed time since start: 792.84 seconds.
+Done reranking query 82. Elapsed time since start: 802.67 seconds.
+Done reranking query 83. Elapsed time since start: 813.50 seconds.
+Done reranking query 84. Elapsed time since start: 821.91 seconds.
+Done reranking query 85. Elapsed time since start: 831.72 seconds.
+Done reranking query 86. Elapsed time since start: 841.51 seconds.
+Done reranking query 87. Elapsed time since start: 850.47 seconds.
+Done reranking query 88. Elapsed time since start: 859.58 seconds.
+Done reranking query 89. Elapsed time since start: 868.39 seconds.
+Done reranking query 90. Elapsed time since start: 877.45 seconds.
+Saved 90 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 90 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 91. Elapsed time since start: 886.75 seconds.
+Done reranking query 92. Elapsed time since start: 896.38 seconds.
+Done reranking query 93. Elapsed time since start: 906.31 seconds.
+Done reranking query 94. Elapsed time since start: 915.73 seconds.
+Done reranking query 95. Elapsed time since start: 925.52 seconds.
+Done reranking query 96. Elapsed time since start: 934.70 seconds.
+Done reranking query 97. Elapsed time since start: 944.31 seconds.
+Done reranking query 98. Elapsed time since start: 953.79 seconds.
+Done reranking query 99. Elapsed time since start: 962.81 seconds.
+Done reranking query 100. Elapsed time since start: 972.27 seconds.
+Done reranking query 101. Elapsed time since start: 981.91 seconds.
+Done reranking query 102. Elapsed time since start: 991.25 seconds.
+Done reranking query 103. Elapsed time since start: 1001.75 seconds.
+Done reranking query 104. Elapsed time since start: 1010.94 seconds.
+Done reranking query 105. Elapsed time since start: 1020.86 seconds.
+Saved 105 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 105 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 106. Elapsed time since start: 1029.64 seconds.
+Done reranking query 107. Elapsed time since start: 1038.90 seconds.
+Done reranking query 108. Elapsed time since start: 1048.29 seconds.
+Done reranking query 109. Elapsed time since start: 1058.07 seconds.
+Done reranking query 110. Elapsed time since start: 1066.95 seconds.
+Done reranking query 111. Elapsed time since start: 1076.63 seconds.
+Done reranking query 112. Elapsed time since start: 1086.19 seconds.
+Done reranking query 113. Elapsed time since start: 1095.18 seconds.
+Done reranking query 114. Elapsed time since start: 1105.51 seconds.
+Done reranking query 115. Elapsed time since start: 1115.26 seconds.
+Done reranking query 116. Elapsed time since start: 1125.10 seconds.
+Done reranking query 117. Elapsed time since start: 1134.16 seconds.
+Done reranking query 118. Elapsed time since start: 1145.63 seconds.
+Done reranking query 119. Elapsed time since start: 1156.38 seconds.
+Done reranking query 120. Elapsed time since start: 1165.15 seconds.
+Saved 120 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 120 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 121. Elapsed time since start: 1176.15 seconds.
+Done reranking query 122. Elapsed time since start: 1186.65 seconds.
+Done reranking query 123. Elapsed time since start: 1198.23 seconds.
+Done reranking query 124. Elapsed time since start: 1207.76 seconds.
+Done reranking query 125. Elapsed time since start: 1217.54 seconds.
+Done reranking query 126. Elapsed time since start: 1227.81 seconds.
+Done reranking query 127. Elapsed time since start: 1236.73 seconds.
+Done reranking query 128. Elapsed time since start: 1247.89 seconds.
+Done reranking query 129. Elapsed time since start: 1257.10 seconds.
+Done reranking query 130. Elapsed time since start: 1266.19 seconds.
+Done reranking query 131. Elapsed time since start: 1274.79 seconds.
+Done reranking query 132. Elapsed time since start: 1283.66 seconds.
+Done reranking query 133. Elapsed time since start: 1294.41 seconds.
+Done reranking query 134. Elapsed time since start: 1304.43 seconds.
+Done reranking query 135. Elapsed time since start: 1314.07 seconds.
+Saved 135 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 135 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 136. Elapsed time since start: 1323.90 seconds.
+Done reranking query 137. Elapsed time since start: 1334.51 seconds.
+Done reranking query 138. Elapsed time since start: 1344.59 seconds.
+Done reranking query 139. Elapsed time since start: 1354.22 seconds.
+Done reranking query 140. Elapsed time since start: 1363.72 seconds.
+Done reranking query 141. Elapsed time since start: 1373.29 seconds.
+Done reranking query 142. Elapsed time since start: 1383.39 seconds.
+Done reranking query 143. Elapsed time since start: 1393.89 seconds.
+Done reranking query 144. Elapsed time since start: 1403.22 seconds.
+Done reranking query 145. Elapsed time since start: 1412.84 seconds.
+Done reranking query 146. Elapsed time since start: 1422.18 seconds.
+Done reranking query 147. Elapsed time since start: 1432.41 seconds.
+Done reranking query 148. Elapsed time since start: 1441.34 seconds.
+Done reranking query 149. Elapsed time since start: 1450.95 seconds.
+Done reranking query 150. Elapsed time since start: 1462.46 seconds.
+Saved 150 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 150 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 151. Elapsed time since start: 1472.00 seconds.
+Done reranking query 152. Elapsed time since start: 1481.62 seconds.
+Done reranking query 153. Elapsed time since start: 1492.06 seconds.
+Done reranking query 154. Elapsed time since start: 1501.23 seconds.
+Done reranking query 155. Elapsed time since start: 1511.29 seconds.
+Done reranking query 156. Elapsed time since start: 1520.98 seconds.
+Done reranking query 157. Elapsed time since start: 1530.52 seconds.
+Done reranking query 158. Elapsed time since start: 1539.60 seconds.
+Done reranking query 159. Elapsed time since start: 1549.60 seconds.
+Done reranking query 160. Elapsed time since start: 1559.65 seconds.
+Done reranking query 161. Elapsed time since start: 1570.31 seconds.
+Done reranking query 162. Elapsed time since start: 1579.78 seconds.
+Done reranking query 163. Elapsed time since start: 1589.68 seconds.
+Done reranking query 164. Elapsed time since start: 1599.21 seconds.
+Done reranking query 165. Elapsed time since start: 1608.47 seconds.
+Saved 165 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 165 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 166. Elapsed time since start: 1618.10 seconds.
+Done reranking query 167. Elapsed time since start: 1627.67 seconds.
+Done reranking query 168. Elapsed time since start: 1637.07 seconds.
+Done reranking query 169. Elapsed time since start: 1649.19 seconds.
+Done reranking query 170. Elapsed time since start: 1658.31 seconds.
+Done reranking query 171. Elapsed time since start: 1668.31 seconds.
+Done reranking query 172. Elapsed time since start: 1677.82 seconds.
+Done reranking query 173. Elapsed time since start: 1687.08 seconds.
+Done reranking query 174. Elapsed time since start: 1696.67 seconds.
+Done reranking query 175. Elapsed time since start: 1706.49 seconds.
+Done reranking query 176. Elapsed time since start: 1717.45 seconds.
+Done reranking query 177. Elapsed time since start: 1728.45 seconds.
+Done reranking query 178. Elapsed time since start: 1740.55 seconds.
+Done reranking query 179. Elapsed time since start: 1750.67 seconds.
+Done reranking query 180. Elapsed time since start: 1761.34 seconds.
+Saved 180 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 180 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 181. Elapsed time since start: 1771.44 seconds.
+Done reranking query 182. Elapsed time since start: 1782.09 seconds.
+Done reranking query 183. Elapsed time since start: 1791.08 seconds.
+Done reranking query 184. Elapsed time since start: 1800.03 seconds.
+Done reranking query 185. Elapsed time since start: 1809.19 seconds.
+Done reranking query 186. Elapsed time since start: 1818.86 seconds.
+Done reranking query 187. Elapsed time since start: 1828.23 seconds.
+Done reranking query 188. Elapsed time since start: 1837.99 seconds.
+Done reranking query 189. Elapsed time since start: 1847.80 seconds.
+Done reranking query 190. Elapsed time since start: 1858.24 seconds.
+Done reranking query 191. Elapsed time since start: 1867.62 seconds.
+Done reranking query 192. Elapsed time since start: 1877.00 seconds.
+Done reranking query 193. Elapsed time since start: 1886.55 seconds.
+Done reranking query 194. Elapsed time since start: 1896.79 seconds.
+Done reranking query 195. Elapsed time since start: 1905.92 seconds.
+Saved 195 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 195 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 196. Elapsed time since start: 1915.05 seconds.
+Done reranking query 197. Elapsed time since start: 1924.36 seconds.
+Done reranking query 198. Elapsed time since start: 1934.19 seconds.
+Done reranking query 199. Elapsed time since start: 1943.49 seconds.
+Done reranking query 200. Elapsed time since start: 1955.25 seconds.
+Done reranking query 201. Elapsed time since start: 1964.69 seconds.
+Done reranking query 202. Elapsed time since start: 1974.54 seconds.
+Done reranking query 203. Elapsed time since start: 1984.25 seconds.
+Done reranking query 204. Elapsed time since start: 1994.36 seconds.
+Done reranking query 205. Elapsed time since start: 2004.11 seconds.
+Done reranking query 206. Elapsed time since start: 2013.71 seconds.
+Done reranking query 207. Elapsed time since start: 2023.30 seconds.
+Done reranking query 208. Elapsed time since start: 2032.63 seconds.
+Done reranking query 209. Elapsed time since start: 2042.95 seconds.
+Done reranking query 210. Elapsed time since start: 2052.55 seconds.
+Saved 210 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 210 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 211. Elapsed time since start: 2062.98 seconds.
+Done reranking query 212. Elapsed time since start: 2072.70 seconds.
+Done reranking query 213. Elapsed time since start: 2082.06 seconds.
+Done reranking query 214. Elapsed time since start: 2091.40 seconds.
+Done reranking query 215. Elapsed time since start: 2102.44 seconds.
+Done reranking query 216. Elapsed time since start: 2112.82 seconds.
+Done reranking query 217. Elapsed time since start: 2122.44 seconds.
+Done reranking query 218. Elapsed time since start: 2131.50 seconds.
+Done reranking query 219. Elapsed time since start: 2141.00 seconds.
+Done reranking query 220. Elapsed time since start: 2149.88 seconds.
+Done reranking query 221. Elapsed time since start: 2159.23 seconds.
+Done reranking query 222. Elapsed time since start: 2169.88 seconds.
+Done reranking query 223. Elapsed time since start: 2178.61 seconds.
+Done reranking query 224. Elapsed time since start: 2187.76 seconds.
+Done reranking query 225. Elapsed time since start: 2197.59 seconds.
+Saved 225 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 225 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 226. Elapsed time since start: 2208.21 seconds.
+Done reranking query 227. Elapsed time since start: 2217.32 seconds.
+Done reranking query 228. Elapsed time since start: 2226.86 seconds.
+Done reranking query 229. Elapsed time since start: 2238.40 seconds.
+Done reranking query 230. Elapsed time since start: 2247.70 seconds.
+Done reranking query 231. Elapsed time since start: 2256.75 seconds.
+Done reranking query 232. Elapsed time since start: 2267.04 seconds.
+Done reranking query 233. Elapsed time since start: 2277.04 seconds.
+Done reranking query 234. Elapsed time since start: 2286.73 seconds.
+Done reranking query 235. Elapsed time since start: 2297.24 seconds.
+Done reranking query 236. Elapsed time since start: 2307.60 seconds.
+Done reranking query 237. Elapsed time since start: 2317.29 seconds.
+Done reranking query 238. Elapsed time since start: 2327.51 seconds.
+Done reranking query 239. Elapsed time since start: 2337.27 seconds.
+Done reranking query 240. Elapsed time since start: 2346.36 seconds.
+Saved 240 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 240 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 241. Elapsed time since start: 2356.19 seconds.
+Done reranking query 242. Elapsed time since start: 2369.59 seconds.
+Done reranking query 243. Elapsed time since start: 2380.94 seconds.
+Done reranking query 244. Elapsed time since start: 2390.21 seconds.
+Done reranking query 245. Elapsed time since start: 2400.47 seconds.
+Done reranking query 246. Elapsed time since start: 2409.32 seconds.
+Done reranking query 247. Elapsed time since start: 2419.04 seconds.
+Done reranking query 248. Elapsed time since start: 2428.62 seconds.
+Done reranking query 249. Elapsed time since start: 2438.32 seconds.
+Done reranking query 250. Elapsed time since start: 2447.75 seconds.
+Done reranking query 251. Elapsed time since start: 2457.14 seconds.
+Done reranking query 252. Elapsed time since start: 2467.40 seconds.
+Done reranking query 253. Elapsed time since start: 2476.31 seconds.
+Done reranking query 254. Elapsed time since start: 2485.75 seconds.
+Done reranking query 255. Elapsed time since start: 2495.37 seconds.
+Saved 255 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 255 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 256. Elapsed time since start: 2504.34 seconds.
+Done reranking query 257. Elapsed time since start: 2513.71 seconds.
+Done reranking query 258. Elapsed time since start: 2524.66 seconds.
+Done reranking query 259. Elapsed time since start: 2534.28 seconds.
+Done reranking query 260. Elapsed time since start: 2543.31 seconds.
+Done reranking query 261. Elapsed time since start: 2551.92 seconds.
+Done reranking query 262. Elapsed time since start: 2561.62 seconds.
+Done reranking query 263. Elapsed time since start: 2570.78 seconds.
+Done reranking query 264. Elapsed time since start: 2579.98 seconds.
+Done reranking query 265. Elapsed time since start: 2589.34 seconds.
+Done reranking query 266. Elapsed time since start: 2599.54 seconds.
+Done reranking query 267. Elapsed time since start: 2609.56 seconds.
+Done reranking query 268. Elapsed time since start: 2618.80 seconds.
+Done reranking query 269. Elapsed time since start: 2628.91 seconds.
+Done reranking query 270. Elapsed time since start: 2638.34 seconds.
+Saved 270 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 270 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 271. Elapsed time since start: 2648.35 seconds.
+Done reranking query 272. Elapsed time since start: 2658.34 seconds.
+Done reranking query 273. Elapsed time since start: 2668.62 seconds.
+Done reranking query 274. Elapsed time since start: 2677.41 seconds.
+Done reranking query 275. Elapsed time since start: 2686.57 seconds.
+Done reranking query 276. Elapsed time since start: 2695.71 seconds.
+Done reranking query 277. Elapsed time since start: 2706.35 seconds.
+Done reranking query 278. Elapsed time since start: 2716.00 seconds.
+Done reranking query 279. Elapsed time since start: 2725.37 seconds.
+Done reranking query 280. Elapsed time since start: 2734.08 seconds.
+Done reranking query 281. Elapsed time since start: 2743.42 seconds.
+Done reranking query 282. Elapsed time since start: 2752.73 seconds.
+Done reranking query 283. Elapsed time since start: 2762.27 seconds.
+Done reranking query 284. Elapsed time since start: 2773.50 seconds.
+Done reranking query 285. Elapsed time since start: 2783.80 seconds.
+Saved 285 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 285 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 286. Elapsed time since start: 2792.99 seconds.
+Done reranking query 287. Elapsed time since start: 2802.54 seconds.
+Done reranking query 288. Elapsed time since start: 2811.69 seconds.
+Done reranking query 289. Elapsed time since start: 2820.87 seconds.
+Done reranking query 290. Elapsed time since start: 2831.10 seconds.
+Done reranking query 291. Elapsed time since start: 2840.19 seconds.
+Done reranking query 292. Elapsed time since start: 2850.05 seconds.
+Done reranking query 293. Elapsed time since start: 2859.16 seconds.
+Done reranking query 294. Elapsed time since start: 2868.17 seconds.
+Done reranking query 295. Elapsed time since start: 2877.10 seconds.
+Done reranking query 296. Elapsed time since start: 2886.17 seconds.
+Done reranking query 297. Elapsed time since start: 2896.14 seconds.
+Done reranking query 298. Elapsed time since start: 2906.58 seconds.
+Done reranking query 299. Elapsed time since start: 2915.74 seconds.
+Done reranking query 300. Elapsed time since start: 2925.20 seconds.
+Saved 300 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 300 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 301. Elapsed time since start: 2934.22 seconds.
+Done reranking query 302. Elapsed time since start: 2943.39 seconds.
+Done reranking query 303. Elapsed time since start: 2952.34 seconds.
+Done reranking query 304. Elapsed time since start: 2961.82 seconds.
+Done reranking query 305. Elapsed time since start: 2971.28 seconds.
+Done reranking query 306. Elapsed time since start: 2980.60 seconds.
+Done reranking query 307. Elapsed time since start: 2990.27 seconds.
+Done reranking query 308. Elapsed time since start: 3000.58 seconds.
+Done reranking query 309. Elapsed time since start: 3010.06 seconds.
+Done reranking query 310. Elapsed time since start: 3018.85 seconds.
+Done reranking query 311. Elapsed time since start: 3028.56 seconds.
+Done reranking query 312. Elapsed time since start: 3037.41 seconds.
+Done reranking query 313. Elapsed time since start: 3046.83 seconds.
+Done reranking query 314. Elapsed time since start: 3055.73 seconds.
+Done reranking query 315. Elapsed time since start: 3066.53 seconds.
+Saved 315 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 315 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 316. Elapsed time since start: 3075.34 seconds.
+Done reranking query 317. Elapsed time since start: 3084.32 seconds.
+Done reranking query 318. Elapsed time since start: 3093.01 seconds.
+Done reranking query 319. Elapsed time since start: 3102.03 seconds.
+Done reranking query 320. Elapsed time since start: 3113.54 seconds.
+Done reranking query 321. Elapsed time since start: 3122.98 seconds.
+Done reranking query 322. Elapsed time since start: 3131.43 seconds.
+Done reranking query 323. Elapsed time since start: 3142.57 seconds.
+Done reranking query 324. Elapsed time since start: 3152.19 seconds.
+Done reranking query 325. Elapsed time since start: 3160.94 seconds.
+Done reranking query 326. Elapsed time since start: 3172.15 seconds.
+Done reranking query 327. Elapsed time since start: 3182.60 seconds.
+Done reranking query 328. Elapsed time since start: 3192.40 seconds.
+Done reranking query 329. Elapsed time since start: 3201.42 seconds.
+Done reranking query 330. Elapsed time since start: 3211.20 seconds.
+Saved 330 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 330 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 331. Elapsed time since start: 3220.36 seconds.
+Done reranking query 332. Elapsed time since start: 3231.51 seconds.
+Done reranking query 333. Elapsed time since start: 3240.42 seconds.
+Done reranking query 334. Elapsed time since start: 3249.74 seconds.
+Done reranking query 335. Elapsed time since start: 3258.92 seconds.
+Done reranking query 336. Elapsed time since start: 3268.12 seconds.
+Done reranking query 337. Elapsed time since start: 3278.69 seconds.
+Done reranking query 338. Elapsed time since start: 3288.05 seconds.
+Done reranking query 339. Elapsed time since start: 3297.02 seconds.
+Done reranking query 340. Elapsed time since start: 3306.81 seconds.
+Done reranking query 341. Elapsed time since start: 3316.04 seconds.
+Done reranking query 342. Elapsed time since start: 3325.17 seconds.
+Done reranking query 343. Elapsed time since start: 3334.50 seconds.
+Done reranking query 344. Elapsed time since start: 3344.81 seconds.
+Done reranking query 345. Elapsed time since start: 3355.18 seconds.
+Saved 345 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 345 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 346. Elapsed time since start: 3365.81 seconds.
+Done reranking query 347. Elapsed time since start: 3374.99 seconds.
+Done reranking query 348. Elapsed time since start: 3384.57 seconds.
+Done reranking query 349. Elapsed time since start: 3393.68 seconds.
+Done reranking query 350. Elapsed time since start: 3404.63 seconds.
+Done reranking query 351. Elapsed time since start: 3414.77 seconds.
+Done reranking query 352. Elapsed time since start: 3424.33 seconds.
+Done reranking query 353. Elapsed time since start: 3433.72 seconds.
+Done reranking query 354. Elapsed time since start: 3442.84 seconds.
+Done reranking query 355. Elapsed time since start: 3453.15 seconds.
+Done reranking query 356. Elapsed time since start: 3462.67 seconds.
+Done reranking query 357. Elapsed time since start: 3473.58 seconds.
+Done reranking query 358. Elapsed time since start: 3482.83 seconds.
+Done reranking query 359. Elapsed time since start: 3492.44 seconds.
+Done reranking query 360. Elapsed time since start: 3501.78 seconds.
+Saved 360 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 360 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 361. Elapsed time since start: 3510.89 seconds.
+Done reranking query 362. Elapsed time since start: 3519.80 seconds.
+Done reranking query 363. Elapsed time since start: 3529.28 seconds.
+Done reranking query 364. Elapsed time since start: 3538.52 seconds.
+Done reranking query 365. Elapsed time since start: 3548.37 seconds.
+Done reranking query 366. Elapsed time since start: 3557.16 seconds.
+Done reranking query 367. Elapsed time since start: 3565.78 seconds.
+Done reranking query 368. Elapsed time since start: 3575.21 seconds.
+Done reranking query 369. Elapsed time since start: 3586.84 seconds.
+Done reranking query 370. Elapsed time since start: 3596.47 seconds.
+Done reranking query 371. Elapsed time since start: 3605.11 seconds.
+Done reranking query 372. Elapsed time since start: 3615.54 seconds.
+Done reranking query 373. Elapsed time since start: 3624.33 seconds.
+Done reranking query 374. Elapsed time since start: 3634.30 seconds.
+Done reranking query 375. Elapsed time since start: 3643.19 seconds.
+Saved 375 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 375 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 376. Elapsed time since start: 3651.80 seconds.
+Done reranking query 377. Elapsed time since start: 3661.23 seconds.
+Error calling DeepSeek API: Error code: 400 - {'error': {'message': 'Content Exists Risk', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Done reranking query 378. Elapsed time since start: 3664.59 seconds.
+Done reranking query 379. Elapsed time since start: 3672.86 seconds.
+Done reranking query 380. Elapsed time since start: 3681.96 seconds.
+Done reranking query 381. Elapsed time since start: 3692.35 seconds.
+Done reranking query 382. Elapsed time since start: 3700.85 seconds.
+Done reranking query 383. Elapsed time since start: 3709.28 seconds.
+Done reranking query 384. Elapsed time since start: 3718.22 seconds.
+Done reranking query 385. Elapsed time since start: 3729.68 seconds.
+Done reranking query 386. Elapsed time since start: 3738.68 seconds.
+Done reranking query 387. Elapsed time since start: 3747.35 seconds.
+Done reranking query 388. Elapsed time since start: 3759.16 seconds.
+Done reranking query 389. Elapsed time since start: 3768.07 seconds.
+Done reranking query 390. Elapsed time since start: 3777.04 seconds.
+Saved 390 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 390 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 391. Elapsed time since start: 3786.16 seconds.
+Done reranking query 392. Elapsed time since start: 3795.31 seconds.
+Done reranking query 393. Elapsed time since start: 3804.12 seconds.
+Done reranking query 394. Elapsed time since start: 3812.88 seconds.
+Done reranking query 395. Elapsed time since start: 3822.29 seconds.
+Done reranking query 396. Elapsed time since start: 3831.01 seconds.
+Done reranking query 397. Elapsed time since start: 3840.50 seconds.
+Done reranking query 398. Elapsed time since start: 3849.58 seconds.
+Done reranking query 399. Elapsed time since start: 3857.95 seconds.
+Done reranking query 400. Elapsed time since start: 3866.95 seconds.
+Done reranking query 401. Elapsed time since start: 3875.45 seconds.
+Done reranking query 402. Elapsed time since start: 3884.92 seconds.
+Done reranking query 403. Elapsed time since start: 3893.87 seconds.
+Done reranking query 404. Elapsed time since start: 3902.42 seconds.
+Done reranking query 405. Elapsed time since start: 3912.70 seconds.
+Saved 405 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 405 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 406. Elapsed time since start: 3921.95 seconds.
+Done reranking query 407. Elapsed time since start: 3930.13 seconds.
+Done reranking query 408. Elapsed time since start: 3938.89 seconds.
+Done reranking query 409. Elapsed time since start: 3948.37 seconds.
+Done reranking query 410. Elapsed time since start: 3958.01 seconds.
+Done reranking query 411. Elapsed time since start: 3967.98 seconds.
+Done reranking query 412. Elapsed time since start: 3976.50 seconds.
+Done reranking query 413. Elapsed time since start: 3984.88 seconds.
+Done reranking query 414. Elapsed time since start: 3994.09 seconds.
+Done reranking query 415. Elapsed time since start: 4002.85 seconds.
+Done reranking query 416. Elapsed time since start: 4012.23 seconds.
+Done reranking query 417. Elapsed time since start: 4021.09 seconds.
+Done reranking query 418. Elapsed time since start: 4029.35 seconds.
+Done reranking query 419. Elapsed time since start: 4038.56 seconds.
+Done reranking query 420. Elapsed time since start: 4046.71 seconds.
+Saved 420 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 420 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 421. Elapsed time since start: 4056.01 seconds.
+Done reranking query 422. Elapsed time since start: 4064.91 seconds.
+Done reranking query 423. Elapsed time since start: 4073.56 seconds.
+Done reranking query 424. Elapsed time since start: 4083.05 seconds.
+Done reranking query 425. Elapsed time since start: 4095.58 seconds.
+Done reranking query 426. Elapsed time since start: 4105.92 seconds.
+Done reranking query 427. Elapsed time since start: 4116.36 seconds.
+Done reranking query 428. Elapsed time since start: 4126.38 seconds.
+Done reranking query 429. Elapsed time since start: 4136.32 seconds.
+Done reranking query 430. Elapsed time since start: 4145.12 seconds.
+Done reranking query 431. Elapsed time since start: 4154.53 seconds.
+Done reranking query 432. Elapsed time since start: 4164.16 seconds.
+Done reranking query 433. Elapsed time since start: 4172.92 seconds.
+Done reranking query 434. Elapsed time since start: 4183.26 seconds.
+Done reranking query 435. Elapsed time since start: 4191.86 seconds.
+Saved 435 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 435 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 436. Elapsed time since start: 4201.17 seconds.
+Done reranking query 437. Elapsed time since start: 4209.98 seconds.
+Done reranking query 438. Elapsed time since start: 4218.34 seconds.
+Done reranking query 439. Elapsed time since start: 4226.83 seconds.
+Done reranking query 440. Elapsed time since start: 4236.79 seconds.
+Done reranking query 441. Elapsed time since start: 4245.21 seconds.
+Done reranking query 442. Elapsed time since start: 4253.82 seconds.
+Done reranking query 443. Elapsed time since start: 4263.34 seconds.
+Done reranking query 444. Elapsed time since start: 4272.07 seconds.
+Done reranking query 445. Elapsed time since start: 4281.63 seconds.
+Done reranking query 446. Elapsed time since start: 4290.23 seconds.
+Done reranking query 447. Elapsed time since start: 4298.92 seconds.
+Done reranking query 448. Elapsed time since start: 4307.44 seconds.
+Done reranking query 449. Elapsed time since start: 4315.89 seconds.
+Done reranking query 450. Elapsed time since start: 4324.69 seconds.
+Saved 450 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 450 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 451. Elapsed time since start: 4333.15 seconds.
+Done reranking query 452. Elapsed time since start: 4342.17 seconds.
+Done reranking query 453. Elapsed time since start: 4353.45 seconds.
+Done reranking query 454. Elapsed time since start: 4362.30 seconds.
+Done reranking query 455. Elapsed time since start: 4371.68 seconds.
+Done reranking query 456. Elapsed time since start: 4380.72 seconds.
+Done reranking query 457. Elapsed time since start: 4391.79 seconds.
+Done reranking query 458. Elapsed time since start: 4401.19 seconds.
+Done reranking query 459. Elapsed time since start: 4409.74 seconds.
+Done reranking query 460. Elapsed time since start: 4418.10 seconds.
+Done reranking query 461. Elapsed time since start: 4426.66 seconds.
+Done reranking query 462. Elapsed time since start: 4435.04 seconds.
+Done reranking query 463. Elapsed time since start: 4444.36 seconds.
+Done reranking query 464. Elapsed time since start: 4453.06 seconds.
+Done reranking query 465. Elapsed time since start: 4462.28 seconds.
+Saved 465 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 465 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 466. Elapsed time since start: 4471.11 seconds.
+Done reranking query 467. Elapsed time since start: 4480.53 seconds.
+Done reranking query 468. Elapsed time since start: 4489.17 seconds.
+Done reranking query 469. Elapsed time since start: 4497.84 seconds.
+Done reranking query 470. Elapsed time since start: 4506.65 seconds.
+Done reranking query 471. Elapsed time since start: 4517.06 seconds.
+Done reranking query 472. Elapsed time since start: 4525.90 seconds.
+Done reranking query 473. Elapsed time since start: 4534.61 seconds.
+Done reranking query 474. Elapsed time since start: 4544.20 seconds.
+Done reranking query 475. Elapsed time since start: 4553.72 seconds.
+Done reranking query 476. Elapsed time since start: 4563.37 seconds.
+Done reranking query 477. Elapsed time since start: 4571.83 seconds.
+Done reranking query 478. Elapsed time since start: 4580.96 seconds.
+Done reranking query 479. Elapsed time since start: 4590.05 seconds.
+Done reranking query 480. Elapsed time since start: 4599.00 seconds.
+Saved 480 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 480 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 481. Elapsed time since start: 4609.54 seconds.
+Done reranking query 482. Elapsed time since start: 4620.63 seconds.
+Done reranking query 483. Elapsed time since start: 4629.57 seconds.
+Done reranking query 484. Elapsed time since start: 4638.52 seconds.
+Done reranking query 485. Elapsed time since start: 4647.85 seconds.
+Done reranking query 486. Elapsed time since start: 4656.37 seconds.
+Done reranking query 487. Elapsed time since start: 4665.66 seconds.
+Done reranking query 488. Elapsed time since start: 4674.36 seconds.
+Done reranking query 489. Elapsed time since start: 4683.58 seconds.
+Done reranking query 490. Elapsed time since start: 4693.79 seconds.
+Done reranking query 491. Elapsed time since start: 4704.65 seconds.
+Done reranking query 492. Elapsed time since start: 4714.03 seconds.
+Done reranking query 493. Elapsed time since start: 4724.07 seconds.
+Done reranking query 494. Elapsed time since start: 4732.89 seconds.
+Done reranking query 495. Elapsed time since start: 4741.57 seconds.
+Saved 495 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 495 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 496. Elapsed time since start: 4749.81 seconds.
+Done reranking query 497. Elapsed time since start: 4758.52 seconds.
+Done reranking query 498. Elapsed time since start: 4766.96 seconds.
+Done reranking query 499. Elapsed time since start: 4776.78 seconds.
+Done reranking query 500. Elapsed time since start: 4786.06 seconds.
+Done reranking query 501. Elapsed time since start: 4794.96 seconds.
+Done reranking query 502. Elapsed time since start: 4803.51 seconds.
+Done reranking query 503. Elapsed time since start: 4813.45 seconds.
+Done reranking query 504. Elapsed time since start: 4824.10 seconds.
+Done reranking query 505. Elapsed time since start: 4835.20 seconds.
+Done reranking query 506. Elapsed time since start: 4844.12 seconds.
+Done reranking query 507. Elapsed time since start: 4852.80 seconds.
+Done reranking query 508. Elapsed time since start: 4864.03 seconds.
+Done reranking query 509. Elapsed time since start: 4873.52 seconds.
+Done reranking query 510. Elapsed time since start: 4882.63 seconds.
+Saved 510 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 510 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 511. Elapsed time since start: 4892.08 seconds.
+Done reranking query 512. Elapsed time since start: 4900.75 seconds.
+Done reranking query 513. Elapsed time since start: 4909.39 seconds.
+Done reranking query 514. Elapsed time since start: 4918.68 seconds.
+Done reranking query 515. Elapsed time since start: 4927.30 seconds.
+Done reranking query 516. Elapsed time since start: 4935.75 seconds.
+Done reranking query 517. Elapsed time since start: 4944.74 seconds.
+Done reranking query 518. Elapsed time since start: 4953.81 seconds.
+Done reranking query 519. Elapsed time since start: 4962.65 seconds.
+Done reranking query 520. Elapsed time since start: 4971.56 seconds.
+Done reranking query 521. Elapsed time since start: 4980.65 seconds.
+Done reranking query 522. Elapsed time since start: 4989.57 seconds.
+Done reranking query 523. Elapsed time since start: 4999.76 seconds.
+Done reranking query 524. Elapsed time since start: 5008.21 seconds.
+Done reranking query 525. Elapsed time since start: 5016.90 seconds.
+Saved 525 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 525 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 526. Elapsed time since start: 5025.85 seconds.
+Done reranking query 527. Elapsed time since start: 5034.68 seconds.
+Done reranking query 528. Elapsed time since start: 5043.46 seconds.
+Done reranking query 529. Elapsed time since start: 5052.52 seconds.
+Done reranking query 530. Elapsed time since start: 5062.41 seconds.
+Done reranking query 531. Elapsed time since start: 5072.34 seconds.
+Done reranking query 532. Elapsed time since start: 5080.82 seconds.
+Done reranking query 533. Elapsed time since start: 5089.69 seconds.
+Done reranking query 534. Elapsed time since start: 5098.44 seconds.
+Done reranking query 535. Elapsed time since start: 5109.06 seconds.
+Done reranking query 536. Elapsed time since start: 5117.87 seconds.
+Done reranking query 537. Elapsed time since start: 5126.38 seconds.
+Done reranking query 538. Elapsed time since start: 5135.50 seconds.
+Done reranking query 539. Elapsed time since start: 5144.17 seconds.
+Done reranking query 540. Elapsed time since start: 5153.85 seconds.
+Saved 540 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 540 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 541. Elapsed time since start: 5163.25 seconds.
+Done reranking query 542. Elapsed time since start: 5172.06 seconds.
+Done reranking query 543. Elapsed time since start: 5182.31 seconds.
+Done reranking query 544. Elapsed time since start: 5193.92 seconds.
+Done reranking query 545. Elapsed time since start: 5203.21 seconds.
+Done reranking query 546. Elapsed time since start: 5213.58 seconds.
+Done reranking query 547. Elapsed time since start: 5222.44 seconds.
+Done reranking query 548. Elapsed time since start: 5231.60 seconds.
+Done reranking query 549. Elapsed time since start: 5240.68 seconds.
+Done reranking query 550. Elapsed time since start: 5249.48 seconds.
+Done reranking query 551. Elapsed time since start: 5258.91 seconds.
+Done reranking query 552. Elapsed time since start: 5267.47 seconds.
+Done reranking query 553. Elapsed time since start: 5276.26 seconds.
+Done reranking query 554. Elapsed time since start: 5284.94 seconds.
+Done reranking query 555. Elapsed time since start: 5293.97 seconds.
+Saved 555 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 555 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 556. Elapsed time since start: 5303.37 seconds.
+Done reranking query 557. Elapsed time since start: 5312.46 seconds.
+Done reranking query 558. Elapsed time since start: 5321.63 seconds.
+Done reranking query 559. Elapsed time since start: 5331.97 seconds.
+Done reranking query 560. Elapsed time since start: 5340.63 seconds.
+Done reranking query 561. Elapsed time since start: 5356.94 seconds.
+Done reranking query 562. Elapsed time since start: 5365.79 seconds.
+Done reranking query 563. Elapsed time since start: 5374.51 seconds.
+Done reranking query 564. Elapsed time since start: 5383.33 seconds.
+Done reranking query 565. Elapsed time since start: 5392.77 seconds.
+Done reranking query 566. Elapsed time since start: 5402.13 seconds.
+Done reranking query 567. Elapsed time since start: 5411.68 seconds.
+Done reranking query 568. Elapsed time since start: 5420.55 seconds.
+Done reranking query 569. Elapsed time since start: 5429.82 seconds.
+Done reranking query 570. Elapsed time since start: 5440.16 seconds.
+Saved 570 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 570 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 571. Elapsed time since start: 5450.16 seconds.
+Done reranking query 572. Elapsed time since start: 5460.46 seconds.
+Done reranking query 573. Elapsed time since start: 5469.89 seconds.
+Done reranking query 574. Elapsed time since start: 5479.17 seconds.
+Done reranking query 575. Elapsed time since start: 5488.35 seconds.
+Done reranking query 576. Elapsed time since start: 5497.33 seconds.
+Error parsing or validating JSON from DeepSeek: Expecting value: line 1 column 2 (char 1) # Resolved Manually
+Failed to parse JSON. Raw response from DeepSeek: '[' # Resolved Manually
+Done reranking query 577. Elapsed time since start: 5803.67 seconds.
+Done reranking query 578. Elapsed time since start: 5814.60 seconds.
+Done reranking query 579. Elapsed time since start: 5826.59 seconds.
+Done reranking query 580. Elapsed time since start: 5844.74 seconds.
+Done reranking query 581. Elapsed time since start: 5861.97 seconds.
+Done reranking query 582. Elapsed time since start: 5880.23 seconds.
+Done reranking query 583. Elapsed time since start: 5898.70 seconds.
+Done reranking query 584. Elapsed time since start: 5917.11 seconds.
+Done reranking query 585. Elapsed time since start: 5933.76 seconds.
+Saved 585 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 585 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 586. Elapsed time since start: 5952.28 seconds.
+Done reranking query 587. Elapsed time since start: 5969.36 seconds.
+Done reranking query 588. Elapsed time since start: 5988.51 seconds.
+Done reranking query 589. Elapsed time since start: 5999.66 seconds.
+Done reranking query 590. Elapsed time since start: 6009.01 seconds.
+Done reranking query 591. Elapsed time since start: 6019.71 seconds.
+Done reranking query 592. Elapsed time since start: 6031.85 seconds.
+Done reranking query 593. Elapsed time since start: 6042.14 seconds.
+Done reranking query 594. Elapsed time since start: 6069.45 seconds.
+Done reranking query 595. Elapsed time since start: 6078.58 seconds.
+Done reranking query 596. Elapsed time since start: 6091.32 seconds.
+Done reranking query 597. Elapsed time since start: 6101.77 seconds.
+Done reranking query 598. Elapsed time since start: 6112.42 seconds.
+Done reranking query 599. Elapsed time since start: 6126.40 seconds.
+Done reranking query 600. Elapsed time since start: 6136.51 seconds.
+Saved 600 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 600 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 601. Elapsed time since start: 6145.29 seconds.
+Done reranking query 602. Elapsed time since start: 6154.16 seconds.
+Done reranking query 603. Elapsed time since start: 6163.10 seconds.
+Done reranking query 604. Elapsed time since start: 6172.70 seconds.
+Done reranking query 605. Elapsed time since start: 6182.32 seconds.
+Done reranking query 606. Elapsed time since start: 6190.70 seconds.
+Done reranking query 607. Elapsed time since start: 6200.27 seconds.
+Done reranking query 608. Elapsed time since start: 6210.92 seconds.
+Done reranking query 609. Elapsed time since start: 6219.33 seconds.
+Done reranking query 610. Elapsed time since start: 6228.37 seconds.
+Done reranking query 611. Elapsed time since start: 6237.81 seconds.
+Done reranking query 612. Elapsed time since start: 6247.05 seconds.
+Done reranking query 613. Elapsed time since start: 6256.84 seconds.
+Done reranking query 614. Elapsed time since start: 6265.27 seconds.
+Done reranking query 615. Elapsed time since start: 6275.19 seconds.
+Saved 615 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 615 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 616. Elapsed time since start: 6283.92 seconds.
+Done reranking query 617. Elapsed time since start: 6292.91 seconds.
+Done reranking query 618. Elapsed time since start: 6302.86 seconds.
+Done reranking query 619. Elapsed time since start: 6313.23 seconds.
+Done reranking query 620. Elapsed time since start: 6322.28 seconds.
+Done reranking query 621. Elapsed time since start: 6331.26 seconds.
+Done reranking query 622. Elapsed time since start: 6340.73 seconds.
+Done reranking query 623. Elapsed time since start: 6349.77 seconds.
+Done reranking query 624. Elapsed time since start: 6358.97 seconds.
+Done reranking query 625. Elapsed time since start: 6368.10 seconds.
+Done reranking query 626. Elapsed time since start: 6377.50 seconds.
+Done reranking query 627. Elapsed time since start: 6387.12 seconds.
+Done reranking query 628. Elapsed time since start: 6395.55 seconds.
+Done reranking query 629. Elapsed time since start: 6404.28 seconds.
+Done reranking query 630. Elapsed time since start: 6413.08 seconds.
+Saved 630 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 630 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 631. Elapsed time since start: 6421.93 seconds.
+Done reranking query 632. Elapsed time since start: 6431.13 seconds.
+Done reranking query 633. Elapsed time since start: 6440.55 seconds.
+Done reranking query 634. Elapsed time since start: 6450.73 seconds.
+Done reranking query 635. Elapsed time since start: 6459.20 seconds.
+Done reranking query 636. Elapsed time since start: 6467.62 seconds.
+Done reranking query 637. Elapsed time since start: 6476.71 seconds.
+Done reranking query 638. Elapsed time since start: 6485.95 seconds.
+Done reranking query 639. Elapsed time since start: 6494.92 seconds.
+Done reranking query 640. Elapsed time since start: 6503.89 seconds.
+Done reranking query 641. Elapsed time since start: 6512.62 seconds.
+Done reranking query 642. Elapsed time since start: 6521.24 seconds.
+Done reranking query 643. Elapsed time since start: 6530.54 seconds.
+Done reranking query 644. Elapsed time since start: 6539.11 seconds.
+Done reranking query 645. Elapsed time since start: 6547.63 seconds.
+Saved 645 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 645 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 646. Elapsed time since start: 6556.80 seconds.
+Done reranking query 647. Elapsed time since start: 6565.81 seconds.
+Done reranking query 648. Elapsed time since start: 6575.43 seconds.
+Done reranking query 649. Elapsed time since start: 6584.12 seconds.
+Done reranking query 650. Elapsed time since start: 6592.72 seconds.
+Done reranking query 651. Elapsed time since start: 6601.66 seconds.
+Done reranking query 652. Elapsed time since start: 6610.88 seconds.
+Done reranking query 653. Elapsed time since start: 6619.14 seconds.
+Done reranking query 654. Elapsed time since start: 6628.46 seconds.
+Done reranking query 655. Elapsed time since start: 6636.63 seconds.
+Done reranking query 656. Elapsed time since start: 6646.06 seconds.
+Done reranking query 657. Elapsed time since start: 6655.34 seconds.
+Done reranking query 658. Elapsed time since start: 6663.96 seconds.
+Done reranking query 659. Elapsed time since start: 6672.69 seconds.
+Done reranking query 660. Elapsed time since start: 6682.15 seconds.
+Saved 660 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 660 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 661. Elapsed time since start: 6691.46 seconds.
+Done reranking query 662. Elapsed time since start: 6699.66 seconds.
+Done reranking query 663. Elapsed time since start: 6708.85 seconds.
+Done reranking query 664. Elapsed time since start: 6717.77 seconds.
+Done reranking query 665. Elapsed time since start: 6728.75 seconds.
+Done reranking query 666. Elapsed time since start: 6737.32 seconds.
+Done reranking query 667. Elapsed time since start: 6745.72 seconds.
+Done reranking query 668. Elapsed time since start: 6754.29 seconds.
+Done reranking query 669. Elapsed time since start: 6763.44 seconds.
+Done reranking query 670. Elapsed time since start: 6771.80 seconds.
+Done reranking query 671. Elapsed time since start: 6781.19 seconds.
+Done reranking query 672. Elapsed time since start: 6790.25 seconds.
+Done reranking query 673. Elapsed time since start: 6799.76 seconds.
+Done reranking query 674. Elapsed time since start: 6808.43 seconds.
+Done reranking query 675. Elapsed time since start: 6817.34 seconds.
+Saved 675 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 675 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 676. Elapsed time since start: 6826.19 seconds.
+Done reranking query 677. Elapsed time since start: 6835.23 seconds.
+Done reranking query 678. Elapsed time since start: 6843.93 seconds.
+Done reranking query 679. Elapsed time since start: 6853.07 seconds.
+Done reranking query 680. Elapsed time since start: 6863.75 seconds.
+Done reranking query 681. Elapsed time since start: 6875.17 seconds.
+Done reranking query 682. Elapsed time since start: 6884.17 seconds.
+Done reranking query 683. Elapsed time since start: 6892.82 seconds.
+Done reranking query 684. Elapsed time since start: 6901.70 seconds.
+Done reranking query 685. Elapsed time since start: 6910.71 seconds.
+Done reranking query 686. Elapsed time since start: 6920.74 seconds.
+Done reranking query 687. Elapsed time since start: 6929.37 seconds.
+Done reranking query 688. Elapsed time since start: 6938.26 seconds.
+Done reranking query 689. Elapsed time since start: 6947.80 seconds.
+Done reranking query 690. Elapsed time since start: 6956.49 seconds.
+Saved 690 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 690 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 691. Elapsed time since start: 6964.88 seconds.
+Done reranking query 692. Elapsed time since start: 6973.47 seconds.
+Done reranking query 693. Elapsed time since start: 6982.30 seconds.
+Done reranking query 694. Elapsed time since start: 6990.80 seconds.
+Done reranking query 695. Elapsed time since start: 6999.18 seconds.
+Done reranking query 696. Elapsed time since start: 7007.99 seconds.
+Done reranking query 697. Elapsed time since start: 7016.43 seconds.
+Done reranking query 698. Elapsed time since start: 7025.20 seconds.
+Done reranking query 699. Elapsed time since start: 7034.07 seconds.
+Done reranking query 700. Elapsed time since start: 7042.45 seconds.
+Done reranking query 701. Elapsed time since start: 7055.23 seconds.
+Done reranking query 702. Elapsed time since start: 7063.47 seconds.
+Done reranking query 703. Elapsed time since start: 7073.18 seconds.
+Done reranking query 704. Elapsed time since start: 7082.26 seconds.
+Done reranking query 705. Elapsed time since start: 7090.83 seconds.
+Saved 705 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 705 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 706. Elapsed time since start: 7099.09 seconds.
+Done reranking query 707. Elapsed time since start: 7107.94 seconds.
+Done reranking query 708. Elapsed time since start: 7116.28 seconds.
+Done reranking query 709. Elapsed time since start: 7124.61 seconds.
+Done reranking query 710. Elapsed time since start: 7133.74 seconds.
+Done reranking query 711. Elapsed time since start: 7142.74 seconds.
+Done reranking query 712. Elapsed time since start: 7151.20 seconds.
+Done reranking query 713. Elapsed time since start: 7160.10 seconds.
+Done reranking query 714. Elapsed time since start: 7169.85 seconds.
+Done reranking query 715. Elapsed time since start: 7180.24 seconds.
+Done reranking query 716. Elapsed time since start: 7189.27 seconds.
+Done reranking query 717. Elapsed time since start: 7198.03 seconds.
+Done reranking query 718. Elapsed time since start: 7207.11 seconds.
+Done reranking query 719. Elapsed time since start: 7218.26 seconds.
+Done reranking query 720. Elapsed time since start: 7227.00 seconds.
+Saved 720 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 720 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 721. Elapsed time since start: 7235.68 seconds.
+Done reranking query 722. Elapsed time since start: 7245.96 seconds.
+Done reranking query 723. Elapsed time since start: 7254.25 seconds.
+Done reranking query 724. Elapsed time since start: 7263.07 seconds.
+Done reranking query 725. Elapsed time since start: 7271.35 seconds.
+Done reranking query 726. Elapsed time since start: 7280.09 seconds.
+Done reranking query 727. Elapsed time since start: 7288.76 seconds.
+Done reranking query 728. Elapsed time since start: 7297.56 seconds.
+Done reranking query 729. Elapsed time since start: 7307.77 seconds.
+Done reranking query 730. Elapsed time since start: 7317.40 seconds.
+Done reranking query 731. Elapsed time since start: 7326.22 seconds.
+Done reranking query 732. Elapsed time since start: 7334.90 seconds.
+Done reranking query 733. Elapsed time since start: 7343.80 seconds.
+Done reranking query 734. Elapsed time since start: 7353.70 seconds.
+Done reranking query 735. Elapsed time since start: 7364.38 seconds.
+Saved 735 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 735 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 736. Elapsed time since start: 7373.31 seconds.
+Done reranking query 737. Elapsed time since start: 7381.94 seconds.
+Done reranking query 738. Elapsed time since start: 7391.15 seconds.
+Done reranking query 739. Elapsed time since start: 7400.10 seconds.
+Done reranking query 740. Elapsed time since start: 7409.41 seconds.
+Done reranking query 741. Elapsed time since start: 7418.21 seconds.
+Done reranking query 742. Elapsed time since start: 7427.42 seconds.
+Done reranking query 743. Elapsed time since start: 7435.77 seconds.
+Done reranking query 744. Elapsed time since start: 7444.75 seconds.
+Done reranking query 745. Elapsed time since start: 7456.06 seconds.
+Done reranking query 746. Elapsed time since start: 7464.65 seconds.
+Done reranking query 747. Elapsed time since start: 7475.12 seconds.
+Done reranking query 748. Elapsed time since start: 7484.98 seconds.
+Done reranking query 749. Elapsed time since start: 7493.97 seconds.
+Done reranking query 750. Elapsed time since start: 7504.74 seconds.
+Saved 750 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 750 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 751. Elapsed time since start: 7513.90 seconds.
+Done reranking query 752. Elapsed time since start: 7523.23 seconds.
+Done reranking query 753. Elapsed time since start: 7533.10 seconds.
+Done reranking query 754. Elapsed time since start: 7541.80 seconds.
+Done reranking query 755. Elapsed time since start: 7550.48 seconds.
+Done reranking query 756. Elapsed time since start: 7559.17 seconds.
+Done reranking query 757. Elapsed time since start: 7568.21 seconds.
+Done reranking query 758. Elapsed time since start: 7577.35 seconds.
+Done reranking query 759. Elapsed time since start: 7586.13 seconds.
+Done reranking query 760. Elapsed time since start: 7595.41 seconds.
+Done reranking query 761. Elapsed time since start: 7604.49 seconds.
+Done reranking query 762. Elapsed time since start: 7615.00 seconds.
+Done reranking query 763. Elapsed time since start: 7625.40 seconds.
+Done reranking query 764. Elapsed time since start: 7634.45 seconds.
+Done reranking query 765. Elapsed time since start: 7642.98 seconds.
+Saved 765 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 765 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 766. Elapsed time since start: 7651.30 seconds.
+Done reranking query 767. Elapsed time since start: 7660.72 seconds.
+Done reranking query 768. Elapsed time since start: 7669.34 seconds.
+Done reranking query 769. Elapsed time since start: 7677.96 seconds.
+Done reranking query 770. Elapsed time since start: 7686.19 seconds.
+Done reranking query 771. Elapsed time since start: 7695.14 seconds.
+Done reranking query 772. Elapsed time since start: 7704.53 seconds.
+Done reranking query 773. Elapsed time since start: 7714.11 seconds.
+Done reranking query 774. Elapsed time since start: 7723.39 seconds.
+Done reranking query 775. Elapsed time since start: 7732.22 seconds.
+Done reranking query 776. Elapsed time since start: 7741.41 seconds.
+Done reranking query 777. Elapsed time since start: 7749.80 seconds.
+Done reranking query 778. Elapsed time since start: 7758.13 seconds.
+Done reranking query 779. Elapsed time since start: 7766.45 seconds.
+Done reranking query 780. Elapsed time since start: 7775.49 seconds.
+Saved 780 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 780 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 781. Elapsed time since start: 7784.80 seconds.
+Done reranking query 782. Elapsed time since start: 7793.85 seconds.
+Done reranking query 783. Elapsed time since start: 7804.21 seconds.
+Done reranking query 784. Elapsed time since start: 7813.26 seconds.
+Done reranking query 785. Elapsed time since start: 7822.08 seconds.
+Done reranking query 786. Elapsed time since start: 7830.80 seconds.
+Done reranking query 787. Elapsed time since start: 7840.01 seconds.
+Done reranking query 788. Elapsed time since start: 7849.59 seconds.
+Done reranking query 789. Elapsed time since start: 7858.37 seconds.
+Done reranking query 790. Elapsed time since start: 7868.15 seconds.
+Done reranking query 791. Elapsed time since start: 7876.72 seconds.
+Done reranking query 792. Elapsed time since start: 7885.45 seconds.
+Done reranking query 793. Elapsed time since start: 7894.68 seconds.
+Done reranking query 794. Elapsed time since start: 7904.14 seconds.
+Done reranking query 795. Elapsed time since start: 7912.55 seconds.
+Saved 795 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 795 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 796. Elapsed time since start: 7921.18 seconds.
+Done reranking query 797. Elapsed time since start: 7930.57 seconds.
+Done reranking query 798. Elapsed time since start: 7940.31 seconds.
+Done reranking query 799. Elapsed time since start: 7949.32 seconds.
+Done reranking query 800. Elapsed time since start: 7958.52 seconds.
+Done reranking query 801. Elapsed time since start: 7967.95 seconds.
+Done reranking query 802. Elapsed time since start: 7977.11 seconds.
+Done reranking query 803. Elapsed time since start: 7986.81 seconds.
+Done reranking query 804. Elapsed time since start: 7996.83 seconds.
+Done reranking query 805. Elapsed time since start: 8005.31 seconds.
+Done reranking query 806. Elapsed time since start: 8016.08 seconds.
+Done reranking query 807. Elapsed time since start: 8024.81 seconds.
+Done reranking query 808. Elapsed time since start: 8035.83 seconds.
+Done reranking query 809. Elapsed time since start: 8044.20 seconds.
+Done reranking query 810. Elapsed time since start: 8052.97 seconds.
+Saved 810 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 810 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 811. Elapsed time since start: 8061.50 seconds.
+Done reranking query 812. Elapsed time since start: 8070.63 seconds.
+Done reranking query 813. Elapsed time since start: 8080.84 seconds.
+Done reranking query 814. Elapsed time since start: 8089.20 seconds.
+Done reranking query 815. Elapsed time since start: 8097.79 seconds.
+Done reranking query 816. Elapsed time since start: 8106.24 seconds.
+Done reranking query 817. Elapsed time since start: 8114.51 seconds.
+Done reranking query 818. Elapsed time since start: 8122.73 seconds.
+Done reranking query 819. Elapsed time since start: 8131.59 seconds.
+Done reranking query 820. Elapsed time since start: 8140.52 seconds.
+Done reranking query 821. Elapsed time since start: 8150.22 seconds.
+Done reranking query 822. Elapsed time since start: 8158.94 seconds.
+Done reranking query 823. Elapsed time since start: 8167.85 seconds.
+Done reranking query 824. Elapsed time since start: 8177.03 seconds.
+Done reranking query 825. Elapsed time since start: 8187.33 seconds.
+Saved 825 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 825 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 826. Elapsed time since start: 8196.04 seconds.
+Done reranking query 827. Elapsed time since start: 8205.77 seconds.
+Done reranking query 828. Elapsed time since start: 8214.93 seconds.
+Done reranking query 829. Elapsed time since start: 8224.62 seconds.
+Done reranking query 830. Elapsed time since start: 8235.84 seconds.
+Done reranking query 831. Elapsed time since start: 8244.85 seconds.
+Done reranking query 832. Elapsed time since start: 8255.98 seconds.
+Done reranking query 833. Elapsed time since start: 8265.87 seconds.
+Done reranking query 834. Elapsed time since start: 8274.42 seconds.
+Done reranking query 835. Elapsed time since start: 8282.70 seconds.
+Done reranking query 836. Elapsed time since start: 8291.73 seconds.
+Done reranking query 837. Elapsed time since start: 8301.09 seconds.
+Done reranking query 838. Elapsed time since start: 8310.37 seconds.
+Done reranking query 839. Elapsed time since start: 8319.52 seconds.
+Done reranking query 840. Elapsed time since start: 8329.14 seconds.
+Saved 840 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 840 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 841. Elapsed time since start: 8338.05 seconds.
+Done reranking query 842. Elapsed time since start: 8346.43 seconds.
+Done reranking query 843. Elapsed time since start: 8355.01 seconds.
+Done reranking query 844. Elapsed time since start: 8364.21 seconds.
+Done reranking query 845. Elapsed time since start: 8375.93 seconds.
+Done reranking query 846. Elapsed time since start: 8384.90 seconds.
+Done reranking query 847. Elapsed time since start: 8393.64 seconds.
+Done reranking query 848. Elapsed time since start: 8402.50 seconds.
+Done reranking query 849. Elapsed time since start: 8411.97 seconds.
+Done reranking query 850. Elapsed time since start: 8422.80 seconds.
+Done reranking query 851. Elapsed time since start: 8431.33 seconds.
+Done reranking query 852. Elapsed time since start: 8440.08 seconds.
+Done reranking query 853. Elapsed time since start: 8449.06 seconds.
+Done reranking query 854. Elapsed time since start: 8458.39 seconds.
+Done reranking query 855. Elapsed time since start: 8470.21 seconds.
+Saved 855 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 855 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 856. Elapsed time since start: 8481.48 seconds.
+Done reranking query 857. Elapsed time since start: 8490.59 seconds.
+Done reranking query 858. Elapsed time since start: 8500.39 seconds.
+Done reranking query 859. Elapsed time since start: 8511.68 seconds.
+Done reranking query 860. Elapsed time since start: 8519.73 seconds.
+Done reranking query 861. Elapsed time since start: 8528.57 seconds.
+Done reranking query 862. Elapsed time since start: 8537.31 seconds.
+Done reranking query 863. Elapsed time since start: 8545.92 seconds.
+Done reranking query 864. Elapsed time since start: 8554.83 seconds.
+Done reranking query 865. Elapsed time since start: 8563.86 seconds.
+Done reranking query 866. Elapsed time since start: 8572.34 seconds.
+Done reranking query 867. Elapsed time since start: 8580.59 seconds.
+Done reranking query 868. Elapsed time since start: 8592.03 seconds.
+Done reranking query 869. Elapsed time since start: 8600.94 seconds.
+Done reranking query 870. Elapsed time since start: 8609.48 seconds.
+Saved 870 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 870 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 871. Elapsed time since start: 8618.69 seconds.
+Done reranking query 872. Elapsed time since start: 8627.21 seconds.
+Done reranking query 873. Elapsed time since start: 8635.96 seconds.
+Done reranking query 874. Elapsed time since start: 8645.35 seconds.
+Done reranking query 875. Elapsed time since start: 8654.54 seconds.
+Done reranking query 876. Elapsed time since start: 8664.48 seconds.
+Done reranking query 877. Elapsed time since start: 8672.75 seconds.
+Done reranking query 878. Elapsed time since start: 8681.82 seconds.
+Done reranking query 879. Elapsed time since start: 8690.75 seconds.
+Done reranking query 880. Elapsed time since start: 8699.78 seconds.
+Done reranking query 881. Elapsed time since start: 8708.96 seconds.
+Done reranking query 882. Elapsed time since start: 8719.71 seconds.
+Done reranking query 883. Elapsed time since start: 8729.20 seconds.
+Done reranking query 884. Elapsed time since start: 8737.70 seconds.
+Done reranking query 885. Elapsed time since start: 8746.40 seconds.
+Saved 885 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 885 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 886. Elapsed time since start: 8755.00 seconds.
+Done reranking query 887. Elapsed time since start: 8763.53 seconds.
+Done reranking query 888. Elapsed time since start: 8773.93 seconds.
+Done reranking query 889. Elapsed time since start: 8782.56 seconds.
+Done reranking query 890. Elapsed time since start: 8791.24 seconds.
+Done reranking query 891. Elapsed time since start: 8803.21 seconds.
+Done reranking query 892. Elapsed time since start: 8811.99 seconds.
+Done reranking query 893. Elapsed time since start: 8820.90 seconds.
+Done reranking query 894. Elapsed time since start: 8829.80 seconds.
+Done reranking query 895. Elapsed time since start: 8838.94 seconds.
+Done reranking query 896. Elapsed time since start: 8847.38 seconds.
+Done reranking query 897. Elapsed time since start: 8856.82 seconds.
+Done reranking query 898. Elapsed time since start: 8865.18 seconds.
+Done reranking query 899. Elapsed time since start: 8873.91 seconds.
+Done reranking query 900. Elapsed time since start: 8882.81 seconds.
+Saved 900 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 900 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 901. Elapsed time since start: 8891.58 seconds.
+Done reranking query 902. Elapsed time since start: 8900.44 seconds.
+Done reranking query 903. Elapsed time since start: 8912.20 seconds.
+Done reranking query 904. Elapsed time since start: 8920.88 seconds.
+Done reranking query 905. Elapsed time since start: 8929.45 seconds.
+Done reranking query 906. Elapsed time since start: 8941.62 seconds.
+Done reranking query 907. Elapsed time since start: 8953.18 seconds.
+Done reranking query 908. Elapsed time since start: 8961.86 seconds.
+Done reranking query 909. Elapsed time since start: 8970.60 seconds.
+Done reranking query 910. Elapsed time since start: 8979.23 seconds.
+Done reranking query 911. Elapsed time since start: 8988.55 seconds.
+Done reranking query 912. Elapsed time since start: 8997.59 seconds.
+Done reranking query 913. Elapsed time since start: 9005.89 seconds.
+Done reranking query 914. Elapsed time since start: 9015.41 seconds.
+Done reranking query 915. Elapsed time since start: 9024.60 seconds.
+Saved 915 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 915 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 916. Elapsed time since start: 9033.36 seconds.
+Done reranking query 917. Elapsed time since start: 9041.76 seconds.
+Error calling DeepSeek API: Error code: 400 - {'error': {'message': 'Content Exists Risk', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Done reranking query 918. Elapsed time since start: 9045.08 seconds.
+Done reranking query 919. Elapsed time since start: 9053.79 seconds.
+Done reranking query 920. Elapsed time since start: 9062.95 seconds.
+Done reranking query 921. Elapsed time since start: 9071.63 seconds.
+Done reranking query 922. Elapsed time since start: 9084.38 seconds.
+Done reranking query 923. Elapsed time since start: 9093.18 seconds.
+Done reranking query 924. Elapsed time since start: 9101.99 seconds.
+Done reranking query 925. Elapsed time since start: 9111.01 seconds.
+Done reranking query 926. Elapsed time since start: 9119.77 seconds.
+Done reranking query 927. Elapsed time since start: 9128.31 seconds.
+Done reranking query 928. Elapsed time since start: 9138.76 seconds.
+Done reranking query 929. Elapsed time since start: 9147.70 seconds.
+Done reranking query 930. Elapsed time since start: 9155.98 seconds.
+Saved 930 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 930 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 931. Elapsed time since start: 9168.05 seconds.
+Done reranking query 932. Elapsed time since start: 9177.39 seconds.
+Done reranking query 933. Elapsed time since start: 9186.06 seconds.
+Done reranking query 934. Elapsed time since start: 9195.34 seconds.
+Done reranking query 935. Elapsed time since start: 9204.81 seconds.
+Done reranking query 936. Elapsed time since start: 9213.85 seconds.
+Done reranking query 937. Elapsed time since start: 9222.36 seconds.
+Done reranking query 938. Elapsed time since start: 9231.29 seconds.
+Done reranking query 939. Elapsed time since start: 9240.04 seconds.
+Done reranking query 940. Elapsed time since start: 9249.28 seconds.
+Done reranking query 941. Elapsed time since start: 9258.50 seconds.
+Done reranking query 942. Elapsed time since start: 9267.13 seconds.
+Done reranking query 943. Elapsed time since start: 9276.72 seconds.
+Done reranking query 944. Elapsed time since start: 9286.57 seconds.
+Done reranking query 945. Elapsed time since start: 9295.35 seconds.
+Saved 945 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 945 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 946. Elapsed time since start: 9303.55 seconds.
+Done reranking query 947. Elapsed time since start: 9312.32 seconds.
+Done reranking query 948. Elapsed time since start: 9321.22 seconds.
+Done reranking query 949. Elapsed time since start: 9329.78 seconds.
+Done reranking query 950. Elapsed time since start: 9338.62 seconds.
+Done reranking query 951. Elapsed time since start: 9348.35 seconds.
+Done reranking query 952. Elapsed time since start: 9357.13 seconds.
+Done reranking query 953. Elapsed time since start: 9365.59 seconds.
+Done reranking query 954. Elapsed time since start: 9376.53 seconds.
+Done reranking query 955. Elapsed time since start: 9385.36 seconds.
+Done reranking query 956. Elapsed time since start: 9395.07 seconds.
+Done reranking query 957. Elapsed time since start: 9404.06 seconds.
+Done reranking query 958. Elapsed time since start: 9413.15 seconds.
+Done reranking query 959. Elapsed time since start: 9421.63 seconds.
+Done reranking query 960. Elapsed time since start: 9431.77 seconds.
+Saved 960 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 960 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 961. Elapsed time since start: 9440.25 seconds.
+Done reranking query 962. Elapsed time since start: 9449.22 seconds.
+Done reranking query 963. Elapsed time since start: 9458.39 seconds.
+Done reranking query 964. Elapsed time since start: 9468.89 seconds.
+Done reranking query 965. Elapsed time since start: 9478.81 seconds.
+Done reranking query 966. Elapsed time since start: 9488.73 seconds.
+Done reranking query 967. Elapsed time since start: 9498.79 seconds.
+Done reranking query 968. Elapsed time since start: 9507.87 seconds.
+Done reranking query 969. Elapsed time since start: 9516.66 seconds.
+Done reranking query 970. Elapsed time since start: 9525.75 seconds.
+Done reranking query 971. Elapsed time since start: 9535.34 seconds.
+Done reranking query 972. Elapsed time since start: 9544.17 seconds.
+Done reranking query 973. Elapsed time since start: 9555.06 seconds.
+Done reranking query 974. Elapsed time since start: 9563.58 seconds.
+Done reranking query 975. Elapsed time since start: 9572.98 seconds.
+Saved 975 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 975 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 976. Elapsed time since start: 9581.91 seconds.
+Done reranking query 977. Elapsed time since start: 9591.23 seconds.
+Done reranking query 978. Elapsed time since start: 9601.08 seconds.
+Done reranking query 979. Elapsed time since start: 9610.02 seconds.
+Done reranking query 980. Elapsed time since start: 9619.62 seconds.
+Done reranking query 981. Elapsed time since start: 9628.92 seconds.
+Done reranking query 982. Elapsed time since start: 9638.59 seconds.
+Done reranking query 983. Elapsed time since start: 9647.56 seconds.
+Done reranking query 984. Elapsed time since start: 9659.30 seconds.
+Done reranking query 985. Elapsed time since start: 9670.63 seconds.
+Done reranking query 986. Elapsed time since start: 9681.59 seconds.
+Done reranking query 987. Elapsed time since start: 9690.50 seconds.
+Done reranking query 988. Elapsed time since start: 9699.97 seconds.
+Done reranking query 989. Elapsed time since start: 9709.12 seconds.
+Done reranking query 990. Elapsed time since start: 9718.07 seconds.
+Saved 990 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 990 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 991. Elapsed time since start: 9726.63 seconds.
+Done reranking query 992. Elapsed time since start: 9736.27 seconds.
+Done reranking query 993. Elapsed time since start: 9746.70 seconds.
+Done reranking query 994. Elapsed time since start: 9755.91 seconds.
+Done reranking query 995. Elapsed time since start: 9764.05 seconds.
+Done reranking query 996. Elapsed time since start: 9772.96 seconds.
+Done reranking query 997. Elapsed time since start: 9781.63 seconds.
+Done reranking query 998. Elapsed time since start: 9790.25 seconds.
+Done reranking query 999. Elapsed time since start: 9798.61 seconds.
+Done reranking query 1000. Elapsed time since start: 9807.65 seconds.
+Done reranking query 1001. Elapsed time since start: 9816.55 seconds.
+Error calling DeepSeek API: Error code: 400 - {'error': {'message': 'Content Exists Risk', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+Done reranking query 1002. Elapsed time since start: 9820.40 seconds.
+Done reranking query 1003. Elapsed time since start: 9829.49 seconds.
+Done reranking query 1004. Elapsed time since start: 9838.49 seconds.
+Done reranking query 1005. Elapsed time since start: 9847.14 seconds.
+Saved 1005 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1005 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1006. Elapsed time since start: 9856.38 seconds.
+Done reranking query 1007. Elapsed time since start: 9866.98 seconds.
+Done reranking query 1008. Elapsed time since start: 9875.80 seconds.
+Done reranking query 1009. Elapsed time since start: 9884.46 seconds.
+Done reranking query 1010. Elapsed time since start: 9895.41 seconds.
+Done reranking query 1011. Elapsed time since start: 9903.82 seconds.
+Done reranking query 1012. Elapsed time since start: 9913.22 seconds.
+Done reranking query 1013. Elapsed time since start: 9922.70 seconds.
+Done reranking query 1014. Elapsed time since start: 9931.50 seconds.
+Done reranking query 1015. Elapsed time since start: 9942.12 seconds.
+Done reranking query 1016. Elapsed time since start: 9950.67 seconds.
+Done reranking query 1017. Elapsed time since start: 9960.15 seconds.
+Done reranking query 1018. Elapsed time since start: 9968.76 seconds.
+Done reranking query 1019. Elapsed time since start: 9977.85 seconds.
+Done reranking query 1020. Elapsed time since start: 9987.22 seconds.
+Saved 1020 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1020 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1021. Elapsed time since start: 9995.78 seconds.
+Done reranking query 1022. Elapsed time since start: 10006.94 seconds.
+Done reranking query 1023. Elapsed time since start: 10015.50 seconds.
+Done reranking query 1024. Elapsed time since start: 10025.14 seconds.
+Done reranking query 1025. Elapsed time since start: 10034.33 seconds.
+Done reranking query 1026. Elapsed time since start: 10044.17 seconds.
+Done reranking query 1027. Elapsed time since start: 10053.28 seconds.
+Done reranking query 1028. Elapsed time since start: 10062.04 seconds.
+Done reranking query 1029. Elapsed time since start: 10071.08 seconds.
+Done reranking query 1030. Elapsed time since start: 10080.00 seconds.
+Done reranking query 1031. Elapsed time since start: 10089.01 seconds.
+Done reranking query 1032. Elapsed time since start: 10098.58 seconds.
+Done reranking query 1033. Elapsed time since start: 10107.74 seconds.
+Done reranking query 1034. Elapsed time since start: 10116.31 seconds.
+Done reranking query 1035. Elapsed time since start: 10125.18 seconds.
+Saved 1035 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1035 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1036. Elapsed time since start: 10133.83 seconds.
+Done reranking query 1037. Elapsed time since start: 10143.54 seconds.
+Done reranking query 1038. Elapsed time since start: 10152.14 seconds.
+Done reranking query 1039. Elapsed time since start: 10161.59 seconds.
+Done reranking query 1040. Elapsed time since start: 10170.16 seconds.
+Done reranking query 1041. Elapsed time since start: 10178.78 seconds.
+Done reranking query 1042. Elapsed time since start: 10188.23 seconds.
+Done reranking query 1043. Elapsed time since start: 10197.44 seconds.
+Done reranking query 1044. Elapsed time since start: 10206.17 seconds.
+Done reranking query 1045. Elapsed time since start: 10214.53 seconds.
+Done reranking query 1046. Elapsed time since start: 10224.01 seconds.
+Done reranking query 1047. Elapsed time since start: 10232.44 seconds.
+Done reranking query 1048. Elapsed time since start: 10241.70 seconds.
+Done reranking query 1049. Elapsed time since start: 10250.47 seconds.
+Done reranking query 1050. Elapsed time since start: 10261.39 seconds.
+Saved 1050 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1050 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1051. Elapsed time since start: 10269.92 seconds.
+Done reranking query 1052. Elapsed time since start: 10278.54 seconds.
+Done reranking query 1053. Elapsed time since start: 10287.07 seconds.
+Done reranking query 1054. Elapsed time since start: 10296.40 seconds.
+Done reranking query 1055. Elapsed time since start: 10305.47 seconds.
+Done reranking query 1056. Elapsed time since start: 10314.20 seconds.
+Done reranking query 1057. Elapsed time since start: 10322.65 seconds.
+Done reranking query 1058. Elapsed time since start: 10333.38 seconds.
+Done reranking query 1059. Elapsed time since start: 10342.45 seconds.
+Done reranking query 1060. Elapsed time since start: 10351.28 seconds.
+Done reranking query 1061. Elapsed time since start: 10360.24 seconds.
+Done reranking query 1062. Elapsed time since start: 10369.37 seconds.
+Done reranking query 1063. Elapsed time since start: 10378.10 seconds.
+Done reranking query 1064. Elapsed time since start: 10386.44 seconds.
+Done reranking query 1065. Elapsed time since start: 10395.18 seconds.
+Saved 1065 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1065 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1066. Elapsed time since start: 10404.07 seconds.
+Done reranking query 1067. Elapsed time since start: 10412.62 seconds.
+Done reranking query 1068. Elapsed time since start: 10421.53 seconds.
+Done reranking query 1069. Elapsed time since start: 10429.75 seconds.
+Done reranking query 1070. Elapsed time since start: 10438.58 seconds.
+Done reranking query 1071. Elapsed time since start: 10447.65 seconds.
+Done reranking query 1072. Elapsed time since start: 10457.14 seconds.
+Done reranking query 1073. Elapsed time since start: 10465.71 seconds.
+Done reranking query 1074. Elapsed time since start: 10474.25 seconds.
+Done reranking query 1075. Elapsed time since start: 10483.28 seconds.
+Done reranking query 1076. Elapsed time since start: 10491.81 seconds.
+Done reranking query 1077. Elapsed time since start: 10500.47 seconds.
+Done reranking query 1078. Elapsed time since start: 10509.40 seconds.
+Done reranking query 1079. Elapsed time since start: 10518.10 seconds.
+Done reranking query 1080. Elapsed time since start: 10527.08 seconds.
+Saved 1080 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1080 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1081. Elapsed time since start: 10535.95 seconds.
+Done reranking query 1082. Elapsed time since start: 10545.07 seconds.
+Done reranking query 1083. Elapsed time since start: 10553.75 seconds.
+Done reranking query 1084. Elapsed time since start: 10561.92 seconds.
+Done reranking query 1085. Elapsed time since start: 10570.66 seconds.
+Done reranking query 1086. Elapsed time since start: 10582.79 seconds.
+Done reranking query 1087. Elapsed time since start: 10592.67 seconds.
+Done reranking query 1088. Elapsed time since start: 10601.52 seconds.
+Done reranking query 1089. Elapsed time since start: 10610.47 seconds.
+Done reranking query 1090. Elapsed time since start: 10619.02 seconds.
+Done reranking query 1091. Elapsed time since start: 10628.11 seconds.
+Done reranking query 1092. Elapsed time since start: 10636.58 seconds.
+Done reranking query 1093. Elapsed time since start: 10646.44 seconds.
+Done reranking query 1094. Elapsed time since start: 10655.61 seconds.
+Done reranking query 1095. Elapsed time since start: 10664.13 seconds.
+Saved 1095 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1095 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1096. Elapsed time since start: 10672.94 seconds.
+Done reranking query 1097. Elapsed time since start: 10682.13 seconds.
+Done reranking query 1098. Elapsed time since start: 10691.84 seconds.
+Done reranking query 1099. Elapsed time since start: 10700.61 seconds.
+Done reranking query 1100. Elapsed time since start: 10709.34 seconds.
+Done reranking query 1101. Elapsed time since start: 10719.36 seconds.
+Done reranking query 1102. Elapsed time since start: 10727.99 seconds.
+Done reranking query 1103. Elapsed time since start: 10736.67 seconds.
+Done reranking query 1104. Elapsed time since start: 10745.41 seconds.
+Done reranking query 1105. Elapsed time since start: 10755.35 seconds.
+Done reranking query 1106. Elapsed time since start: 10763.80 seconds.
+Done reranking query 1107. Elapsed time since start: 10773.04 seconds.
+Done reranking query 1108. Elapsed time since start: 10782.12 seconds.
+Done reranking query 1109. Elapsed time since start: 10790.95 seconds.
+Done reranking query 1110. Elapsed time since start: 10800.66 seconds.
+Saved 1110 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1110 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1111. Elapsed time since start: 10811.64 seconds.
+Done reranking query 1112. Elapsed time since start: 10821.04 seconds.
+Done reranking query 1113. Elapsed time since start: 10830.14 seconds.
+Done reranking query 1114. Elapsed time since start: 10838.55 seconds.
+Done reranking query 1115. Elapsed time since start: 10847.22 seconds.
+Done reranking query 1116. Elapsed time since start: 10857.29 seconds.
+Done reranking query 1117. Elapsed time since start: 10866.00 seconds.
+Done reranking query 1118. Elapsed time since start: 10874.44 seconds.
+Done reranking query 1119. Elapsed time since start: 10885.92 seconds.
+Done reranking query 1120. Elapsed time since start: 10896.31 seconds.
+Done reranking query 1121. Elapsed time since start: 10905.18 seconds.
+Done reranking query 1122. Elapsed time since start: 10913.71 seconds.
+Done reranking query 1123. Elapsed time since start: 10922.09 seconds.
+Done reranking query 1124. Elapsed time since start: 10931.07 seconds.
+Done reranking query 1125. Elapsed time since start: 10939.65 seconds.
+Saved 1125 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1125 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1126. Elapsed time since start: 10951.09 seconds.
+Done reranking query 1127. Elapsed time since start: 10959.83 seconds.
+Done reranking query 1128. Elapsed time since start: 10970.02 seconds.
+Done reranking query 1129. Elapsed time since start: 10978.73 seconds.
+Done reranking query 1130. Elapsed time since start: 10987.19 seconds.
+Done reranking query 1131. Elapsed time since start: 10995.44 seconds.
+Done reranking query 1132. Elapsed time since start: 11004.28 seconds.
+Done reranking query 1133. Elapsed time since start: 11012.87 seconds.
+Done reranking query 1134. Elapsed time since start: 11021.72 seconds.
+Done reranking query 1135. Elapsed time since start: 11030.35 seconds.
+Done reranking query 1136. Elapsed time since start: 11038.40 seconds.
+Done reranking query 1137. Elapsed time since start: 11048.02 seconds.
+Done reranking query 1138. Elapsed time since start: 11058.26 seconds.
+Done reranking query 1139. Elapsed time since start: 11067.04 seconds.
+Done reranking query 1140. Elapsed time since start: 11075.61 seconds.
+Saved 1140 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1140 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1141. Elapsed time since start: 11087.01 seconds.
+Done reranking query 1142. Elapsed time since start: 11095.88 seconds.
+Done reranking query 1143. Elapsed time since start: 11105.28 seconds.
+Done reranking query 1144. Elapsed time since start: 11116.83 seconds.
+Done reranking query 1145. Elapsed time since start: 11125.63 seconds.
+Done reranking query 1146. Elapsed time since start: 11133.91 seconds.
+Done reranking query 1147. Elapsed time since start: 11142.42 seconds.
+Done reranking query 1148. Elapsed time since start: 11150.92 seconds.
+Done reranking query 1149. Elapsed time since start: 11159.34 seconds.
+Done reranking query 1150. Elapsed time since start: 11168.29 seconds.
+Done reranking query 1151. Elapsed time since start: 11176.87 seconds.
+Done reranking query 1152. Elapsed time since start: 11185.48 seconds.
+Done reranking query 1153. Elapsed time since start: 11193.75 seconds.
+Done reranking query 1154. Elapsed time since start: 11202.41 seconds.
+Done reranking query 1155. Elapsed time since start: 11210.63 seconds.
+Saved 1155 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1155 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1156. Elapsed time since start: 11218.54 seconds.
+Done reranking query 1157. Elapsed time since start: 11226.90 seconds.
+Done reranking query 1158. Elapsed time since start: 11235.75 seconds.
+Done reranking query 1159. Elapsed time since start: 11248.21 seconds.
+Done reranking query 1160. Elapsed time since start: 11257.50 seconds.
+Done reranking query 1161. Elapsed time since start: 11266.36 seconds.
+Done reranking query 1162. Elapsed time since start: 11274.70 seconds.
+Done reranking query 1163. Elapsed time since start: 11284.13 seconds.
+Done reranking query 1164. Elapsed time since start: 11292.86 seconds.
+Done reranking query 1165. Elapsed time since start: 11302.62 seconds.
+Done reranking query 1166. Elapsed time since start: 11312.29 seconds.
+Done reranking query 1167. Elapsed time since start: 11322.04 seconds.
+Done reranking query 1168. Elapsed time since start: 11330.85 seconds.
+Done reranking query 1169. Elapsed time since start: 11339.35 seconds.
+Done reranking query 1170. Elapsed time since start: 11348.83 seconds.
+Saved 1170 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1170 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1171. Elapsed time since start: 11358.37 seconds.
+Done reranking query 1172. Elapsed time since start: 11367.60 seconds.
+Done reranking query 1173. Elapsed time since start: 11375.76 seconds.
+Done reranking query 1174. Elapsed time since start: 11384.42 seconds.
+Done reranking query 1175. Elapsed time since start: 11393.10 seconds.
+Done reranking query 1176. Elapsed time since start: 11401.77 seconds.
+Done reranking query 1177. Elapsed time since start: 11410.49 seconds.
+Done reranking query 1178. Elapsed time since start: 11419.33 seconds.
+Done reranking query 1179. Elapsed time since start: 11428.02 seconds.
+Done reranking query 1180. Elapsed time since start: 11437.15 seconds.
+Done reranking query 1181. Elapsed time since start: 11448.85 seconds.
+Done reranking query 1182. Elapsed time since start: 11458.17 seconds.
+Done reranking query 1183. Elapsed time since start: 11466.92 seconds.
+Done reranking query 1184. Elapsed time since start: 11475.89 seconds.
+Done reranking query 1185. Elapsed time since start: 11484.40 seconds.
+Saved 1185 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1185 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1186. Elapsed time since start: 11493.48 seconds.
+Done reranking query 1187. Elapsed time since start: 11502.00 seconds.
+Done reranking query 1188. Elapsed time since start: 11511.25 seconds.
+Done reranking query 1189. Elapsed time since start: 11519.60 seconds.
+Done reranking query 1190. Elapsed time since start: 11529.86 seconds.
+Done reranking query 1191. Elapsed time since start: 11538.60 seconds.
+Done reranking query 1192. Elapsed time since start: 11547.23 seconds.
+Done reranking query 1193. Elapsed time since start: 11556.30 seconds.
+Done reranking query 1194. Elapsed time since start: 11566.25 seconds.
+Done reranking query 1195. Elapsed time since start: 11574.42 seconds.
+Done reranking query 1196. Elapsed time since start: 11582.85 seconds.
+Done reranking query 1197. Elapsed time since start: 11591.78 seconds.
+Done reranking query 1198. Elapsed time since start: 11600.81 seconds.
+Done reranking query 1199. Elapsed time since start: 11611.55 seconds.
+Done reranking query 1200. Elapsed time since start: 11620.85 seconds.
+Saved 1200 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1200 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1201. Elapsed time since start: 11629.93 seconds.
+Done reranking query 1202. Elapsed time since start: 11639.98 seconds.
+Done reranking query 1203. Elapsed time since start: 11649.21 seconds.
+Done reranking query 1204. Elapsed time since start: 11658.30 seconds.
+Done reranking query 1205. Elapsed time since start: 11667.03 seconds.
+Done reranking query 1206. Elapsed time since start: 11676.04 seconds.
+Done reranking query 1207. Elapsed time since start: 11684.38 seconds.
+Done reranking query 1208. Elapsed time since start: 11693.32 seconds.
+Done reranking query 1209. Elapsed time since start: 11702.17 seconds.
+Done reranking query 1210. Elapsed time since start: 11710.65 seconds.
+Done reranking query 1211. Elapsed time since start: 11719.32 seconds.
+Done reranking query 1212. Elapsed time since start: 11728.14 seconds.
+Done reranking query 1213. Elapsed time since start: 11738.66 seconds.
+Done reranking query 1214. Elapsed time since start: 11747.40 seconds.
+Done reranking query 1215. Elapsed time since start: 11756.34 seconds.
+Saved 1215 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1215 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1216. Elapsed time since start: 11765.15 seconds.
+Done reranking query 1217. Elapsed time since start: 11774.38 seconds.
+Done reranking query 1218. Elapsed time since start: 11783.19 seconds.
+Done reranking query 1219. Elapsed time since start: 11792.33 seconds.
+Done reranking query 1220. Elapsed time since start: 11801.23 seconds.
+Done reranking query 1221. Elapsed time since start: 11809.83 seconds.
+Done reranking query 1222. Elapsed time since start: 11818.21 seconds.
+Done reranking query 1223. Elapsed time since start: 11827.88 seconds.
+Done reranking query 1224. Elapsed time since start: 11837.28 seconds.
+Done reranking query 1225. Elapsed time since start: 11846.89 seconds.
+Done reranking query 1226. Elapsed time since start: 11856.37 seconds.
+Done reranking query 1227. Elapsed time since start: 11866.68 seconds.
+Done reranking query 1228. Elapsed time since start: 11875.33 seconds.
+Done reranking query 1229. Elapsed time since start: 11884.54 seconds.
+Done reranking query 1230. Elapsed time since start: 11893.41 seconds.
+Saved 1230 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1230 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Done reranking query 1231. Elapsed time since start: 11901.64 seconds.
+Done reranking query 1232. Elapsed time since start: 11909.78 seconds.
+Done reranking query 1233. Elapsed time since start: 11918.51 seconds.
+Done reranking query 1234. Elapsed time since start: 11927.47 seconds.
+Done reranking query 1235. Elapsed time since start: 11935.73 seconds.
+Done reranking query 1236. Elapsed time since start: 11945.18 seconds.
+Done reranking query 1237. Elapsed time since start: 11954.75 seconds.
+Done reranking query 1238. Elapsed time since start: 11963.46 seconds.
+Done reranking query 1239. Elapsed time since start: 11971.97 seconds.
+Done reranking query 1240. Elapsed time since start: 11981.18 seconds.
+Done reranking query 1241. Elapsed time since start: 11990.00 seconds.
+Done reranking query 1242. Elapsed time since start: 12001.72 seconds.
+Done reranking query 1243. Elapsed time since start: 12009.96 seconds.
+Done reranking query 1244. Elapsed time since start: 12018.92 seconds.
+Done reranking query 1245. Elapsed time since start: 12028.90 seconds.
+Saved 1245 reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved 1245 reranked responses to DeepSeek_structured-reranked-20-indices.json
+Saved all reranked responses to DeepSeek_text-reranked-20-indices.json
+Saved all reranked responses to DeepSeek_structured-reranked-20-indices.json
+[2025-04-08 19:22:36] Job completed. Proceeding to next job...

@@ -1,0 +1,1428 @@
+[2025-04-10 01:05:52] Starting job with: target chunks=256, target overlaps=64, original chunks=1024, original overlaps=256, docs=50
+Number of Retrieved Chunks: 1245
+Number of Documents per Retrieved Chunks: 50
+Done reranking query 1. Elapsed time since start: 18.81 seconds.
+Done reranking query 2. Elapsed time since start: 34.34 seconds.
+Done reranking query 3. Elapsed time since start: 48.28 seconds.
+Done reranking query 4. Elapsed time since start: 60.67 seconds.
+Done reranking query 5. Elapsed time since start: 68.02 seconds.
+Done reranking query 6. Elapsed time since start: 76.53 seconds.
+Done reranking query 7. Elapsed time since start: 126.06 seconds.
+Done reranking query 8. Elapsed time since start: 136.23 seconds.
+Done reranking query 9. Elapsed time since start: 159.00 seconds.
+Done reranking query 10. Elapsed time since start: 168.82 seconds.
+Done reranking query 11. Elapsed time since start: 196.48 seconds.
+Done reranking query 12. Elapsed time since start: 203.66 seconds.
+Done reranking query 13. Elapsed time since start: 220.95 seconds.
+Done reranking query 14. Elapsed time since start: 237.59 seconds.
+Done reranking query 15. Elapsed time since start: 255.70 seconds.
+Saved 15 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 15 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 16. Elapsed time since start: 274.29 seconds.
+Done reranking query 17. Elapsed time since start: 291.21 seconds.
+Done reranking query 18. Elapsed time since start: 303.64 seconds.
+Done reranking query 19. Elapsed time since start: 318.45 seconds.
+Done reranking query 20. Elapsed time since start: 332.84 seconds.
+Done reranking query 21. Elapsed time since start: 349.93 seconds.
+Done reranking query 22. Elapsed time since start: 357.46 seconds.
+Done reranking query 23. Elapsed time since start: 371.28 seconds.
+Done reranking query 24. Elapsed time since start: 390.57 seconds.
+Done reranking query 25. Elapsed time since start: 405.08 seconds.
+Done reranking query 26. Elapsed time since start: 419.13 seconds.
+Done reranking query 27. Elapsed time since start: 433.23 seconds.
+Done reranking query 28. Elapsed time since start: 446.71 seconds.
+Done reranking query 29. Elapsed time since start: 460.25 seconds.
+Done reranking query 30. Elapsed time since start: 472.83 seconds.
+Saved 30 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 30 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 31. Elapsed time since start: 487.92 seconds.
+Done reranking query 32. Elapsed time since start: 501.23 seconds.
+Done reranking query 33. Elapsed time since start: 537.25 seconds.
+Done reranking query 34. Elapsed time since start: 548.75 seconds.
+Done reranking query 35. Elapsed time since start: 556.59 seconds.
+Done reranking query 36. Elapsed time since start: 571.68 seconds.
+Done reranking query 37. Elapsed time since start: 582.53 seconds.
+Done reranking query 38. Elapsed time since start: 602.60 seconds.
+Done reranking query 39. Elapsed time since start: 619.53 seconds.
+Done reranking query 40. Elapsed time since start: 636.04 seconds.
+Done reranking query 41. Elapsed time since start: 652.81 seconds.
+Done reranking query 42. Elapsed time since start: 671.48 seconds.
+Done reranking query 43. Elapsed time since start: 703.40 seconds.
+Done reranking query 44. Elapsed time since start: 710.97 seconds.
+Done reranking query 45. Elapsed time since start: 724.96 seconds.
+Saved 45 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 45 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 46. Elapsed time since start: 753.59 seconds.
+Done reranking query 47. Elapsed time since start: 801.45 seconds.
+Done reranking query 48. Elapsed time since start: 815.05 seconds.
+Done reranking query 49. Elapsed time since start: 829.81 seconds.
+Done reranking query 50. Elapsed time since start: 848.50 seconds.
+Done reranking query 51. Elapsed time since start: 862.82 seconds.
+Done reranking query 52. Elapsed time since start: 872.38 seconds.
+Done reranking query 53. Elapsed time since start: 883.86 seconds.
+Done reranking query 54. Elapsed time since start: 897.22 seconds.
+Done reranking query 55. Elapsed time since start: 916.50 seconds.
+Done reranking query 56. Elapsed time since start: 925.10 seconds.
+Done reranking query 57. Elapsed time since start: 938.60 seconds.
+Done reranking query 58. Elapsed time since start: 952.11 seconds.
+Done reranking query 59. Elapsed time since start: 965.41 seconds.
+Done reranking query 60. Elapsed time since start: 976.51 seconds.
+Saved 60 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 60 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 61. Elapsed time since start: 993.60 seconds.
+Done reranking query 62. Elapsed time since start: 1001.11 seconds.
+Done reranking query 63. Elapsed time since start: 1010.76 seconds.
+Done reranking query 64. Elapsed time since start: 1023.02 seconds.
+Done reranking query 65. Elapsed time since start: 1033.18 seconds.
+Done reranking query 66. Elapsed time since start: 1044.07 seconds.
+Done reranking query 67. Elapsed time since start: 1075.51 seconds.
+Done reranking query 68. Elapsed time since start: 1082.04 seconds.
+Done reranking query 69. Elapsed time since start: 1096.67 seconds.
+Done reranking query 70. Elapsed time since start: 1116.52 seconds.
+Done reranking query 71. Elapsed time since start: 1134.36 seconds.
+Done reranking query 72. Elapsed time since start: 1143.96 seconds.
+Done reranking query 73. Elapsed time since start: 1155.43 seconds.
+Done reranking query 74. Elapsed time since start: 1177.00 seconds.
+Done reranking query 75. Elapsed time since start: 1214.70 seconds.
+Saved 75 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 75 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 76. Elapsed time since start: 1228.35 seconds.
+Done reranking query 77. Elapsed time since start: 1234.46 seconds.
+Done reranking query 78. Elapsed time since start: 1242.08 seconds.
+Done reranking query 79. Elapsed time since start: 1255.99 seconds.
+Done reranking query 80. Elapsed time since start: 1267.58 seconds.
+Done reranking query 81. Elapsed time since start: 1280.87 seconds.
+Done reranking query 82. Elapsed time since start: 1300.86 seconds.
+Done reranking query 83. Elapsed time since start: 1313.64 seconds.
+Done reranking query 84. Elapsed time since start: 1321.79 seconds.
+Done reranking query 85. Elapsed time since start: 1329.41 seconds.
+Done reranking query 86. Elapsed time since start: 1341.70 seconds.
+Done reranking query 87. Elapsed time since start: 1356.24 seconds.
+Done reranking query 88. Elapsed time since start: 1370.30 seconds.
+Done reranking query 89. Elapsed time since start: 1384.74 seconds.
+Done reranking query 90. Elapsed time since start: 1396.28 seconds.
+Saved 90 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 90 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 91. Elapsed time since start: 1410.37 seconds.
+Done reranking query 92. Elapsed time since start: 1418.48 seconds.
+Done reranking query 93. Elapsed time since start: 1431.65 seconds.
+Done reranking query 94. Elapsed time since start: 1441.78 seconds.
+Done reranking query 95. Elapsed time since start: 1459.00 seconds.
+Done reranking query 96. Elapsed time since start: 1473.67 seconds.
+Done reranking query 97. Elapsed time since start: 1480.29 seconds.
+Done reranking query 98. Elapsed time since start: 1497.93 seconds.
+Done reranking query 99. Elapsed time since start: 1511.90 seconds.
+Done reranking query 100. Elapsed time since start: 1523.21 seconds.
+Done reranking query 101. Elapsed time since start: 1537.26 seconds.
+Done reranking query 102. Elapsed time since start: 1547.97 seconds.
+Done reranking query 103. Elapsed time since start: 1561.25 seconds.
+Done reranking query 104. Elapsed time since start: 1575.73 seconds.
+Done reranking query 105. Elapsed time since start: 1596.40 seconds.
+Saved 105 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 105 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 106. Elapsed time since start: 1604.75 seconds.
+Done reranking query 107. Elapsed time since start: 1620.77 seconds.
+Done reranking query 108. Elapsed time since start: 1627.59 seconds.
+Done reranking query 109. Elapsed time since start: 1641.62 seconds.
+Done reranking query 110. Elapsed time since start: 1651.55 seconds.
+Done reranking query 111. Elapsed time since start: 1663.37 seconds.
+Done reranking query 112. Elapsed time since start: 1679.73 seconds.
+Done reranking query 113. Elapsed time since start: 1694.69 seconds.
+Done reranking query 114. Elapsed time since start: 1713.97 seconds.
+Done reranking query 115. Elapsed time since start: 1733.13 seconds.
+Done reranking query 116. Elapsed time since start: 1748.27 seconds.
+Done reranking query 117. Elapsed time since start: 1762.37 seconds.
+Done reranking query 118. Elapsed time since start: 1771.21 seconds.
+Done reranking query 119. Elapsed time since start: 1792.16 seconds.
+Done reranking query 120. Elapsed time since start: 1806.85 seconds.
+Saved 120 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 120 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 121. Elapsed time since start: 1818.16 seconds.
+Done reranking query 122. Elapsed time since start: 1833.02 seconds.
+Done reranking query 123. Elapsed time since start: 1845.17 seconds.
+Done reranking query 124. Elapsed time since start: 1851.67 seconds.
+Done reranking query 125. Elapsed time since start: 1871.96 seconds.
+Done reranking query 126. Elapsed time since start: 1881.62 seconds.
+Done reranking query 127. Elapsed time since start: 1896.37 seconds.
+Done reranking query 128. Elapsed time since start: 1907.47 seconds.
+Done reranking query 129. Elapsed time since start: 1917.19 seconds.
+Done reranking query 130. Elapsed time since start: 1933.27 seconds.
+Done reranking query 131. Elapsed time since start: 1941.97 seconds.
+Done reranking query 132. Elapsed time since start: 1963.01 seconds.
+Done reranking query 133. Elapsed time since start: 1971.07 seconds.
+Done reranking query 134. Elapsed time since start: 1983.43 seconds.
+Done reranking query 135. Elapsed time since start: 1991.77 seconds.
+Saved 135 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 135 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 136. Elapsed time since start: 2002.15 seconds.
+Done reranking query 137. Elapsed time since start: 2017.79 seconds.
+Done reranking query 138. Elapsed time since start: 2044.28 seconds.
+Done reranking query 139. Elapsed time since start: 2064.29 seconds.
+Done reranking query 140. Elapsed time since start: 2078.84 seconds.
+Done reranking query 141. Elapsed time since start: 2085.45 seconds.
+Done reranking query 142. Elapsed time since start: 2097.92 seconds.
+Done reranking query 143. Elapsed time since start: 2108.92 seconds.
+Done reranking query 144. Elapsed time since start: 2123.90 seconds.
+Done reranking query 145. Elapsed time since start: 2138.36 seconds.
+Done reranking query 146. Elapsed time since start: 2149.28 seconds.
+Done reranking query 147. Elapsed time since start: 2155.77 seconds.
+Done reranking query 148. Elapsed time since start: 2167.61 seconds.
+Done reranking query 149. Elapsed time since start: 2178.03 seconds.
+Done reranking query 150. Elapsed time since start: 2185.35 seconds.
+Saved 150 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 150 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 151. Elapsed time since start: 2201.47 seconds.
+Done reranking query 152. Elapsed time since start: 2220.54 seconds.
+Done reranking query 153. Elapsed time since start: 2234.23 seconds.
+Done reranking query 154. Elapsed time since start: 2243.57 seconds.
+Done reranking query 155. Elapsed time since start: 2256.42 seconds.
+Done reranking query 156. Elapsed time since start: 2272.09 seconds.
+Done reranking query 157. Elapsed time since start: 2280.63 seconds.
+Done reranking query 158. Elapsed time since start: 2298.32 seconds.
+Done reranking query 159. Elapsed time since start: 2315.18 seconds.
+Done reranking query 160. Elapsed time since start: 2328.87 seconds.
+Done reranking query 161. Elapsed time since start: 2345.31 seconds.
+Done reranking query 162. Elapsed time since start: 2365.95 seconds.
+Done reranking query 163. Elapsed time since start: 2377.73 seconds.
+Done reranking query 164. Elapsed time since start: 2387.62 seconds.
+Done reranking query 165. Elapsed time since start: 2401.47 seconds.
+Saved 165 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 165 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 166. Elapsed time since start: 2439.27 seconds.
+Done reranking query 167. Elapsed time since start: 2448.74 seconds.
+Done reranking query 168. Elapsed time since start: 2475.62 seconds.
+Done reranking query 169. Elapsed time since start: 2487.90 seconds.
+Done reranking query 170. Elapsed time since start: 2502.04 seconds.
+Done reranking query 171. Elapsed time since start: 2514.07 seconds.
+Done reranking query 172. Elapsed time since start: 2520.39 seconds.
+Done reranking query 173. Elapsed time since start: 2537.82 seconds.
+Done reranking query 174. Elapsed time since start: 2549.64 seconds.
+Done reranking query 175. Elapsed time since start: 2579.61 seconds.
+Done reranking query 176. Elapsed time since start: 2590.10 seconds.
+Done reranking query 177. Elapsed time since start: 2602.52 seconds.
+Done reranking query 178. Elapsed time since start: 2614.57 seconds.
+Done reranking query 179. Elapsed time since start: 2631.74 seconds.
+Done reranking query 180. Elapsed time since start: 2643.05 seconds.
+Saved 180 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 180 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 181. Elapsed time since start: 2672.73 seconds.
+Done reranking query 182. Elapsed time since start: 2680.33 seconds.
+Done reranking query 183. Elapsed time since start: 2710.18 seconds.
+Done reranking query 184. Elapsed time since start: 2719.13 seconds.
+Done reranking query 185. Elapsed time since start: 2737.04 seconds.
+Done reranking query 186. Elapsed time since start: 2756.13 seconds.
+Done reranking query 187. Elapsed time since start: 2763.35 seconds.
+Done reranking query 188. Elapsed time since start: 2774.60 seconds.
+Done reranking query 189. Elapsed time since start: 2787.15 seconds.
+Done reranking query 190. Elapsed time since start: 2802.45 seconds.
+Done reranking query 191. Elapsed time since start: 2819.41 seconds.
+Done reranking query 192. Elapsed time since start: 2827.01 seconds.
+Error parsing or validating JSON: Expecting value: line 1 column 1 (char 0)
+Failed to parse JSON. Raw response: '<output>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]'
+Done reranking query 193. Elapsed time since start: 2836.52 seconds.
+Done reranking query 194. Elapsed time since start: 2843.63 seconds.
+Done reranking query 195. Elapsed time since start: 2855.82 seconds.
+Saved 195 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 195 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 196. Elapsed time since start: 2868.46 seconds.
+Done reranking query 197. Elapsed time since start: 2886.73 seconds.
+Done reranking query 198. Elapsed time since start: 2900.42 seconds.
+Done reranking query 199. Elapsed time since start: 2915.98 seconds.
+Done reranking query 200. Elapsed time since start: 2942.53 seconds.
+Done reranking query 201. Elapsed time since start: 2983.77 seconds.
+Done reranking query 202. Elapsed time since start: 3000.96 seconds.
+Done reranking query 203. Elapsed time since start: 3013.95 seconds.
+Done reranking query 204. Elapsed time since start: 3028.29 seconds.
+Done reranking query 205. Elapsed time since start: 3046.52 seconds.
+Done reranking query 206. Elapsed time since start: 3053.37 seconds.
+Done reranking query 207. Elapsed time since start: 3067.73 seconds.
+Done reranking query 208. Elapsed time since start: 3084.71 seconds.
+Done reranking query 209. Elapsed time since start: 3100.07 seconds.
+Done reranking query 210. Elapsed time since start: 3111.52 seconds.
+Saved 210 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 210 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 211. Elapsed time since start: 3124.00 seconds.
+Done reranking query 212. Elapsed time since start: 3130.63 seconds.
+Done reranking query 213. Elapsed time since start: 3147.15 seconds.
+Done reranking query 214. Elapsed time since start: 3155.68 seconds.
+Done reranking query 215. Elapsed time since start: 3169.42 seconds.
+Done reranking query 216. Elapsed time since start: 3189.31 seconds.
+Done reranking query 217. Elapsed time since start: 3201.25 seconds.
+Done reranking query 218. Elapsed time since start: 3215.11 seconds.
+Done reranking query 219. Elapsed time since start: 3236.79 seconds.
+Done reranking query 220. Elapsed time since start: 3249.27 seconds.
+Done reranking query 221. Elapsed time since start: 3267.48 seconds.
+Done reranking query 222. Elapsed time since start: 3280.32 seconds.
+Done reranking query 223. Elapsed time since start: 3291.95 seconds.
+Done reranking query 224. Elapsed time since start: 3310.00 seconds.
+Done reranking query 225. Elapsed time since start: 3322.30 seconds.
+Saved 225 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 225 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 226. Elapsed time since start: 3334.59 seconds.
+Done reranking query 227. Elapsed time since start: 3353.52 seconds.
+Done reranking query 228. Elapsed time since start: 3361.39 seconds.
+Done reranking query 229. Elapsed time since start: 3374.80 seconds.
+Done reranking query 230. Elapsed time since start: 3384.12 seconds.
+Done reranking query 231. Elapsed time since start: 3391.55 seconds.
+Done reranking query 232. Elapsed time since start: 3409.18 seconds.
+Done reranking query 233. Elapsed time since start: 3428.04 seconds.
+Done reranking query 234. Elapsed time since start: 3438.34 seconds.
+Done reranking query 235. Elapsed time since start: 3450.20 seconds.
+Done reranking query 236. Elapsed time since start: 3459.73 seconds.
+Done reranking query 237. Elapsed time since start: 3472.40 seconds.
+Done reranking query 238. Elapsed time since start: 3481.94 seconds.
+Done reranking query 239. Elapsed time since start: 3493.12 seconds.
+Done reranking query 240. Elapsed time since start: 3507.92 seconds.
+Saved 240 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 240 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 241. Elapsed time since start: 3521.92 seconds.
+Done reranking query 242. Elapsed time since start: 3535.88 seconds.
+Done reranking query 243. Elapsed time since start: 3546.99 seconds.
+Done reranking query 244. Elapsed time since start: 3567.05 seconds.
+Done reranking query 245. Elapsed time since start: 3577.83 seconds.
+Done reranking query 246. Elapsed time since start: 3589.42 seconds.
+Done reranking query 247. Elapsed time since start: 3622.51 seconds.
+Done reranking query 248. Elapsed time since start: 3631.13 seconds.
+Done reranking query 249. Elapsed time since start: 3647.15 seconds.
+Done reranking query 250. Elapsed time since start: 3659.94 seconds.
+Done reranking query 251. Elapsed time since start: 3671.77 seconds.
+Done reranking query 252. Elapsed time since start: 3687.79 seconds.
+Done reranking query 253. Elapsed time since start: 3695.47 seconds.
+Done reranking query 254. Elapsed time since start: 3715.05 seconds.
+Done reranking query 255. Elapsed time since start: 3738.19 seconds.
+Saved 255 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 255 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 256. Elapsed time since start: 3757.44 seconds.
+Done reranking query 257. Elapsed time since start: 3769.53 seconds.
+Done reranking query 258. Elapsed time since start: 3783.55 seconds.
+Done reranking query 259. Elapsed time since start: 3794.02 seconds.
+Done reranking query 260. Elapsed time since start: 3805.35 seconds.
+Done reranking query 261. Elapsed time since start: 3827.83 seconds.
+Done reranking query 262. Elapsed time since start: 3846.15 seconds.
+Done reranking query 263. Elapsed time since start: 3858.41 seconds.
+Done reranking query 264. Elapsed time since start: 3874.49 seconds.
+Done reranking query 265. Elapsed time since start: 3885.31 seconds.
+Done reranking query 266. Elapsed time since start: 3938.53 seconds.
+Done reranking query 267. Elapsed time since start: 3951.28 seconds.
+Done reranking query 268. Elapsed time since start: 3966.94 seconds.
+Done reranking query 269. Elapsed time since start: 3978.78 seconds.
+Done reranking query 270. Elapsed time since start: 4005.22 seconds.
+Saved 270 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 270 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 271. Elapsed time since start: 4023.72 seconds.
+Done reranking query 272. Elapsed time since start: 4043.77 seconds.
+Done reranking query 273. Elapsed time since start: 4062.87 seconds.
+Done reranking query 274. Elapsed time since start: 4071.05 seconds.
+Done reranking query 275. Elapsed time since start: 4084.63 seconds.
+Done reranking query 276. Elapsed time since start: 4099.48 seconds.
+Done reranking query 277. Elapsed time since start: 4109.55 seconds.
+Error parsing or validating JSON: Expecting value: line 1 column 1 (char 0)
+Failed to parse JSON. Raw response: '```python
+import re
+
+chunks = ['.16 .14 .08 -.08 -.17 -.27 -.43 -.51 -.52 rank 1 2-4 2-5 2-5 4-7 5-7 5-8 7-8 9 10 11 12-13 13-14 13-14 Acknowledgments This work was supported in parts by the MosesCore, QT21, EXPERT and CRACKER projects funded by the European Commission (7th Framework Programme and H2020). We would also like to thank Unbabel for providing the data used in the QE Tasks 1 and 2, and in the APE task.', '.21 .15 .44 .38 .25 .38 .54 .43 .30 .50 .23 .40 .55 .33 .33 .22 .47 .13 .50 .50 .38 .25 .43 .14 .33 .63 .56 .44 .36 .53 .25 .39 .50 .50 .50 .10 .33 .63 .50 .40 .31 > OTHERS .29 .54 .51 .41 .15 .35 .51 .52 .43 .51 .25 .34 .39 .55 .33 .57 .57 .3 .5 .44 .52 .49 .48 .56 .50 .35 .46 .57 .39 .50 .49 .46 .49 .32 .51 .45 .4 .22 .56 .58 .19 .28 .53 .48 .11 .3 .52 ≥ OTHERS .41 .7 .66 .55 .28 .44 .67 .64 .57 .65 .38 .47 .54 .7 .45 .71 .70 .39 .63 .55 .63 .61 .57 .7 .64 .49 .60 .71 .51 .62 .62 .57 .62 .45 .68 .58 .55 .33 .70 .72 .29 .40 .65 .62 .19 .43 .63 Table 53 : Sentence-level ranking for the All-English News Task. Acknowledgments This work was supported in parts by the EuroMatrix project funded by the European Commission (6th Framework Programme), the GALE program of the US Defense Advanced Research Projects Agency, Contract No. HR0011-06-C-0022, and the US National Science Foundation under grant IIS-0713448. We are grateful to Abhaya Agarwal, John Henderson, Rebecca Hwa, Alon Lavie, Mark Przybocki, Stuart', "the tool provided with the '03 dataset. For the supervised setting we used 10 resamplings with a random 20/5/5 ('03) and 40/5/5 ('04) train/test/validation split. We determined the best C value in (9) using the performance on each validation set and then report average performence over the corresponding test sets. Baseline performance (the approach of Lin and Bilmes ( 2010 )) was computed using all 10 test sets as a single test set. For all experiments and datasets, we used r = 0.3 in the greedy algorithm as recommended in Lin and Bilmes (2010) for the '03 dataset. We find that changing r has only a small influence on performance. 2  The construction of features for learning is organized by word groups. The most trivial group is simply all words (basic). Considering the properties of the words themselves, we constructed several features from properties such as capitalized words, non-stop words and words of certain length (cap+stop+len). We obtained another set of features from the most frequently occuring", "the tool provided with the '03 dataset. For the supervised setting we used 10 resamplings with a random 20/5/5 ('03) and 40/5/5 ('04) train/test/validation split. We determined the best C value in (9) using the performance on each validation set and then report average performence over the corresponding test sets. Baseline performance (the approach of Lin and Bilmes ( 2010 )) was computed using all 10 test sets as a single test set. For all experiments and datasets, we used r = 0.3 in the greedy algorithm as recommended in Lin and Bilmes (2010) for the '03 dataset. We find that changing r has only a small influence on performance. 2  The construction of features for learning is organized by word groups. The most trivial group is simply all words (basic). Considering the properties of the words themselves, we constructed several features from properties such as capitalized words, non-stop words and words of certain length (cap+stop+len). We obtained another set of features from the most frequently occuring", "the tool provided with the '03 dataset. For the supervised setting we used 10 resamplings with a random 20/5/5 ('03) and 40/5/5 ('04) train/test/validation split. We determined the best C value in (9) using the performance on each validation set and then report average performence over the corresponding test sets. Baseline performance (the approach of Lin and Bilmes ( 2010 )) was computed using all 10 test sets as a single test set. For all experiments and datasets, we used r = 0.3 in the greedy algorithm as recommended in Lin and Bilmes (2010) for the '03 dataset. We find that changing r has only a small influence on performance. 2  The construction of features for learning is organized by word groups. The most trivial group is simply all words (basic). Considering the properties of the words themselves, we constructed several features from properties such as capitalized words, non-stop words and words of certain length (cap+stop+len). We obtained another set of features from the most frequently occuring", "we present Pearson's correlation r for different values of w m in Table 3 . In addition, to demonstrate that w m does not overfit the 30 data points, we also evaluate on Using w m = 0.01 gives the best results on 30 pairs while on 35 pairs the peak values of r and ρ happens when w m = 0.005. In general, the correlations in 30 pairs and in 35 pairs are consistent, which indicates w m = 0.01 or w m = 0.005 does not overfit the 30 pairs set. Compared to CDR, LI06 data set has a strong preference for a larger w m . This could be caused by different goals of the two tasks: CDR is evaluated by the rank of the most similar ones among all candidates, while the LI06 data set treats similar pairs and dissimilar pairs as equally important. Using a smaller w m means the similarity score is computed mainly from semantics of the observed words. This benefits CDR, since it gives more accurate similarity scores for those similar pairs, but not so accurate for dissimilar pairs. In fact, from Figure 2 and Table 2 we see that", "we present Pearson's correlation r for different values of w m in Table 3 . In addition, to demonstrate that w m does not overfit the 30 data points, we also evaluate on Using w m = 0.01 gives the best results on 30 pairs while on 35 pairs the peak values of r and ρ happens when w m = 0.005. In general, the correlations in 30 pairs and in 35 pairs are consistent, which indicates w m = 0.01 or w m = 0.005 does not overfit the 30 pairs set. Compared to CDR, LI06 data set has a strong preference for a larger w m . This could be caused by different goals of the two tasks: CDR is evaluated by the rank of the most similar ones among all candidates, while the LI06 data set treats similar pairs and dissimilar pairs as equally important. Using a smaller w m means the similarity score is computed mainly from semantics of the observed words. This benefits CDR, since it gives more accurate similarity scores for those similar pairs, but not so accurate for dissimilar pairs. In fact, from Figure 2 and Table 2 we see that", "we present Pearson's correlation r for different values of w m in Table 3 . In addition, to demonstrate that w m does not overfit the 30 data points, we also evaluate on Using w m = 0.01 gives the best results on 30 pairs while on 35 pairs the peak values of r and ρ happens when w m = 0.005. In general, the correlations in 30 pairs and in 35 pairs are consistent, which indicates w m = 0.01 or w m = 0.005 does not overfit the 30 pairs set. Compared to CDR, LI06 data set has a strong preference for a larger w m . This could be caused by different goals of the two tasks: CDR is evaluated by the rank of the most similar ones among all candidates, while the LI06 data set treats similar pairs and dissimilar pairs as equally important. Using a smaller w m means the similarity score is computed mainly from semantics of the observed words. This benefits CDR, since it gives more accurate similarity scores for those similar pairs, but not so accurate for dissimilar pairs. In fact, from Figure 2 and Table 2 we see that", "we present Pearson's correlation r for different values of w m in Table 3 . In addition, to demonstrate that w m does not overfit the 30 data points, we also evaluate on Using w m = 0.01 gives the best results on 30 pairs while on 35 pairs the peak values of r and ρ happens when w m = 0.005. In general, the correlations in 30 pairs and in 35 pairs are consistent, which indicates w m = 0.01 or w m = 0.005 does not overfit the 30 pairs set. Compared to CDR, LI06 data set has a strong preference for a larger w m . This could be caused by different goals of the two tasks: CDR is evaluated by the rank of the most similar ones among all candidates, while the LI06 data set treats similar pairs and dissimilar pairs as equally important. Using a smaller w m means the similarity score is computed mainly from semantics of the observed words. This benefits CDR, since it gives more accurate similarity scores for those similar pairs, but not so accurate for dissimilar pairs. In fact, from Figure 2 and Table 2 we see that", "we present Pearson's correlation r for different values of w m in Table 3 . In addition, to demonstrate that w m does not overfit the 30 data points, we also evaluate on Using w m = 0.01 gives the best results on 30 pairs while on 35 pairs the peak values of r and ρ happens when w m = 0.005. In general, the correlations in 30 pairs and in 35 pairs are consistent, which indicates w m = 0.01 or w m = 0.005 does not overfit the 30 pairs set. Compared to CDR, LI06 data set has a strong preference for a larger w m . This could be caused by different goals of the two tasks: CDR is evaluated by the rank of the most similar ones among all candidates, while the LI06 data set treats similar pairs and dissimilar pairs as equally important. Using a smaller w m means the similarity score is computed mainly from semantics of the observed words. This benefits CDR, since it gives more accurate similarity scores for those similar pairs, but not so accurate for dissimilar pairs. In fact, from Figure 2 and Table 2 we see that", "66.9 56.0 P(H ni ),P(M n2) , f,,,i (n 1 ,n2),fro(ni ,n2), 1 = 1 68.6 68.8 P( 1-Ini),P(Mn2),.fla/(ni, n2),f,-0 (ni .n2), r = 2 69.8 67.1 f (111),f (n2) ,P (fl ni),,fivn (ni ,n2),fro(ni ,n2) 66.9 55.3 (ni,n2),fro(ni,112) 66.7 54.9 f (ni),f (n2),P(H ni),P(M n2), fwn (ni ,n2),.fro(ni . n2), 1 = 1 70.5 64.3 f ( 111 ),.f (112) ,P( 1171 1),P(m n2),,fwn (ni, n2), f;-0 (n 1, n2), r = 1 71.5 64.6 f (ni),f (n2),P(H ni),f(ni ,n2),,f-o(ni. n2), 1 = 2 72.0 61.4 f (ni),f (n2),P(H ni), f,(ni , n2),,fro (ni . n2 ), r = 2 71.2 62.0 f (ni),f (n2),P(H ni ),P(M n2),,fivn Table 6 : Combination of numeric and categorical features that these three features can be simply estimated from the corpus without recourse to taxonomic information. When compared, the two learners yield similar performances. The NB classifier yields better results with smaller numbers of features, whereas the DT's performance remains steadily good, presumably because the most informative features are selected during the learning process. Discussion In this", 'r) on MSRpar and (0.40 r) on MSRvid. The results for MT evaluation data are also reversed, with (0.40 r) for SMT-eur and (0.45 r) for SMT-News. The ALLnorm measure yields the highest correlations. This comes at no surprise, as it involves a normalization which transforms the system outputs using the gold standard. In fact, a random baseline which gets Pearson correlations close to 0 in all datasets would attain Pearson of 0.5891 4 . Although not included in the results table for lack of space, we also performed an analysis of confidence intervals. For instance, the best run according to ALL (r = .8239) has a 95% confidence interval of [.8123,.8349 ] and the second a confidence interval of [.8016,.8254 ], meaning that the differences are not statistically different. Tools and resources used The organizers asked participants to submit a description file, special emphasis on the tools and resources that they used. Table 2 : Results according to weighted correlation for the systems that provided non-uniform', 'r) on MSRpar and (0.40 r) on MSRvid. The results for MT evaluation data are also reversed, with (0.40 r) for SMT-eur and (0.45 r) for SMT-News. The ALLnorm measure yields the highest correlations. This comes at no surprise, as it involves a normalization which transforms the system outputs using the gold standard. In fact, a random baseline which gets Pearson correlations close to 0 in all datasets would attain Pearson of 0.5891 4 . Although not included in the results table for lack of space, we also performed an analysis of confidence intervals. For instance, the best run according to ALL (r = .8239) has a 95% confidence interval of [.8123,.8349 ] and the second a confidence interval of [.8016,.8254 ], meaning that the differences are not statistically different. Tools and resources used The organizers asked participants to submit a description file, special emphasis on the tools and resources that they used. Table 2 : Results according to weighted correlation for the systems that provided non-uniform', 'r) on MSRpar and (0.40 r) on MSRvid. The results for MT evaluation data are also reversed, with (0.40 r) for SMT-eur and (0.45 r) for SMT-News. The ALLnorm measure yields the highest correlations. This comes at no surprise, as it involves a normalization which transforms the system outputs using the gold standard. In fact, a random baseline which gets Pearson correlations close to 0 in all datasets would attain Pearson of 0.5891 4 . Although not included in the results table for lack of space, we also performed an analysis of confidence intervals. For instance, the best run according to ALL (r = .8239) has a 95% confidence interval of [.8123,.8349 ] and the second a confidence interval of [.8016,.8254 ], meaning that the differences are not statistically different. Tools and resources used The organizers asked participants to submit a description file, special emphasis on the tools and resources that they used. Table 2 : Results according to weighted correlation for the systems that provided non-uniform', "from 94% to 98%, which suggests a good fit to the training data.) Feature Unsupervised Supervised P(c|w)xP(wi|wi-1) 1 1 1 1 1 1 1 1 P(bit|n) 1 1 0 0 1 1 0 0 P(m|n) 1 0 1 0 1 0 1 0 Accuracy Rate(%) 68 68 61 60 72 70 61 58 Each column shows the test set performance for a submodel, which is identified by the features used for estimating the probability. The label '1' (or '0') indicates that the feature at the first column is used (or unused) in the submodel. For instance, the submodel of the second column ('111') uses all the features, including the word transition probability, word-to-abbreviation probability, probability for mapping n character word to a particular abbreviation bit pattern P(bit|n), and the probability for mapping n-character words into m-character abbreviations. It is seen that supervised training acquires a little better performance than its unsupervised (EM) counterpart. Although not shown in this table, it is observed that the word transition probability and word-to-abbreviation", "above. While studies of other tasks have achieved stronger results (e.g., 96.8% in a word-sense disambiguation study (Gale et al., 1992) ), the meaning of percent agreement in isolation is unclear. For example, a percent agreement figure of less than 90% could still be very meaningful if the probability of obtaining such a figure is low. In the next section we demonstrate the significance of our findings. STATISTICAL SIGNIFICANCE We represent the segmentation data for each narrative as an { x j matrix of height i=7 subjects and width j=n-1. The value in each cell ci,j is a one if the ith subject assigned a boundary at site j, and a zero if they did not. We use Cochran's test (Cochran, 1950) to evaluate significance of differences across columns in the matrix. 3 Cochran's test assumes that the number of Is within a single row of the matrix is fixed by observation, and that the totals across rows can vary. Here a row total corresponds to the total number 3We thank Julia Hirschberg for suggesting this test.", "above. While studies of other tasks have achieved stronger results (e.g., 96.8% in a word-sense disambiguation study (Gale et al., 1992) ), the meaning of percent agreement in isolation is unclear. For example, a percent agreement figure of less than 90% could still be very meaningful if the probability of obtaining such a figure is low. In the next section we demonstrate the significance of our findings. STATISTICAL SIGNIFICANCE We represent the segmentation data for each narrative as an { x j matrix of height i=7 subjects and width j=n-1. The value in each cell ci,j is a one if the ith subject assigned a boundary at site j, and a zero if they did not. We use Cochran's test (Cochran, 1950) to evaluate significance of differences across columns in the matrix. 3 Cochran's test assumes that the number of Is within a single row of the matrix is fixed by observation, and that the totals across rows can vary. Here a row total corresponds to the total number 3We thank Julia Hirschberg for suggesting this test.", 'ν ∈ [(j−1)/20, j/20) that their assigned label is correct. Ultimately, these two values should be the same, b j = c j , meaning that the confidence information is a good estimator of the frequency of correct labels. Methods for which c j > b j are too pessimistic, predicting too high frequency of erroneous labels, while methods for which c j < b j are too optimistic, predicting too low frequency of erroneous words. The results are summarized in Fig 4 , one panel per dataset, where we plot the value of the centerof-bin b j vs. the frequency of correct prediction c j , connecting the points associated with a single algorithm. Four algorithms are shown: KD-PC, KD-Fixed, WKBV and CRF. We omit the results of the KBV approach -they were substantially inferior to all other methods. Best performance is obtained when the resulting line is close to the line y = x. From the plots we observe that WKBV is too pessimistic as its corresponding line (blue square) is above the line y = x. CRF method is too optimistic, its', '5-12 , under the heading "c$ ". They can be interpreted as follows: To decide whether two sites are significantly different (at the 95% confidence level) in their performance on a particular task, one just has to compute whether their confidence intervals overlap. Similarly one can treat the precision rates as the probability that a character string that has been identified as a word is really a word; these precision-based confidences are given as "c% " in the tables. It seems reasonable to treat two systems as significantly different (at the 95% confidence level), if at least one of their recall-based or precision-based confidences are different. Using this criterion all systems are significantly different from each other except that on PK closed S10 is not significantly different from S09, and S07 is not significantly different from S04. Discussion Differences between "open" and "closed" performance In Figure 1 we plot the F scores for all systems, all tracks. We include as "BASE", and "TOP" the baseline', "(1999) ). For taggers, a standard technique is to eliminate low frequency features, based on the assumption that they are unreliable or uninformative (Ratnaparkhi, 1998) . Studies of infrequent features in other domains suggest this assumption may be incorrect (Daelemans et al., 1999) . We test this for ME taggers by replacing the cutoff with the use of a Gaussian prior, a technique which works well for language models (Chen and Rosenfeld, 1999) . When using a Gaussian prior, the objective function is no longer the likelihood, L(A), but has the form: L13 ' (A) = L 1 p(A) + E log (10) • .'121ro 2o-3' l Maximising this function is a form of maximum a posteriori estimation, rather than maximum likelihood estimation. The effect of the prior is to penalise models that have very large positive or negative weights. This can be thought of as relaxing the constraints in (5), so that the model fits the data 1 We note that Goodman (2002) suggests that the correction feature may not be necessary for convergence. The new", 'These results show a variation in performance across values for a, with an optimal perfor- mance when @ is around 0.75. (Of course, in practice, the value for & would need to be op- timised on a held-out set.) But even with this variation, similarity-class is still out-performing MDL and Assoc across the whole range of @ val- ues. Note that the @ values corresponding to the lowest scores lead to a significant amount of gen- eralisation, which provides additional evidence that MDL and Assoc are over-generalising for this task. The Low-class method scores highly for this data set also, but given that the task is one that apparently favours a low level of gen- eralisation, the high score is not too surprising.\n\nAs a final experiment, we compared the task performance using the X2, rather than G2, statistic in the chi-squared test. The results are given in Table 6 for the complete data set. The\n\n\nPage 8:\n===', 'These results show a variation in performance across values for a, with an optimal perfor- mance when @ is around 0.75. (Of course, in practice, the value for & would need to be op- timised on a held-out set.) But even with this variation, similarity-class is still out-performing MDL and Assoc across the whole range of @ val- ues. Note that the @ values corresponding to the lowest scores lead to a significant amount of gen- eralisation, which provides additional evidence that MDL and Assoc are over-generalising for this task. The Low-class method scores highly for this data set also, but given that the task is one that apparently favours a low level of gen- eralisation, the high score is not too surprising.\n\nAs a final experiment, we compared the task performance using the X2, rather than G2, statistic in the chi-squared test. The results are given in Table 6 for the complete data set. The\n\n\nPage 8:\n===', 'the confidence score it produces is not in [0, 1]). For each of the four datasets and the five algorithms we grouped the words according to the value of their confidence. Specifically, we used twenty (20) bins dividing uniformly the confidence range into intervals of size 0.05. For each bin, we computed the fraction of words predicted correctly from the words assigned to that bin. Ultimately, the value of the computed frequency should be about the center value of the interval of the bin. Formally, bin indexed j contains words with confidence value in the range [(j − 1)/20, j/20) for j = 1 . . . 20. Let b j be the center value of bin j, that is b j = j/20−1/40. The frequency of correct words in bin j, denoted by c j is the fraction of words with confidence ν ∈ [(j−1)/20, j/20) that their assigned label is correct. Ultimately, these two values should be the same, b j = c j , meaning that the confidence information is a good estimator of the frequency of correct labels. Methods for which c j > b j are too', 'of freedom. We use a 2x2 contingency table of a feature f and a class c to introduce χ 2 test. In the table, W denotes the number of documents in the corpus in which feature f and class c cooccur, X the number of documents in which f occurs without c, Y the number of documents in which c occurs without f, and Z the number of documents in which neither c nor f occurs. Thus, N = W + X + Y + Z is the total number of documents in the corpus. χ 2 test is defined as: c c f W X f Y Z ) )( )( )( ( ) ( ) , ( 2 2 Z Y X W Z X Y W YX WZ N c f + + + + − = χ The scoring function using the χ 2 statistic is either the weighted average or max over all classes. In our experiments, we use the weighted average: χ 2 (f) = ∑ = m i i i c f c P 1 2 ) , ( ) ( χ Cross Entropy (CE): This metric is similar to mutual information (Mladenic and Grobelnik, 1998) : ∑ = = m i i i f P f c P f c P f P f CE 1 ) ( ) | ( log ) | ( ) ( ) ( Weight of Evidence for Text (WET): This criterion is based on the average absolute weight of evidence', "(Koehn, 2004) . Table 4 . Performance results comaparing our proposes method with other techniques. The column labeled 'Baseline' is the same as in Table 3 , for reference. The column lableled 'No Classifier', is the same system as our proposed method, except that the classifier was replaced with a default model that assigned a class membership probability of 0.5 in every case. The column labeled 'Hard' corresponds to a system that used hard weights (either 1 or 0) for the class-dependent models. The column labeled 'Proposed' are the results from our proposed method. Figures in parentheses represent the percentage improvement of the proposed method's score relative to the alternative method. Cells with bold borders indicate those conditions where performance was degraded. Tuning the interpolation weights The interpolation weights were tuned by maximizing the BLEU score on the development set over a set of weights ranging from 0 to 1 in increments of 0.1. Figure 1 shows the behavior of two of our models with", '8 and 9 in Table 3 below. Hence, we took the average of both results. It was no surprise that the results of the second experiment were better than the first on questions with the full mark >1, since the number of target features is smaller. In both experiments, the complement of Naïve Bayes did slightly better or equally well on questions with a full mark of 1, like questions 4 and 7 in the table, while it resulted in a worse performance on questions with full marks >1. Since we were using the words as attributes, we expected that in some cases stemming the words in the answers would improve the results. Hence, we experimented with the answers of 6, 7, 8 and 9 from the list above but there was only a tiny improvement (in question 8). Stemming does not necessarily make a difference if the attributes/words that make a difference appear in a root form already. The lack of any difference or worse performance may also be due to the error rate in the stemmer. Ques. Baseline DTL1 N/CNBayes1 N/ Results on Annotated', 'Contingency (3500 each), Expansion 3 (6356 each), and Temporal (730 each). The We used Naive Bayes, Maximum Entropy (MaxEnt), and AdaBoost (Freund and Schapire, 1996) classifiers implemented in MALLET. Non-Wordpair Features The performance using only our semantically informed features is shown in Table 7 . Only the Naive Bayes classification results are given, as space is limited and MaxEnt and AdaBoost gave slightly lower accuracies overall. The table lists the f-score for each of the target relations, with overall accuracy shown in brackets. Given that the experiments are run on natural distribution of the data, which are skewed towards Expansion relations, the f-score is the more important measure to track. Our random baseline is the f-score one would achieve by randomly assigning classes in proportion to its true distribution in the test set. The best results for all four tasks are considerably higher than random prediction, but still low overall. Our features provide 6% to 18% absolute improvements in', 'Contingency (3500 each), Expansion 3 (6356 each), and Temporal (730 each). The We used Naive Bayes, Maximum Entropy (MaxEnt), and AdaBoost (Freund and Schapire, 1996) classifiers implemented in MALLET. Non-Wordpair Features The performance using only our semantically informed features is shown in Table 7 . Only the Naive Bayes classification results are given, as space is limited and MaxEnt and AdaBoost gave slightly lower accuracies overall. The table lists the f-score for each of the target relations, with overall accuracy shown in brackets. Given that the experiments are run on natural distribution of the data, which are skewed towards Expansion relations, the f-score is the more important measure to track. Our random baseline is the f-score one would achieve by randomly assigning classes in proportion to its true distribution in the test set. The best results for all four tasks are considerably higher than random prediction, but still low overall. Our features provide 6% to 18% absolute improvements in', 'contrast this with another condition, where we count a pair as covered if at least one of the two words w, w is assigned a level of preference by a model ("half coverage"). If only one is assigned a preference, that word is counted as chosen. To test the performance difference between models for significance, we use Dietterich\'s 3 We are grateful to Carsten Brockmann and Detlef Prescher for the use of their software. 4 We exclude potential confounders that occur less than 30 or more than 3,000 times. 5x2cv (Dietterich, 1998) . The test involves five 2-fold cross-validation runs. Let d i,j (i ∈ {1, 2}, j ∈ {1, . . . , 5}) be the difference in error rates between the two models when using split i of cross-validation run j as training data. Let s 2 j = (d 1,j − dj ) 2 + (d 2,j − dj ) 2 be the variance for cross-validation run j, with dj = d 1,j +d 2,j 2 . Then the 5x2cv t statistic is defined as t = d 1,1 1 5 5 j=1 s 2 j Under the null hypothesis, the t statistic has approximately a t distribution with 5', 'contrast this with another condition, where we count a pair as covered if at least one of the two words w, w is assigned a level of preference by a model ("half coverage"). If only one is assigned a preference, that word is counted as chosen. To test the performance difference between models for significance, we use Dietterich\'s 3 We are grateful to Carsten Brockmann and Detlef Prescher for the use of their software. 4 We exclude potential confounders that occur less than 30 or more than 3,000 times. 5x2cv (Dietterich, 1998) . The test involves five 2-fold cross-validation runs. Let d i,j (i ∈ {1, 2}, j ∈ {1, . . . , 5}) be the difference in error rates between the two models when using split i of cross-validation run j as training data. Let s 2 j = (d 1,j − dj ) 2 + (d 2,j − dj ) 2 be the variance for cross-validation run j, with dj = d 1,j +d 2,j 2 . Then the 5x2cv t statistic is defined as t = d 1,1 1 5 5 j=1 s 2 j Under the null hypothesis, the t statistic has approximately a t distribution with 5', 'not significant. ) 1/1 1/o 1/2 o/1 o/o + o/o 0/0 + 1/1 1/1 + OlO 0/0(1) 1/1(1) 2/2(3) 3/3(3) 3/3(3) 0/0(1) 1/1(1) 2/2(3) 3/3(3) 2/3(3) -+ 0/1(1) item. However (Daelemans et al., 1999) report that for baseNP recognition better results can be obtained by making the algorithm consider the classification values of the three closest training items. We have tested this by repeating the first experiment series and part of the third experiment series for k=3. In this revised version we have repeated the best experiment of the third series with the results for k=l replaced by the k=3 results whenever the latter outperformed the first in the revised first experiment series. The results can be found in table 5 . All formats benefited from this step. In this final experiment series the best results were obtained with IOB1 but the differences with the results of the other formats are not significant. We have used the optimal experiment configurations that we had obtained from the fourth experiment series for processing', 'This led us to reduce the cutoffs for all features simultaneously. Table 6 gives results for cutoff values between 1 and 4. The best performance (in row 1) is obtained when the cutoffs are eliminated entirely. Gaussian smoothing has allowed us to retain all of the features extracted from the corpus and reduce overfitting. To get more information into the model, more features must be extracted, and so we investigated the addition of the current word feature for all words, including the rare ones. This resulted in a minor improvement, and gave the best Table 7 shows the final performance on the test set, using the best configuration on the development data (which we call c&c), compared with MXPOST. The improvement is 0.22% overall (a reduction in error rate of 7.5%) and 1.58% for unknown words (a reduction in error rate of 9.7%). The obvious cost associated with retaining all the features is the significant increase in model size, which slows down both the training and tagging and requires more memory. Table 8', "p(difflk ) = 1-p(same[k). Equatioll 7, 8 and 9 gives the general form of p(samelk ), B(.,.?) and B(r,b), respectively 7. Table 2 presents the experimental results. The values in row two and three, four and five are not actually the same. However, their differences are insignificant according to the Kolmogorov-Smirnov, or KS-test (Press et al., 1992) . # valid segmentations ]) (sanlel ]~ ) = (7) # possible segmentations 2//~-]¢ p(samelk, B(~,?)) -2m -2 -k (m-k)Cb p(sarnelk, m, B(r,b)) -- ~Cb 3- Experiment 2 -TextTiling We compare three versions of the TextTiling algorithm (Hearst, 1994) . H94(c,d) Experimental result (table 3 ) shows H94(c,a) and H94(~,r) are more accurate than H94(js). We suspect this is due to the use of a different stopword list and stemming algorithm. Experiment 3 -DotPlot Five versions of Reynar's optimisation algorithm (Reynar, 1998) were evaluated. R98 and R98(min) are exact implementations of his maximisation and minimisation algorithm. R98(~,~o~) is my version of the maximisation", "p(difflk ) = 1-p(same[k). Equatioll 7, 8 and 9 gives the general form of p(samelk ), B(.,.?) and B(r,b), respectively 7. Table 2 presents the experimental results. The values in row two and three, four and five are not actually the same. However, their differences are insignificant according to the Kolmogorov-Smirnov, or KS-test (Press et al., 1992) . # valid segmentations ]) (sanlel ]~ ) = (7) # possible segmentations 2//~-]¢ p(samelk, B(~,?)) -2m -2 -k (m-k)Cb p(sarnelk, m, B(r,b)) -- ~Cb 3- Experiment 2 -TextTiling We compare three versions of the TextTiling algorithm (Hearst, 1994) . H94(c,d) Experimental result (table 3 ) shows H94(c,a) and H94(~,r) are more accurate than H94(js). We suspect this is due to the use of a different stopword list and stemming algorithm. Experiment 3 -DotPlot Five versions of Reynar's optimisation algorithm (Reynar, 1998) were evaluated. R98 and R98(min) are exact implementations of his maximisation and minimisation algorithm. R98(~,~o~) is my version of the maximisation", "are probabilities. Variations of the value difference metric (Stanfill and Waltz, 1986) have been employed for supervised disambiguation (Ng and H.B. Lee, 1996; Ng, 1997) ; but it is not reasonable in language modeling to expect training data tagged with correct probabilities. The Dice coej~cient (Smadja et al., 1996; D. Lin, 1998a D. Lin, , 1998b) ) is monotonic in Jaccard's coefficient (van Rijsbergen, 1979) , so its inclusion in our experiments would be redundant. Finally, we did not use the KL divergence because it requires a smoothed base language model. SZero would also be a reasonable choice, since it indicates zero correlation between q and r. However, it would then not be clear how to average in the estimates of negatively correlated words in equation (1). We evaluated the similarity functions introduced in the previous section on a binary decision task, using the same experimental framework as in our previous preliminary comparison (Dagan et al., 1999) . That is, the data consisted of the", "are probabilities. Variations of the value difference metric (Stanfill and Waltz, 1986) have been employed for supervised disambiguation (Ng and H.B. Lee, 1996; Ng, 1997) ; but it is not reasonable in language modeling to expect training data tagged with correct probabilities. The Dice coej~cient (Smadja et al., 1996; D. Lin, 1998a D. Lin, , 1998b) ) is monotonic in Jaccard's coefficient (van Rijsbergen, 1979) , so its inclusion in our experiments would be redundant. Finally, we did not use the KL divergence because it requires a smoothed base language model. SZero would also be a reasonable choice, since it indicates zero correlation between q and r. However, it would then not be clear how to average in the estimates of negatively correlated words in equation (1). We evaluated the similarity functions introduced in the previous section on a binary decision task, using the same experimental framework as in our previous preliminary comparison (Dagan et al., 1999) . That is, the data consisted of the", "are probabilities. Variations of the value difference metric (Stanfill and Waltz, 1986) have been employed for supervised disambiguation (Ng and H.B. Lee, 1996; Ng, 1997) ; but it is not reasonable in language modeling to expect training data tagged with correct probabilities. The Dice coej~cient (Smadja et al., 1996; D. Lin, 1998a D. Lin, , 1998b) ) is monotonic in Jaccard's coefficient (van Rijsbergen, 1979) , so its inclusion in our experiments would be redundant. Finally, we did not use the KL divergence because it requires a smoothed base language model. SZero would also be a reasonable choice, since it indicates zero correlation between q and r. However, it would then not be clear how to average in the estimates of negatively correlated words in equation (1). We evaluated the similarity functions introduced in the previous section on a binary decision task, using the same experimental framework as in our previous preliminary comparison (Dagan et al., 1999) . That is, the data consisted of the", "then choose (v', n) else choose at random\n\nSince some nouns appear more than once in WordNet, the instance of n is chosen that max- imises the relevant probability estimate. We use sep(n) to denote the separate instances of n.\n\n\nPage 7:\n===\n\n| Generalisation technique   | % correct   | av.gen.   | sd.gen   |\n|:---------------------------|:------------|:----------|:---------|\n| Similarity-class           |             |           |          |\n| a = 0.0005                 | 73.5        | 3.3       | 2.0      |\n| a = 0.05                   | 73.2        | 2.8       | 1.9      |\n| a =0.3                     | 72.5        | 2.4       | 1.8      |\n| a = 0.75                   | 73.5        | 1.9       | 1.6      |\n| a =0.995                   | 72.8        | 1.2       | 1.2      |\n| Low-class                  | 72.1        | 0.9       | 1.0      |\n| MDL                        | 68.3        | 4.1       | 1.9      |\n| Assoc                      | 63.9        | 4.2       | 2.1      |", "then choose (v', n) else choose at random\n\nSince some nouns appear more than once in WordNet, the instance of n is chosen that max- imises the relevant probability estimate. We use sep(n) to denote the separate instances of n.\n\n\nPage 7:\n===\n\n| Generalisation technique   | % correct   | av.gen.   | sd.gen   |\n|:---------------------------|:------------|:----------|:---------|\n| Similarity-class           |             |           |          |\n| a = 0.0005                 | 73.5        | 3.3       | 2.0      |\n| a = 0.05                   | 73.2        | 2.8       | 1.9      |\n| a =0.3                     | 72.5        | 2.4       | 1.8      |\n| a = 0.75                   | 73.5        | 1.9       | 1.6      |\n| a =0.995                   | 72.8        | 1.2       | 1.2      |\n| Low-class                  | 72.1        | 0.9       | 1.0      |\n| MDL                        | 68.3        | 4.1       | 1.9      |\n| Assoc                      | 63.9        | 4.2       | 2.1      |", "gradient and limited memory variable metric methods (Malouf, 2002) , our C&C POS tagger takes less than 10 minutes to train, and the space requirements are modest, irrespective of the size of the tagset. We have also shown that using a Gaussian prior on the parameters of the ME model improves performance over a simple frequency cutoff. The Gaussian prior effectively relaxes the constraints on the ME model, which allows the model to use low frequency features without overfitting. Achieving optimal performance with Gaussian smoothing and without cutoffs demonstrates that low frequency features can contribute to good performance. Lp( A + A) -Lp(A) E ixx, 6ifi1 ,Y =1 81 t(x, y) + 1 - 1 ZA,(X)\\ ZA(X) ZA'(X) P(1) ZA(x) ,y).f(x, y) PANYM(x,y) exp (C 6; ) (20) Call the right hand side of this last equation g{(A1A). If we can find a A for which R(AA) > 0, then Lp(A +A) is an improvement over L(A). The obvious approach is to maximise A(AIA) with respect to each Si , but this cannot be performed directly, since", 'of 3.8 million features. The last row of the table gives the score for an MEMM trained with the mixed CG method using an approximate preconditioner. The published F score for voted perceptron is 93.53% with a different feature set (Collins, 2002) . The improved result given here is for the supported feature set; the complete feature set gives a slightly lower score of 94.07%. Zhang et al. (2002) reported a higher F score (94.38%) with generalized winnow using additional linguistic features that were not available to us. Convergence Speed All the results in the rest of this section are for the smaller supported set of 820,000 features. Figures 2a and 2b show how preconditioning helps training convergence. Since each CG iteration involves a line search that may require several forward-backward procedures (typically between 4 and 5 in our experiments), we plot the progress of penalized log-likelihood L λ with respect to the number of forward-backward evaluations. The objective function increases rapidly,', 'of 3.8 million features. The last row of the table gives the score for an MEMM trained with the mixed CG method using an approximate preconditioner. The published F score for voted perceptron is 93.53% with a different feature set (Collins, 2002) . The improved result given here is for the supported feature set; the complete feature set gives a slightly lower score of 94.07%. Zhang et al. (2002) reported a higher F score (94.38%) with generalized winnow using additional linguistic features that were not available to us. Convergence Speed All the results in the rest of this section are for the smaller supported set of 820,000 features. Figures 2a and 2b show how preconditioning helps training convergence. Since each CG iteration involves a line search that may require several forward-backward procedures (typically between 4 and 5 in our experiments), we plot the progress of penalized log-likelihood L λ with respect to the number of forward-backward evaluations. The objective function increases rapidly,', 'of 3.8 million features. The last row of the table gives the score for an MEMM trained with the mixed CG method using an approximate preconditioner. The published F score for voted perceptron is 93.53% with a different feature set (Collins, 2002) . The improved result given here is for the supported feature set; the complete feature set gives a slightly lower score of 94.07%. Zhang et al. (2002) reported a higher F score (94.38%) with generalized winnow using additional linguistic features that were not available to us. Convergence Speed All the results in the rest of this section are for the smaller supported set of 820,000 features. Figures 2a and 2b show how preconditioning helps training convergence. Since each CG iteration involves a line search that may require several forward-backward procedures (typically between 4 and 5 in our experiments), we plot the progress of penalized log-likelihood L λ with respect to the number of forward-backward evaluations. The objective function increases rapidly,', 'average (~) across all nouns, f(N) and similarly for verbs. When f(n, p) is zero, the estimate used is proportional to this average. If we have seen only one case of a noun and it occurred with a preposition p (that is f(n, p) = 1 and f(n) = 1 ), then our estimate is nearly cut in half. This is the kind of effect we want, since under these circumstances we are not very confident in 1 as an estimate of P(p I n). When f(n, p) is large, the adjustment factor does not make much difference. In general; this interpolation procedure adjusts small counts in the right direction and has little effect when counts are large. For our current example, this estimation procedure changes the LA score little: • \\ f(V,into) f(soldierN,NULL)+~LL) f (sendv,mto) + f~fl-ffy- LA(sendv, soldier~, into) = log 2 f(sendv)+l f(s°ldierN)+l . . f(N into) f(s°l&erN~mt°)+" f (soldier N ) + 1 86a. 2292 1182q 2047311 385435 26~594 l ~510~21742.5+124341478+1 1-} 2656594 1478+1 = 5.87. The LA score of 5.87 for this example is positive and', 'average (~) across all nouns, f(N) and similarly for verbs. When f(n, p) is zero, the estimate used is proportional to this average. If we have seen only one case of a noun and it occurred with a preposition p (that is f(n, p) = 1 and f(n) = 1 ), then our estimate is nearly cut in half. This is the kind of effect we want, since under these circumstances we are not very confident in 1 as an estimate of P(p I n). When f(n, p) is large, the adjustment factor does not make much difference. In general; this interpolation procedure adjusts small counts in the right direction and has little effect when counts are large. For our current example, this estimation procedure changes the LA score little: • \\ f(V,into) f(soldierN,NULL)+~LL) f (sendv,mto) + f~fl-ffy- LA(sendv, soldier~, into) = log 2 f(sendv)+l f(s°ldierN)+l . . f(N into) f(s°l&erN~mt°)+" f (soldier N ) + 1 86a. 2292 1182q 2047311 3854'
+Done reranking query 278. Elapsed time since start: 4157.68 seconds.
+Done reranking query 279. Elapsed time since start: 4171.48 seconds.
+Done reranking query 280. Elapsed time since start: 4187.49 seconds.
+Done reranking query 281. Elapsed time since start: 4203.50 seconds.
+Done reranking query 282. Elapsed time since start: 4209.92 seconds.
+Done reranking query 283. Elapsed time since start: 4226.52 seconds.
+Done reranking query 284. Elapsed time since start: 4236.21 seconds.
+Done reranking query 285. Elapsed time since start: 4251.75 seconds.
+Saved 285 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 285 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 286. Elapsed time since start: 4261.21 seconds.
+Done reranking query 287. Elapsed time since start: 4278.14 seconds.
+Done reranking query 288. Elapsed time since start: 4294.43 seconds.
+Done reranking query 289. Elapsed time since start: 4306.73 seconds.
+Done reranking query 290. Elapsed time since start: 4332.86 seconds.
+Done reranking query 291. Elapsed time since start: 4348.20 seconds.
+Done reranking query 292. Elapsed time since start: 4358.91 seconds.
+Done reranking query 293. Elapsed time since start: 4371.03 seconds.
+Done reranking query 294. Elapsed time since start: 4380.10 seconds.
+Done reranking query 295. Elapsed time since start: 4387.10 seconds.
+Done reranking query 296. Elapsed time since start: 4403.26 seconds.
+Done reranking query 297. Elapsed time since start: 4417.35 seconds.
+Done reranking query 298. Elapsed time since start: 4439.84 seconds.
+Done reranking query 299. Elapsed time since start: 4480.35 seconds.
+Done reranking query 300. Elapsed time since start: 4492.80 seconds.
+Saved 300 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 300 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 301. Elapsed time since start: 4499.33 seconds.
+Done reranking query 302. Elapsed time since start: 4512.15 seconds.
+Done reranking query 303. Elapsed time since start: 4523.36 seconds.
+Done reranking query 304. Elapsed time since start: 4530.73 seconds.
+Done reranking query 305. Elapsed time since start: 4540.20 seconds.
+Done reranking query 306. Elapsed time since start: 4546.52 seconds.
+Done reranking query 307. Elapsed time since start: 4555.18 seconds.
+Done reranking query 308. Elapsed time since start: 4567.84 seconds.
+Done reranking query 309. Elapsed time since start: 4576.20 seconds.
+Done reranking query 310. Elapsed time since start: 4590.40 seconds.
+Done reranking query 311. Elapsed time since start: 4610.40 seconds.
+Done reranking query 312. Elapsed time since start: 4619.14 seconds.
+Done reranking query 313. Elapsed time since start: 4631.51 seconds.
+Done reranking query 314. Elapsed time since start: 4642.96 seconds.
+Done reranking query 315. Elapsed time since start: 4686.76 seconds.
+Saved 315 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 315 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 316. Elapsed time since start: 4701.92 seconds.
+Done reranking query 317. Elapsed time since start: 4712.30 seconds.
+Done reranking query 318. Elapsed time since start: 4725.75 seconds.
+Done reranking query 319. Elapsed time since start: 4735.04 seconds.
+Done reranking query 320. Elapsed time since start: 4747.92 seconds.
+Done reranking query 321. Elapsed time since start: 4764.85 seconds.
+Done reranking query 322. Elapsed time since start: 4782.16 seconds.
+Done reranking query 323. Elapsed time since start: 4800.88 seconds.
+Done reranking query 324. Elapsed time since start: 4807.24 seconds.
+Done reranking query 325. Elapsed time since start: 4822.08 seconds.
+Done reranking query 326. Elapsed time since start: 4859.59 seconds.
+Done reranking query 327. Elapsed time since start: 4870.42 seconds.
+Done reranking query 328. Elapsed time since start: 4883.61 seconds.
+Done reranking query 329. Elapsed time since start: 4910.03 seconds.
+Done reranking query 330. Elapsed time since start: 4925.92 seconds.
+Saved 330 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 330 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 331. Elapsed time since start: 4931.76 seconds.
+Done reranking query 332. Elapsed time since start: 4949.16 seconds.
+Done reranking query 333. Elapsed time since start: 4965.57 seconds.
+Done reranking query 334. Elapsed time since start: 4973.22 seconds.
+Done reranking query 335. Elapsed time since start: 4985.40 seconds.
+Done reranking query 336. Elapsed time since start: 4994.40 seconds.
+Done reranking query 337. Elapsed time since start: 5015.55 seconds.
+Done reranking query 338. Elapsed time since start: 5033.62 seconds.
+Done reranking query 339. Elapsed time since start: 5046.18 seconds.
+Done reranking query 340. Elapsed time since start: 5062.87 seconds.
+Done reranking query 341. Elapsed time since start: 5077.99 seconds.
+Done reranking query 342. Elapsed time since start: 5090.20 seconds.
+Done reranking query 343. Elapsed time since start: 5105.53 seconds.
+Done reranking query 344. Elapsed time since start: 5115.11 seconds.
+Done reranking query 345. Elapsed time since start: 5128.41 seconds.
+Saved 345 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 345 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 346. Elapsed time since start: 5143.98 seconds.
+Done reranking query 347. Elapsed time since start: 5161.82 seconds.
+Done reranking query 348. Elapsed time since start: 5178.70 seconds.
+Done reranking query 349. Elapsed time since start: 5190.46 seconds.
+Done reranking query 350. Elapsed time since start: 5203.41 seconds.
+Done reranking query 351. Elapsed time since start: 5256.93 seconds.
+Done reranking query 352. Elapsed time since start: 5267.48 seconds.
+Done reranking query 353. Elapsed time since start: 5282.74 seconds.
+Done reranking query 354. Elapsed time since start: 5289.47 seconds.
+Done reranking query 355. Elapsed time since start: 5304.06 seconds.
+Done reranking query 356. Elapsed time since start: 5317.20 seconds.
+Done reranking query 357. Elapsed time since start: 5329.71 seconds.
+Done reranking query 358. Elapsed time since start: 5342.45 seconds.
+Done reranking query 359. Elapsed time since start: 5360.70 seconds.
+Done reranking query 360. Elapsed time since start: 5374.73 seconds.
+Saved 360 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 360 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 361. Elapsed time since start: 5408.82 seconds.
+Done reranking query 362. Elapsed time since start: 5422.01 seconds.
+Done reranking query 363. Elapsed time since start: 5430.05 seconds.
+Done reranking query 364. Elapsed time since start: 5441.41 seconds.
+Done reranking query 365. Elapsed time since start: 5463.16 seconds.
+Done reranking query 366. Elapsed time since start: 5474.27 seconds.
+Done reranking query 367. Elapsed time since start: 5488.91 seconds.
+Done reranking query 368. Elapsed time since start: 5502.63 seconds.
+Done reranking query 369. Elapsed time since start: 5518.16 seconds.
+Done reranking query 370. Elapsed time since start: 5532.55 seconds.
+Done reranking query 371. Elapsed time since start: 5544.49 seconds.
+Done reranking query 372. Elapsed time since start: 5572.45 seconds.
+Done reranking query 373. Elapsed time since start: 5582.95 seconds.
+Done reranking query 374. Elapsed time since start: 5593.34 seconds.
+Done reranking query 375. Elapsed time since start: 5609.41 seconds.
+Saved 375 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 375 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 376. Elapsed time since start: 5622.48 seconds.
+Done reranking query 377. Elapsed time since start: 5629.01 seconds.
+Done reranking query 378. Elapsed time since start: 5642.66 seconds.
+Done reranking query 379. Elapsed time since start: 5655.58 seconds.
+Done reranking query 380. Elapsed time since start: 5679.06 seconds.
+Done reranking query 381. Elapsed time since start: 5692.65 seconds.
+Done reranking query 382. Elapsed time since start: 5709.29 seconds.
+Done reranking query 383. Elapsed time since start: 5724.99 seconds.
+Done reranking query 384. Elapsed time since start: 5731.82 seconds.
+Done reranking query 385. Elapsed time since start: 5741.92 seconds.
+Done reranking query 386. Elapsed time since start: 5756.12 seconds.
+Done reranking query 387. Elapsed time since start: 5772.65 seconds.
+Done reranking query 388. Elapsed time since start: 5788.26 seconds.
+Done reranking query 389. Elapsed time since start: 5803.64 seconds.
+Done reranking query 390. Elapsed time since start: 5818.99 seconds.
+Saved 390 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 390 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 391. Elapsed time since start: 5839.29 seconds.
+Done reranking query 392. Elapsed time since start: 5850.17 seconds.
+Done reranking query 393. Elapsed time since start: 5862.42 seconds.
+Done reranking query 394. Elapsed time since start: 5888.76 seconds.
+Done reranking query 395. Elapsed time since start: 5896.49 seconds.
+Done reranking query 396. Elapsed time since start: 5934.54 seconds.
+Done reranking query 397. Elapsed time since start: 5957.47 seconds.
+Done reranking query 398. Elapsed time since start: 5968.80 seconds.
+Done reranking query 399. Elapsed time since start: 5982.57 seconds.
+Done reranking query 400. Elapsed time since start: 5998.78 seconds.
+Done reranking query 401. Elapsed time since start: 6010.79 seconds.
+Done reranking query 402. Elapsed time since start: 6037.66 seconds.
+Done reranking query 403. Elapsed time since start: 6047.49 seconds.
+Done reranking query 404. Elapsed time since start: 6063.31 seconds.
+Done reranking query 405. Elapsed time since start: 6070.38 seconds.
+Saved 405 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 405 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 406. Elapsed time since start: 6081.94 seconds.
+Done reranking query 407. Elapsed time since start: 6095.43 seconds.
+Done reranking query 408. Elapsed time since start: 6109.07 seconds.
+Done reranking query 409. Elapsed time since start: 6128.25 seconds.
+Done reranking query 410. Elapsed time since start: 6143.68 seconds.
+Done reranking query 411. Elapsed time since start: 6157.30 seconds.
+Done reranking query 412. Elapsed time since start: 6170.85 seconds.
+Done reranking query 413. Elapsed time since start: 6183.78 seconds.
+Done reranking query 414. Elapsed time since start: 6189.96 seconds.
+Done reranking query 415. Elapsed time since start: 6196.44 seconds.
+Done reranking query 416. Elapsed time since start: 6208.33 seconds.
+Done reranking query 417. Elapsed time since start: 6224.24 seconds.
+Done reranking query 418. Elapsed time since start: 6230.57 seconds.
+Done reranking query 419. Elapsed time since start: 6242.45 seconds.
+Done reranking query 420. Elapsed time since start: 6256.08 seconds.
+Saved 420 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 420 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 421. Elapsed time since start: 6271.18 seconds.
+Done reranking query 422. Elapsed time since start: 6288.80 seconds.
+Done reranking query 423. Elapsed time since start: 6301.87 seconds.
+Done reranking query 424. Elapsed time since start: 6323.68 seconds.
+Done reranking query 425. Elapsed time since start: 6337.00 seconds.
+Done reranking query 426. Elapsed time since start: 6348.91 seconds.
+Done reranking query 427. Elapsed time since start: 6362.67 seconds.
+Done reranking query 428. Elapsed time since start: 6378.10 seconds.
+Done reranking query 429. Elapsed time since start: 6391.35 seconds.
+Done reranking query 430. Elapsed time since start: 6406.59 seconds.
+Done reranking query 431. Elapsed time since start: 6417.98 seconds.
+Done reranking query 432. Elapsed time since start: 6433.88 seconds.
+Done reranking query 433. Elapsed time since start: 6448.25 seconds.
+Done reranking query 434. Elapsed time since start: 6455.66 seconds.
+Done reranking query 435. Elapsed time since start: 6464.14 seconds.
+Saved 435 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 435 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 436. Elapsed time since start: 6479.85 seconds.
+Done reranking query 437. Elapsed time since start: 6492.34 seconds.
+Done reranking query 438. Elapsed time since start: 6506.53 seconds.
+Done reranking query 439. Elapsed time since start: 6514.07 seconds.
+Done reranking query 440. Elapsed time since start: 6525.65 seconds.
+Done reranking query 441. Elapsed time since start: 6539.12 seconds.
+Done reranking query 442. Elapsed time since start: 6548.65 seconds.
+Done reranking query 443. Elapsed time since start: 6561.10 seconds.
+Done reranking query 444. Elapsed time since start: 6573.55 seconds.
+Done reranking query 445. Elapsed time since start: 6586.55 seconds.
+Done reranking query 446. Elapsed time since start: 6615.04 seconds.
+Done reranking query 447. Elapsed time since start: 6631.17 seconds.
+Done reranking query 448. Elapsed time since start: 6644.49 seconds.
+Done reranking query 449. Elapsed time since start: 6658.82 seconds.
+Done reranking query 450. Elapsed time since start: 6671.85 seconds.
+Saved 450 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 450 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 451. Elapsed time since start: 6725.05 seconds.
+Done reranking query 452. Elapsed time since start: 6749.90 seconds.
+Done reranking query 453. Elapsed time since start: 6762.24 seconds.
+Done reranking query 454. Elapsed time since start: 6775.50 seconds.
+Done reranking query 455. Elapsed time since start: 6790.57 seconds.
+Done reranking query 456. Elapsed time since start: 6814.43 seconds.
+Done reranking query 457. Elapsed time since start: 6826.00 seconds.
+Done reranking query 458. Elapsed time since start: 6838.66 seconds.
+Done reranking query 459. Elapsed time since start: 6847.70 seconds.
+Done reranking query 460. Elapsed time since start: 6857.18 seconds.
+Done reranking query 461. Elapsed time since start: 6869.49 seconds.
+Done reranking query 462. Elapsed time since start: 6880.18 seconds.
+Done reranking query 463. Elapsed time since start: 6899.33 seconds.
+Done reranking query 464. Elapsed time since start: 6909.82 seconds.
+Done reranking query 465. Elapsed time since start: 6924.72 seconds.
+Saved 465 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 465 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 466. Elapsed time since start: 6941.08 seconds.
+Done reranking query 467. Elapsed time since start: 6951.84 seconds.
+Done reranking query 468. Elapsed time since start: 6994.19 seconds.
+Done reranking query 469. Elapsed time since start: 7011.22 seconds.
+Done reranking query 470. Elapsed time since start: 7023.65 seconds.
+Done reranking query 471. Elapsed time since start: 7034.99 seconds.
+Done reranking query 472. Elapsed time since start: 7047.45 seconds.
+Done reranking query 473. Elapsed time since start: 7054.46 seconds.
+Done reranking query 474. Elapsed time since start: 7065.83 seconds.
+Done reranking query 475. Elapsed time since start: 7081.33 seconds.
+Done reranking query 476. Elapsed time since start: 7095.50 seconds.
+Done reranking query 477. Elapsed time since start: 7105.51 seconds.
+Done reranking query 478. Elapsed time since start: 7116.43 seconds.
+Done reranking query 479. Elapsed time since start: 7136.25 seconds.
+Done reranking query 480. Elapsed time since start: 7150.16 seconds.
+Saved 480 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 480 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 481. Elapsed time since start: 7160.67 seconds.
+Done reranking query 482. Elapsed time since start: 7170.60 seconds.
+Done reranking query 483. Elapsed time since start: 7207.18 seconds.
+Done reranking query 484. Elapsed time since start: 7229.98 seconds.
+Done reranking query 485. Elapsed time since start: 7236.57 seconds.
+Done reranking query 486. Elapsed time since start: 7248.21 seconds.
+Done reranking query 487. Elapsed time since start: 7262.47 seconds.
+Done reranking query 488. Elapsed time since start: 7277.16 seconds.
+Done reranking query 489. Elapsed time since start: 7292.27 seconds.
+Done reranking query 490. Elapsed time since start: 7314.63 seconds.
+Done reranking query 491. Elapsed time since start: 7324.72 seconds.
+Done reranking query 492. Elapsed time since start: 7339.69 seconds.
+Done reranking query 493. Elapsed time since start: 7346.53 seconds.
+Done reranking query 494. Elapsed time since start: 7359.15 seconds.
+Done reranking query 495. Elapsed time since start: 7380.20 seconds.
+Saved 495 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 495 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 496. Elapsed time since start: 7390.70 seconds.
+Done reranking query 497. Elapsed time since start: 7407.13 seconds.
+Done reranking query 498. Elapsed time since start: 7419.10 seconds.
+Done reranking query 499. Elapsed time since start: 7430.43 seconds.
+Done reranking query 500. Elapsed time since start: 7446.08 seconds.
+Done reranking query 501. Elapsed time since start: 7466.34 seconds.
+Done reranking query 502. Elapsed time since start: 7482.27 seconds.
+Done reranking query 503. Elapsed time since start: 7491.09 seconds.
+Done reranking query 504. Elapsed time since start: 7507.90 seconds.
+Done reranking query 505. Elapsed time since start: 7517.47 seconds.
+Done reranking query 506. Elapsed time since start: 7526.82 seconds.
+Done reranking query 507. Elapsed time since start: 7539.37 seconds.
+Done reranking query 508. Elapsed time since start: 7546.55 seconds.
+Done reranking query 509. Elapsed time since start: 7567.66 seconds.
+Done reranking query 510. Elapsed time since start: 7576.84 seconds.
+Saved 510 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 510 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 511. Elapsed time since start: 7584.10 seconds.
+Done reranking query 512. Elapsed time since start: 7592.39 seconds.
+Done reranking query 513. Elapsed time since start: 7609.21 seconds.
+Done reranking query 514. Elapsed time since start: 7618.21 seconds.
+Done reranking query 515. Elapsed time since start: 7630.74 seconds.
+Done reranking query 516. Elapsed time since start: 7643.00 seconds.
+Done reranking query 517. Elapsed time since start: 7652.03 seconds.
+Done reranking query 518. Elapsed time since start: 7666.69 seconds.
+Done reranking query 519. Elapsed time since start: 7678.98 seconds.
+Done reranking query 520. Elapsed time since start: 7691.88 seconds.
+Done reranking query 521. Elapsed time since start: 7703.24 seconds.
+Done reranking query 522. Elapsed time since start: 7736.21 seconds.
+Done reranking query 523. Elapsed time since start: 7748.00 seconds.
+Done reranking query 524. Elapsed time since start: 7770.88 seconds.
+Done reranking query 525. Elapsed time since start: 7789.49 seconds.
+Saved 525 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 525 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 526. Elapsed time since start: 7804.00 seconds.
+Done reranking query 527. Elapsed time since start: 7815.75 seconds.
+Done reranking query 528. Elapsed time since start: 7832.21 seconds.
+Done reranking query 529. Elapsed time since start: 7846.84 seconds.
+Done reranking query 530. Elapsed time since start: 7857.85 seconds.
+Done reranking query 531. Elapsed time since start: 7872.93 seconds.
+Done reranking query 532. Elapsed time since start: 7882.96 seconds.
+Done reranking query 533. Elapsed time since start: 7894.71 seconds.
+Done reranking query 534. Elapsed time since start: 7907.07 seconds.
+Done reranking query 535. Elapsed time since start: 7920.52 seconds.
+Done reranking query 536. Elapsed time since start: 7932.82 seconds.
+Done reranking query 537. Elapsed time since start: 7941.45 seconds.
+Done reranking query 538. Elapsed time since start: 7952.88 seconds.
+Done reranking query 539. Elapsed time since start: 7966.02 seconds.
+Done reranking query 540. Elapsed time since start: 7979.11 seconds.
+Saved 540 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 540 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 541. Elapsed time since start: 7990.06 seconds.
+Done reranking query 542. Elapsed time since start: 8011.34 seconds.
+Done reranking query 543. Elapsed time since start: 8022.81 seconds.
+Done reranking query 544. Elapsed time since start: 8029.27 seconds.
+Done reranking query 545. Elapsed time since start: 8036.34 seconds.
+Done reranking query 546. Elapsed time since start: 8047.44 seconds.
+Error parsing or validating JSON: Expecting value: line 1 column 1 (char 0)
+Failed to parse JSON. Raw response: '<output>[0, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+'
+Done reranking query 547. Elapsed time since start: 8055.75 seconds.
+Done reranking query 548. Elapsed time since start: 8066.37 seconds.
+Done reranking query 549. Elapsed time since start: 8078.29 seconds.
+Done reranking query 550. Elapsed time since start: 8088.81 seconds.
+Done reranking query 551. Elapsed time since start: 8102.30 seconds.
+Done reranking query 552. Elapsed time since start: 8116.13 seconds.
+Done reranking query 553. Elapsed time since start: 8123.60 seconds.
+Done reranking query 554. Elapsed time since start: 8137.08 seconds.
+Done reranking query 555. Elapsed time since start: 8146.28 seconds.
+Saved 555 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 555 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 556. Elapsed time since start: 8158.92 seconds.
+Done reranking query 557. Elapsed time since start: 8173.48 seconds.
+Done reranking query 558. Elapsed time since start: 8187.34 seconds.
+Done reranking query 559. Elapsed time since start: 8198.25 seconds.
+Done reranking query 560. Elapsed time since start: 8209.11 seconds.
+Done reranking query 561. Elapsed time since start: 8219.15 seconds.
+Done reranking query 562. Elapsed time since start: 8229.52 seconds.
+Done reranking query 563. Elapsed time since start: 8239.46 seconds.
+Done reranking query 564. Elapsed time since start: 8258.30 seconds.
+Done reranking query 565. Elapsed time since start: 8269.91 seconds.
+Done reranking query 566. Elapsed time since start: 8277.04 seconds.
+Done reranking query 567. Elapsed time since start: 8290.35 seconds.
+Done reranking query 568. Elapsed time since start: 8304.36 seconds.
+Done reranking query 569. Elapsed time since start: 8311.56 seconds.
+Done reranking query 570. Elapsed time since start: 8322.34 seconds.
+Saved 570 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 570 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 571. Elapsed time since start: 8338.26 seconds.
+Done reranking query 572. Elapsed time since start: 8351.64 seconds.
+Done reranking query 573. Elapsed time since start: 8374.08 seconds.
+Done reranking query 574. Elapsed time since start: 8385.87 seconds.
+Done reranking query 575. Elapsed time since start: 8396.27 seconds.
+Done reranking query 576. Elapsed time since start: 8408.48 seconds.
+Done reranking query 577. Elapsed time since start: 8419.60 seconds.
+Done reranking query 578. Elapsed time since start: 8458.53 seconds.
+Done reranking query 579. Elapsed time since start: 8471.57 seconds.
+Done reranking query 580. Elapsed time since start: 8485.08 seconds.
+Done reranking query 581. Elapsed time since start: 8499.55 seconds.
+Done reranking query 582. Elapsed time since start: 8508.69 seconds.
+Done reranking query 583. Elapsed time since start: 8518.05 seconds.
+Done reranking query 584. Elapsed time since start: 8530.17 seconds.
+Done reranking query 585. Elapsed time since start: 8545.64 seconds.
+Saved 585 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 585 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 586. Elapsed time since start: 8557.22 seconds.
+Done reranking query 587. Elapsed time since start: 8573.44 seconds.
+Done reranking query 588. Elapsed time since start: 8590.61 seconds.
+Done reranking query 589. Elapsed time since start: 8599.04 seconds.
+Done reranking query 590. Elapsed time since start: 8612.80 seconds.
+Done reranking query 591. Elapsed time since start: 8623.52 seconds.
+Done reranking query 592. Elapsed time since start: 8638.05 seconds.
+Done reranking query 593. Elapsed time since start: 8648.39 seconds.
+Done reranking query 594. Elapsed time since start: 8669.80 seconds.
+Done reranking query 595. Elapsed time since start: 8683.26 seconds.
+Done reranking query 596. Elapsed time since start: 8691.02 seconds.
+Done reranking query 597. Elapsed time since start: 8708.52 seconds.
+Done reranking query 598. Elapsed time since start: 8717.18 seconds.
+Done reranking query 599. Elapsed time since start: 8729.00 seconds.
+Done reranking query 600. Elapsed time since start: 8743.92 seconds.
+Saved 600 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 600 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 601. Elapsed time since start: 8754.77 seconds.
+Done reranking query 602. Elapsed time since start: 8766.39 seconds.
+Done reranking query 603. Elapsed time since start: 8777.50 seconds.
+Done reranking query 604. Elapsed time since start: 8791.22 seconds.
+Done reranking query 605. Elapsed time since start: 8808.05 seconds.
+Done reranking query 606. Elapsed time since start: 8818.40 seconds.
+Done reranking query 607. Elapsed time since start: 8838.09 seconds.
+Done reranking query 608. Elapsed time since start: 8858.37 seconds.
+Done reranking query 609. Elapsed time since start: 8875.48 seconds.
+Done reranking query 610. Elapsed time since start: 8882.28 seconds.
+Done reranking query 611. Elapsed time since start: 8901.35 seconds.
+Done reranking query 612. Elapsed time since start: 8911.87 seconds.
+Done reranking query 613. Elapsed time since start: 8922.99 seconds.
+Done reranking query 614. Elapsed time since start: 8935.35 seconds.
+Done reranking query 615. Elapsed time since start: 8950.82 seconds.
+Saved 615 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 615 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 616. Elapsed time since start: 8963.82 seconds.
+Done reranking query 617. Elapsed time since start: 8974.49 seconds.
+Done reranking query 618. Elapsed time since start: 8987.36 seconds.
+Done reranking query 619. Elapsed time since start: 9001.92 seconds.
+Done reranking query 620. Elapsed time since start: 9015.30 seconds.
+Done reranking query 621. Elapsed time since start: 9026.84 seconds.
+Done reranking query 622. Elapsed time since start: 9039.85 seconds.
+Done reranking query 623. Elapsed time since start: 9052.99 seconds.
+Done reranking query 624. Elapsed time since start: 9067.85 seconds.
+Done reranking query 625. Elapsed time since start: 9081.95 seconds.
+Done reranking query 626. Elapsed time since start: 9093.92 seconds.
+Done reranking query 627. Elapsed time since start: 9108.85 seconds.
+Done reranking query 628. Elapsed time since start: 9118.81 seconds.
+Done reranking query 629. Elapsed time since start: 9135.96 seconds.
+Done reranking query 630. Elapsed time since start: 9150.33 seconds.
+Saved 630 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 630 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 631. Elapsed time since start: 9164.75 seconds.
+Done reranking query 632. Elapsed time since start: 9180.70 seconds.
+Done reranking query 633. Elapsed time since start: 9192.93 seconds.
+Done reranking query 634. Elapsed time since start: 9205.73 seconds.
+Done reranking query 635. Elapsed time since start: 9212.71 seconds.
+Done reranking query 636. Elapsed time since start: 9229.62 seconds.
+Done reranking query 637. Elapsed time since start: 9236.72 seconds.
+Done reranking query 638. Elapsed time since start: 9243.50 seconds.
+Done reranking query 639. Elapsed time since start: 9255.76 seconds.
+Done reranking query 640. Elapsed time since start: 9261.72 seconds.
+Done reranking query 641. Elapsed time since start: 9270.12 seconds.
+Done reranking query 642. Elapsed time since start: 9282.21 seconds.
+Done reranking query 643. Elapsed time since start: 9294.71 seconds.
+Done reranking query 644. Elapsed time since start: 9310.59 seconds.
+Done reranking query 645. Elapsed time since start: 9321.83 seconds.
+Saved 645 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 645 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 646. Elapsed time since start: 9337.21 seconds.
+Done reranking query 647. Elapsed time since start: 9346.37 seconds.
+Done reranking query 648. Elapsed time since start: 9364.10 seconds.
+Done reranking query 649. Elapsed time since start: 9377.58 seconds.
+Done reranking query 650. Elapsed time since start: 9393.09 seconds.
+Done reranking query 651. Elapsed time since start: 9404.66 seconds.
+Done reranking query 652. Elapsed time since start: 9422.38 seconds.
+Done reranking query 653. Elapsed time since start: 9432.93 seconds.
+Done reranking query 654. Elapsed time since start: 9447.04 seconds.
+Done reranking query 655. Elapsed time since start: 9462.69 seconds.
+Done reranking query 656. Elapsed time since start: 9478.60 seconds.
+Done reranking query 657. Elapsed time since start: 9491.80 seconds.
+Done reranking query 658. Elapsed time since start: 9508.53 seconds.
+Done reranking query 659. Elapsed time since start: 9524.38 seconds.
+Done reranking query 660. Elapsed time since start: 9537.18 seconds.
+Saved 660 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 660 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 661. Elapsed time since start: 9571.40 seconds.
+Done reranking query 662. Elapsed time since start: 9610.43 seconds.
+Done reranking query 663. Elapsed time since start: 9617.07 seconds.
+Done reranking query 664. Elapsed time since start: 9628.51 seconds.
+Done reranking query 665. Elapsed time since start: 9648.86 seconds.
+Done reranking query 666. Elapsed time since start: 9666.84 seconds.
+Done reranking query 667. Elapsed time since start: 9676.64 seconds.
+Done reranking query 668. Elapsed time since start: 9687.72 seconds.
+Done reranking query 669. Elapsed time since start: 9698.74 seconds.
+Done reranking query 670. Elapsed time since start: 9707.10 seconds.
+Done reranking query 671. Elapsed time since start: 9719.67 seconds.
+Done reranking query 672. Elapsed time since start: 9739.48 seconds.
+Done reranking query 673. Elapsed time since start: 9753.03 seconds.
+Done reranking query 674. Elapsed time since start: 9766.03 seconds.
+Done reranking query 675. Elapsed time since start: 9775.65 seconds.
+Saved 675 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 675 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 676. Elapsed time since start: 9790.20 seconds.
+Done reranking query 677. Elapsed time since start: 9797.70 seconds.
+Done reranking query 678. Elapsed time since start: 9807.60 seconds.
+Done reranking query 679. Elapsed time since start: 9818.29 seconds.
+Done reranking query 680. Elapsed time since start: 9831.50 seconds.
+Done reranking query 681. Elapsed time since start: 9842.71 seconds.
+Done reranking query 682. Elapsed time since start: 9850.80 seconds.
+Done reranking query 683. Elapsed time since start: 9863.52 seconds.
+Done reranking query 684. Elapsed time since start: 9877.63 seconds.
+Done reranking query 685. Elapsed time since start: 9888.00 seconds.
+Done reranking query 686. Elapsed time since start: 9902.94 seconds.
+Done reranking query 687. Elapsed time since start: 9911.83 seconds.
+Done reranking query 688. Elapsed time since start: 9929.14 seconds.
+Done reranking query 689. Elapsed time since start: 9940.51 seconds.
+Done reranking query 690. Elapsed time since start: 9948.67 seconds.
+Saved 690 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 690 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 691. Elapsed time since start: 9964.39 seconds.
+Done reranking query 692. Elapsed time since start: 9978.31 seconds.
+Done reranking query 693. Elapsed time since start: 9997.14 seconds.
+Done reranking query 694. Elapsed time since start: 10041.67 seconds.
+Done reranking query 695. Elapsed time since start: 10048.52 seconds.
+Done reranking query 696. Elapsed time since start: 10080.72 seconds.
+Done reranking query 697. Elapsed time since start: 10087.12 seconds.
+Done reranking query 698. Elapsed time since start: 10093.78 seconds.
+Done reranking query 699. Elapsed time since start: 10106.10 seconds.
+Done reranking query 700. Elapsed time since start: 10116.35 seconds.
+Done reranking query 701. Elapsed time since start: 10125.39 seconds.
+Done reranking query 702. Elapsed time since start: 10138.89 seconds.
+Done reranking query 703. Elapsed time since start: 10151.02 seconds.
+Done reranking query 704. Elapsed time since start: 10166.96 seconds.
+Done reranking query 705. Elapsed time since start: 10174.99 seconds.
+Saved 705 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 705 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 706. Elapsed time since start: 10190.58 seconds.
+Done reranking query 707. Elapsed time since start: 10202.57 seconds.
+Done reranking query 708. Elapsed time since start: 10210.01 seconds.
+Done reranking query 709. Elapsed time since start: 10221.48 seconds.
+Done reranking query 710. Elapsed time since start: 10239.49 seconds.
+Done reranking query 711. Elapsed time since start: 10251.59 seconds.
+Done reranking query 712. Elapsed time since start: 10266.08 seconds.
+Done reranking query 713. Elapsed time since start: 10281.01 seconds.
+Done reranking query 714. Elapsed time since start: 10294.50 seconds.
+Done reranking query 715. Elapsed time since start: 10303.87 seconds.
+Done reranking query 716. Elapsed time since start: 10313.90 seconds.
+Done reranking query 717. Elapsed time since start: 10328.95 seconds.
+Done reranking query 718. Elapsed time since start: 10338.66 seconds.
+Done reranking query 719. Elapsed time since start: 10348.84 seconds.
+Done reranking query 720. Elapsed time since start: 10357.57 seconds.
+Saved 720 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 720 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 721. Elapsed time since start: 10384.89 seconds.
+Done reranking query 722. Elapsed time since start: 10397.83 seconds.
+Done reranking query 723. Elapsed time since start: 10409.29 seconds.
+Done reranking query 724. Elapsed time since start: 10419.49 seconds.
+Done reranking query 725. Elapsed time since start: 10431.80 seconds.
+Done reranking query 726. Elapsed time since start: 10447.78 seconds.
+Done reranking query 727. Elapsed time since start: 10463.88 seconds.
+Done reranking query 728. Elapsed time since start: 10478.12 seconds.
+Done reranking query 729. Elapsed time since start: 10491.22 seconds.
+Done reranking query 730. Elapsed time since start: 10506.95 seconds.
+Done reranking query 731. Elapsed time since start: 10519.85 seconds.
+Done reranking query 732. Elapsed time since start: 10526.80 seconds.
+Done reranking query 733. Elapsed time since start: 10542.83 seconds.
+Done reranking query 734. Elapsed time since start: 10580.41 seconds.
+Done reranking query 735. Elapsed time since start: 10588.80 seconds.
+Saved 735 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 735 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 736. Elapsed time since start: 10603.88 seconds.
+Done reranking query 737. Elapsed time since start: 10614.59 seconds.
+Done reranking query 738. Elapsed time since start: 10625.48 seconds.
+Done reranking query 739. Elapsed time since start: 10632.63 seconds.
+Done reranking query 740. Elapsed time since start: 10670.81 seconds.
+Done reranking query 741. Elapsed time since start: 10682.41 seconds.
+Done reranking query 742. Elapsed time since start: 10688.77 seconds.
+Done reranking query 743. Elapsed time since start: 10702.50 seconds.
+Done reranking query 744. Elapsed time since start: 10709.26 seconds.
+Done reranking query 745. Elapsed time since start: 10721.84 seconds.
+Done reranking query 746. Elapsed time since start: 10730.12 seconds.
+Done reranking query 747. Elapsed time since start: 10749.61 seconds.
+Done reranking query 748. Elapsed time since start: 10760.73 seconds.
+Done reranking query 749. Elapsed time since start: 10777.10 seconds.
+Done reranking query 750. Elapsed time since start: 10791.96 seconds.
+Saved 750 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 750 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 751. Elapsed time since start: 10807.60 seconds.
+Done reranking query 752. Elapsed time since start: 10820.60 seconds.
+Done reranking query 753. Elapsed time since start: 10831.54 seconds.
+Done reranking query 754. Elapsed time since start: 10842.99 seconds.
+Done reranking query 755. Elapsed time since start: 10855.37 seconds.
+Done reranking query 756. Elapsed time since start: 10879.89 seconds.
+Done reranking query 757. Elapsed time since start: 10889.74 seconds.
+Done reranking query 758. Elapsed time since start: 10895.81 seconds.
+Done reranking query 759. Elapsed time since start: 10939.74 seconds.
+Done reranking query 760. Elapsed time since start: 10949.99 seconds.
+Done reranking query 761. Elapsed time since start: 10957.35 seconds.
+Done reranking query 762. Elapsed time since start: 10972.13 seconds.
+Done reranking query 763. Elapsed time since start: 10993.15 seconds.
+Done reranking query 764. Elapsed time since start: 11040.76 seconds.
+Done reranking query 765. Elapsed time since start: 11055.01 seconds.
+Saved 765 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 765 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 766. Elapsed time since start: 11069.68 seconds.
+Done reranking query 767. Elapsed time since start: 11075.01 seconds.
+Done reranking query 768. Elapsed time since start: 11124.86 seconds.
+Done reranking query 769. Elapsed time since start: 11136.66 seconds.
+Done reranking query 770. Elapsed time since start: 11151.47 seconds.
+Done reranking query 771. Elapsed time since start: 11166.16 seconds.
+Done reranking query 772. Elapsed time since start: 11180.52 seconds.
+Done reranking query 773. Elapsed time since start: 11192.56 seconds.
+Done reranking query 774. Elapsed time since start: 11202.64 seconds.
+Done reranking query 775. Elapsed time since start: 11212.38 seconds.
+Done reranking query 776. Elapsed time since start: 11227.34 seconds.
+Done reranking query 777. Elapsed time since start: 11237.30 seconds.
+Done reranking query 778. Elapsed time since start: 11244.60 seconds.
+Done reranking query 779. Elapsed time since start: 11258.00 seconds.
+Done reranking query 780. Elapsed time since start: 11271.62 seconds.
+Saved 780 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 780 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 781. Elapsed time since start: 11283.52 seconds.
+Done reranking query 782. Elapsed time since start: 11290.68 seconds.
+Done reranking query 783. Elapsed time since start: 11300.14 seconds.
+Done reranking query 784. Elapsed time since start: 11314.30 seconds.
+Done reranking query 785. Elapsed time since start: 11330.75 seconds.
+Done reranking query 786. Elapsed time since start: 11345.74 seconds.
+Done reranking query 787. Elapsed time since start: 11353.45 seconds.
+Done reranking query 788. Elapsed time since start: 11370.46 seconds.
+Done reranking query 789. Elapsed time since start: 11379.38 seconds.
+Done reranking query 790. Elapsed time since start: 11387.79 seconds.
+Done reranking query 791. Elapsed time since start: 11395.71 seconds.
+Done reranking query 792. Elapsed time since start: 11406.42 seconds.
+Done reranking query 793. Elapsed time since start: 11417.82 seconds.
+Done reranking query 794. Elapsed time since start: 11428.00 seconds.
+Done reranking query 795. Elapsed time since start: 11437.66 seconds.
+Saved 795 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 795 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 796. Elapsed time since start: 11448.12 seconds.
+Done reranking query 797. Elapsed time since start: 11458.83 seconds.
+Done reranking query 798. Elapsed time since start: 11470.09 seconds.
+Done reranking query 799. Elapsed time since start: 11476.71 seconds.
+Done reranking query 800. Elapsed time since start: 11491.74 seconds.
+Done reranking query 801. Elapsed time since start: 11500.56 seconds.
+Done reranking query 802. Elapsed time since start: 11509.20 seconds.
+Done reranking query 803. Elapsed time since start: 11523.47 seconds.
+Done reranking query 804. Elapsed time since start: 11535.34 seconds.
+Done reranking query 805. Elapsed time since start: 11545.56 seconds.
+Done reranking query 806. Elapsed time since start: 11554.60 seconds.
+Done reranking query 807. Elapsed time since start: 11562.37 seconds.
+Done reranking query 808. Elapsed time since start: 11575.77 seconds.
+Done reranking query 809. Elapsed time since start: 11586.01 seconds.
+Done reranking query 810. Elapsed time since start: 11605.32 seconds.
+Saved 810 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 810 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 811. Elapsed time since start: 11616.30 seconds.
+Done reranking query 812. Elapsed time since start: 11635.59 seconds.
+Done reranking query 813. Elapsed time since start: 11643.85 seconds.
+Done reranking query 814. Elapsed time since start: 11661.10 seconds.
+Done reranking query 815. Elapsed time since start: 11669.72 seconds.
+Done reranking query 816. Elapsed time since start: 11676.46 seconds.
+Done reranking query 817. Elapsed time since start: 11685.64 seconds.
+Done reranking query 818. Elapsed time since start: 11692.49 seconds.
+Done reranking query 819. Elapsed time since start: 11707.10 seconds.
+Done reranking query 820. Elapsed time since start: 11722.89 seconds.
+Done reranking query 821. Elapsed time since start: 11732.63 seconds.
+Done reranking query 822. Elapsed time since start: 11756.02 seconds.
+Done reranking query 823. Elapsed time since start: 11769.54 seconds.
+Done reranking query 824. Elapsed time since start: 11781.02 seconds.
+Done reranking query 825. Elapsed time since start: 11790.66 seconds.
+Saved 825 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 825 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 826. Elapsed time since start: 11809.73 seconds.
+Done reranking query 827. Elapsed time since start: 11816.47 seconds.
+Done reranking query 828. Elapsed time since start: 11829.60 seconds.
+Done reranking query 829. Elapsed time since start: 11836.89 seconds.
+Done reranking query 830. Elapsed time since start: 11848.15 seconds.
+Done reranking query 831. Elapsed time since start: 11866.66 seconds.
+Done reranking query 832. Elapsed time since start: 11908.56 seconds.
+Done reranking query 833. Elapsed time since start: 11924.46 seconds.
+Done reranking query 834. Elapsed time since start: 11931.99 seconds.
+Done reranking query 835. Elapsed time since start: 11953.45 seconds.
+Done reranking query 836. Elapsed time since start: 11979.83 seconds.
+Done reranking query 837. Elapsed time since start: 11985.31 seconds.
+Done reranking query 838. Elapsed time since start: 11992.16 seconds.
+Done reranking query 839. Elapsed time since start: 12007.82 seconds.
+Done reranking query 840. Elapsed time since start: 12020.64 seconds.
+Saved 840 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 840 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 841. Elapsed time since start: 12035.72 seconds.
+Done reranking query 842. Elapsed time since start: 12044.10 seconds.
+Done reranking query 843. Elapsed time since start: 12054.39 seconds.
+Done reranking query 844. Elapsed time since start: 12064.21 seconds.
+Done reranking query 845. Elapsed time since start: 12074.25 seconds.
+Done reranking query 846. Elapsed time since start: 12103.70 seconds.
+Done reranking query 847. Elapsed time since start: 12117.71 seconds.
+Done reranking query 848. Elapsed time since start: 12129.13 seconds.
+Done reranking query 849. Elapsed time since start: 12135.97 seconds.
+Done reranking query 850. Elapsed time since start: 12148.69 seconds.
+Done reranking query 851. Elapsed time since start: 12173.09 seconds.
+Done reranking query 852. Elapsed time since start: 12189.14 seconds.
+Done reranking query 853. Elapsed time since start: 12204.41 seconds.
+Done reranking query 854. Elapsed time since start: 12215.84 seconds.
+Done reranking query 855. Elapsed time since start: 12229.66 seconds.
+Saved 855 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 855 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 856. Elapsed time since start: 12243.01 seconds.
+Done reranking query 857. Elapsed time since start: 12253.92 seconds.
+Done reranking query 858. Elapsed time since start: 12260.78 seconds.
+Done reranking query 859. Elapsed time since start: 12271.73 seconds.
+Done reranking query 860. Elapsed time since start: 12295.70 seconds.
+Done reranking query 861. Elapsed time since start: 12309.16 seconds.
+Done reranking query 862. Elapsed time since start: 12323.82 seconds.
+Done reranking query 863. Elapsed time since start: 12338.46 seconds.
+Done reranking query 864. Elapsed time since start: 12352.56 seconds.
+Done reranking query 865. Elapsed time since start: 12375.41 seconds.
+Done reranking query 866. Elapsed time since start: 12388.34 seconds.
+Done reranking query 867. Elapsed time since start: 12401.36 seconds.
+Done reranking query 868. Elapsed time since start: 12412.70 seconds.
+Done reranking query 869. Elapsed time since start: 12432.49 seconds.
+Done reranking query 870. Elapsed time since start: 12443.92 seconds.
+Saved 870 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 870 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 871. Elapsed time since start: 12463.32 seconds.
+Done reranking query 872. Elapsed time since start: 12477.64 seconds.
+Done reranking query 873. Elapsed time since start: 12493.09 seconds.
+Done reranking query 874. Elapsed time since start: 12505.14 seconds.
+Done reranking query 875. Elapsed time since start: 12517.46 seconds.
+Done reranking query 876. Elapsed time since start: 12530.52 seconds.
+Done reranking query 877. Elapsed time since start: 12543.81 seconds.
+Done reranking query 878. Elapsed time since start: 12554.74 seconds.
+Done reranking query 879. Elapsed time since start: 12568.64 seconds.
+Done reranking query 880. Elapsed time since start: 12581.05 seconds.
+Done reranking query 881. Elapsed time since start: 12587.86 seconds.
+Done reranking query 882. Elapsed time since start: 12599.98 seconds.
+Done reranking query 883. Elapsed time since start: 12620.43 seconds.
+Done reranking query 884. Elapsed time since start: 12634.50 seconds.
+Done reranking query 885. Elapsed time since start: 12648.34 seconds.
+Saved 885 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 885 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 886. Elapsed time since start: 12661.92 seconds.
+Done reranking query 887. Elapsed time since start: 12671.54 seconds.
+Done reranking query 888. Elapsed time since start: 12682.97 seconds.
+Done reranking query 889. Elapsed time since start: 12697.80 seconds.
+Done reranking query 890. Elapsed time since start: 12704.31 seconds.
+Done reranking query 891. Elapsed time since start: 12718.50 seconds.
+Done reranking query 892. Elapsed time since start: 12731.68 seconds.
+Done reranking query 893. Elapsed time since start: 12740.11 seconds.
+Done reranking query 894. Elapsed time since start: 12756.83 seconds.
+Done reranking query 895. Elapsed time since start: 12763.56 seconds.
+Done reranking query 896. Elapsed time since start: 12807.97 seconds.
+Done reranking query 897. Elapsed time since start: 12820.19 seconds.
+Done reranking query 898. Elapsed time since start: 12837.56 seconds.
+Done reranking query 899. Elapsed time since start: 12846.30 seconds.
+Done reranking query 900. Elapsed time since start: 12861.40 seconds.
+Saved 900 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 900 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 901. Elapsed time since start: 12873.46 seconds.
+Done reranking query 902. Elapsed time since start: 12886.18 seconds.
+Done reranking query 903. Elapsed time since start: 12896.54 seconds.
+Done reranking query 904. Elapsed time since start: 12909.61 seconds.
+Done reranking query 905. Elapsed time since start: 12923.45 seconds.
+Done reranking query 906. Elapsed time since start: 12934.03 seconds.
+Done reranking query 907. Elapsed time since start: 12948.87 seconds.
+Done reranking query 908. Elapsed time since start: 12960.19 seconds.
+Done reranking query 909. Elapsed time since start: 12969.39 seconds.
+Done reranking query 910. Elapsed time since start: 12979.14 seconds.
+Done reranking query 911. Elapsed time since start: 12991.48 seconds.
+Done reranking query 912. Elapsed time since start: 13005.86 seconds.
+Done reranking query 913. Elapsed time since start: 13021.84 seconds.
+Done reranking query 914. Elapsed time since start: 13036.30 seconds.
+Done reranking query 915. Elapsed time since start: 13050.16 seconds.
+Saved 915 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 915 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 916. Elapsed time since start: 13065.52 seconds.
+Done reranking query 917. Elapsed time since start: 13078.60 seconds.
+Done reranking query 918. Elapsed time since start: 13089.05 seconds.
+Done reranking query 919. Elapsed time since start: 13105.61 seconds.
+Done reranking query 920. Elapsed time since start: 13117.35 seconds.
+Done reranking query 921. Elapsed time since start: 13128.07 seconds.
+Done reranking query 922. Elapsed time since start: 13135.63 seconds.
+Done reranking query 923. Elapsed time since start: 13152.69 seconds.
+Done reranking query 924. Elapsed time since start: 13165.89 seconds.
+Done reranking query 925. Elapsed time since start: 13178.11 seconds.
+Done reranking query 926. Elapsed time since start: 13185.76 seconds.
+Done reranking query 927. Elapsed time since start: 13191.90 seconds.
+Done reranking query 928. Elapsed time since start: 13210.06 seconds.
+Done reranking query 929. Elapsed time since start: 13224.66 seconds.
+Done reranking query 930. Elapsed time since start: 13238.04 seconds.
+Saved 930 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 930 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 931. Elapsed time since start: 13248.03 seconds.
+Done reranking query 932. Elapsed time since start: 13258.77 seconds.
+Done reranking query 933. Elapsed time since start: 13270.24 seconds.
+Done reranking query 934. Elapsed time since start: 13285.52 seconds.
+Done reranking query 935. Elapsed time since start: 13300.37 seconds.
+Done reranking query 936. Elapsed time since start: 13316.99 seconds.
+Done reranking query 937. Elapsed time since start: 13336.27 seconds.
+Done reranking query 938. Elapsed time since start: 13351.38 seconds.
+Done reranking query 939. Elapsed time since start: 13363.68 seconds.
+Done reranking query 940. Elapsed time since start: 13371.42 seconds.
+Done reranking query 941. Elapsed time since start: 13385.06 seconds.
+Done reranking query 942. Elapsed time since start: 13396.45 seconds.
+Done reranking query 943. Elapsed time since start: 13408.34 seconds.
+Done reranking query 944. Elapsed time since start: 13418.86 seconds.
+Done reranking query 945. Elapsed time since start: 13431.59 seconds.
+Saved 945 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 945 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 946. Elapsed time since start: 13439.44 seconds.
+Done reranking query 947. Elapsed time since start: 13456.69 seconds.
+Done reranking query 948. Elapsed time since start: 13462.97 seconds.
+Done reranking query 949. Elapsed time since start: 13492.55 seconds.
+Done reranking query 950. Elapsed time since start: 13503.05 seconds.
+Done reranking query 951. Elapsed time since start: 13515.89 seconds.
+Done reranking query 952. Elapsed time since start: 13532.45 seconds.
+Done reranking query 953. Elapsed time since start: 13547.98 seconds.
+Done reranking query 954. Elapsed time since start: 13555.59 seconds.
+Done reranking query 955. Elapsed time since start: 13569.76 seconds.
+Done reranking query 956. Elapsed time since start: 13579.00 seconds.
+Done reranking query 957. Elapsed time since start: 13591.03 seconds.
+Done reranking query 958. Elapsed time since start: 13604.63 seconds.
+Done reranking query 959. Elapsed time since start: 13631.19 seconds.
+Done reranking query 960. Elapsed time since start: 13646.24 seconds.
+Saved 960 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 960 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 961. Elapsed time since start: 13660.63 seconds.
+Done reranking query 962. Elapsed time since start: 13676.98 seconds.
+Done reranking query 963. Elapsed time since start: 13689.32 seconds.
+Done reranking query 964. Elapsed time since start: 13696.14 seconds.
+Done reranking query 965. Elapsed time since start: 13728.30 seconds.
+Done reranking query 966. Elapsed time since start: 13740.62 seconds.
+Done reranking query 967. Elapsed time since start: 13750.81 seconds.
+Done reranking query 968. Elapsed time since start: 13773.18 seconds.
+Done reranking query 969. Elapsed time since start: 13783.88 seconds.
+Done reranking query 970. Elapsed time since start: 13796.14 seconds.
+Done reranking query 971. Elapsed time since start: 13805.85 seconds.
+Done reranking query 972. Elapsed time since start: 13817.55 seconds.
+Done reranking query 973. Elapsed time since start: 13828.48 seconds.
+Done reranking query 974. Elapsed time since start: 13841.22 seconds.
+Done reranking query 975. Elapsed time since start: 13853.48 seconds.
+Saved 975 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 975 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 976. Elapsed time since start: 13866.55 seconds.
+Done reranking query 977. Elapsed time since start: 13881.33 seconds.
+Done reranking query 978. Elapsed time since start: 13891.86 seconds.
+Done reranking query 979. Elapsed time since start: 13905.73 seconds.
+Done reranking query 980. Elapsed time since start: 13929.94 seconds.
+Done reranking query 981. Elapsed time since start: 13947.53 seconds.
+Done reranking query 982. Elapsed time since start: 13964.67 seconds.
+Done reranking query 983. Elapsed time since start: 13981.79 seconds.
+Done reranking query 984. Elapsed time since start: 13995.89 seconds.
+Done reranking query 985. Elapsed time since start: 14006.86 seconds.
+Done reranking query 986. Elapsed time since start: 14027.75 seconds.
+Done reranking query 987. Elapsed time since start: 14075.50 seconds.
+Done reranking query 988. Elapsed time since start: 14089.15 seconds.
+Done reranking query 989. Elapsed time since start: 14098.90 seconds.
+Done reranking query 990. Elapsed time since start: 14109.15 seconds.
+Saved 990 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 990 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 991. Elapsed time since start: 14118.99 seconds.
+Done reranking query 992. Elapsed time since start: 14148.58 seconds.
+Done reranking query 993. Elapsed time since start: 14163.57 seconds.
+Done reranking query 994. Elapsed time since start: 14178.12 seconds.
+Done reranking query 995. Elapsed time since start: 14189.38 seconds.
+Done reranking query 996. Elapsed time since start: 14200.96 seconds.
+Done reranking query 997. Elapsed time since start: 14214.61 seconds.
+Done reranking query 998. Elapsed time since start: 14226.78 seconds.
+Done reranking query 999. Elapsed time since start: 14248.13 seconds.
+Done reranking query 1000. Elapsed time since start: 14260.50 seconds.
+Done reranking query 1001. Elapsed time since start: 14271.32 seconds.
+Done reranking query 1002. Elapsed time since start: 14288.62 seconds.
+Done reranking query 1003. Elapsed time since start: 14298.96 seconds.
+Done reranking query 1004. Elapsed time since start: 14311.42 seconds.
+Done reranking query 1005. Elapsed time since start: 14318.89 seconds.
+Saved 1005 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1005 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1006. Elapsed time since start: 14342.92 seconds.
+Done reranking query 1007. Elapsed time since start: 14361.25 seconds.
+Done reranking query 1008. Elapsed time since start: 14372.39 seconds.
+Done reranking query 1009. Elapsed time since start: 14391.95 seconds.
+Done reranking query 1010. Elapsed time since start: 14402.34 seconds.
+Done reranking query 1011. Elapsed time since start: 14420.27 seconds.
+Done reranking query 1012. Elapsed time since start: 14433.28 seconds.
+Done reranking query 1013. Elapsed time since start: 14442.07 seconds.
+Done reranking query 1014. Elapsed time since start: 14456.42 seconds.
+Done reranking query 1015. Elapsed time since start: 14469.84 seconds.
+Done reranking query 1016. Elapsed time since start: 14496.77 seconds.
+Done reranking query 1017. Elapsed time since start: 14508.92 seconds.
+Done reranking query 1018. Elapsed time since start: 14516.09 seconds.
+Done reranking query 1019. Elapsed time since start: 14525.29 seconds.
+Done reranking query 1020. Elapsed time since start: 14536.75 seconds.
+Saved 1020 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1020 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1021. Elapsed time since start: 14555.60 seconds.
+Done reranking query 1022. Elapsed time since start: 14568.84 seconds.
+Done reranking query 1023. Elapsed time since start: 14585.12 seconds.
+Done reranking query 1024. Elapsed time since start: 14599.72 seconds.
+Done reranking query 1025. Elapsed time since start: 14618.47 seconds.
+Done reranking query 1026. Elapsed time since start: 14632.90 seconds.
+Done reranking query 1027. Elapsed time since start: 14652.03 seconds.
+Done reranking query 1028. Elapsed time since start: 14665.61 seconds.
+Done reranking query 1029. Elapsed time since start: 14674.47 seconds.
+Done reranking query 1030. Elapsed time since start: 14691.90 seconds.
+Done reranking query 1031. Elapsed time since start: 14709.07 seconds.
+Done reranking query 1032. Elapsed time since start: 14726.76 seconds.
+Done reranking query 1033. Elapsed time since start: 14743.07 seconds.
+Done reranking query 1034. Elapsed time since start: 14760.86 seconds.
+Done reranking query 1035. Elapsed time since start: 14769.17 seconds.
+Saved 1035 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1035 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1036. Elapsed time since start: 14785.49 seconds.
+Done reranking query 1037. Elapsed time since start: 14795.01 seconds.
+Done reranking query 1038. Elapsed time since start: 14809.52 seconds.
+Done reranking query 1039. Elapsed time since start: 14822.07 seconds.
+Done reranking query 1040. Elapsed time since start: 14832.55 seconds.
+Done reranking query 1041. Elapsed time since start: 14843.24 seconds.
+Done reranking query 1042. Elapsed time since start: 14858.00 seconds.
+Done reranking query 1043. Elapsed time since start: 14865.94 seconds.
+Done reranking query 1044. Elapsed time since start: 14885.80 seconds.
+Done reranking query 1045. Elapsed time since start: 14896.92 seconds.
+Done reranking query 1046. Elapsed time since start: 14909.18 seconds.
+Done reranking query 1047. Elapsed time since start: 14916.50 seconds.
+Done reranking query 1048. Elapsed time since start: 14927.64 seconds.
+Done reranking query 1049. Elapsed time since start: 14936.20 seconds.
+Done reranking query 1050. Elapsed time since start: 14966.17 seconds.
+Saved 1050 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1050 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1051. Elapsed time since start: 14979.48 seconds.
+Done reranking query 1052. Elapsed time since start: 14990.24 seconds.
+Done reranking query 1053. Elapsed time since start: 15001.32 seconds.
+Done reranking query 1054. Elapsed time since start: 15014.22 seconds.
+Done reranking query 1055. Elapsed time since start: 15023.65 seconds.
+Done reranking query 1056. Elapsed time since start: 15039.65 seconds.
+Done reranking query 1057. Elapsed time since start: 15067.74 seconds.
+Done reranking query 1058. Elapsed time since start: 15080.10 seconds.
+Done reranking query 1059. Elapsed time since start: 15089.71 seconds.
+Done reranking query 1060. Elapsed time since start: 15103.95 seconds.
+Done reranking query 1061. Elapsed time since start: 15110.42 seconds.
+Done reranking query 1062. Elapsed time since start: 15122.30 seconds.
+Done reranking query 1063. Elapsed time since start: 15136.65 seconds.
+Done reranking query 1064. Elapsed time since start: 15145.13 seconds.
+Done reranking query 1065. Elapsed time since start: 15157.67 seconds.
+Saved 1065 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1065 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1066. Elapsed time since start: 15171.08 seconds.
+Done reranking query 1067. Elapsed time since start: 15185.68 seconds.
+Done reranking query 1068. Elapsed time since start: 15198.31 seconds.
+Done reranking query 1069. Elapsed time since start: 15219.96 seconds.
+Done reranking query 1070. Elapsed time since start: 15231.06 seconds.
+Done reranking query 1071. Elapsed time since start: 15254.17 seconds.
+Done reranking query 1072. Elapsed time since start: 15266.52 seconds.
+Done reranking query 1073. Elapsed time since start: 15274.31 seconds.
+Done reranking query 1074. Elapsed time since start: 15288.44 seconds.
+Done reranking query 1075. Elapsed time since start: 15299.34 seconds.
+Done reranking query 1076. Elapsed time since start: 15309.95 seconds.
+Done reranking query 1077. Elapsed time since start: 15328.10 seconds.
+Done reranking query 1078. Elapsed time since start: 15345.97 seconds.
+Done reranking query 1079. Elapsed time since start: 15357.91 seconds.
+Done reranking query 1080. Elapsed time since start: 15371.00 seconds.
+Saved 1080 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1080 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1081. Elapsed time since start: 15401.91 seconds.
+Done reranking query 1082. Elapsed time since start: 15412.22 seconds.
+Done reranking query 1083. Elapsed time since start: 15422.55 seconds.
+Done reranking query 1084. Elapsed time since start: 15431.64 seconds.
+Done reranking query 1085. Elapsed time since start: 15439.81 seconds.
+Done reranking query 1086. Elapsed time since start: 15449.68 seconds.
+Done reranking query 1087. Elapsed time since start: 15463.33 seconds.
+Done reranking query 1088. Elapsed time since start: 15476.22 seconds.
+Done reranking query 1089. Elapsed time since start: 15490.25 seconds.
+Done reranking query 1090. Elapsed time since start: 15505.11 seconds.
+Done reranking query 1091. Elapsed time since start: 15517.39 seconds.
+Done reranking query 1092. Elapsed time since start: 15524.75 seconds.
+Done reranking query 1093. Elapsed time since start: 15544.25 seconds.
+Done reranking query 1094. Elapsed time since start: 15560.29 seconds.
+Done reranking query 1095. Elapsed time since start: 15573.32 seconds.
+Saved 1095 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1095 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1096. Elapsed time since start: 15585.20 seconds.
+Done reranking query 1097. Elapsed time since start: 15592.02 seconds.
+Done reranking query 1098. Elapsed time since start: 15604.95 seconds.
+Done reranking query 1099. Elapsed time since start: 15619.61 seconds.
+Done reranking query 1100. Elapsed time since start: 15632.06 seconds.
+Done reranking query 1101. Elapsed time since start: 15643.49 seconds.
+Done reranking query 1102. Elapsed time since start: 15656.91 seconds.
+Done reranking query 1103. Elapsed time since start: 15674.61 seconds.
+Done reranking query 1104. Elapsed time since start: 15681.52 seconds.
+Done reranking query 1105. Elapsed time since start: 15692.40 seconds.
+Done reranking query 1106. Elapsed time since start: 15741.90 seconds.
+Done reranking query 1107. Elapsed time since start: 15754.11 seconds.
+Done reranking query 1108. Elapsed time since start: 15762.17 seconds.
+Done reranking query 1109. Elapsed time since start: 15774.86 seconds.
+Done reranking query 1110. Elapsed time since start: 15794.61 seconds.
+Saved 1110 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1110 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1111. Elapsed time since start: 15808.33 seconds.
+Done reranking query 1112. Elapsed time since start: 15833.48 seconds.
+Done reranking query 1113. Elapsed time since start: 15841.33 seconds.
+Done reranking query 1114. Elapsed time since start: 15855.03 seconds.
+Done reranking query 1115. Elapsed time since start: 15868.32 seconds.
+Done reranking query 1116. Elapsed time since start: 15879.66 seconds.
+Done reranking query 1116. Elapsed time since start: 15879.66 seconds.
+Done reranking query 1117. Elapsed time since start: 15893.42 seconds.
+Done reranking query 1118. Elapsed time since start: 15907.18 seconds.
+Done reranking query 1119. Elapsed time since start: 15922.10 seconds.
+Done reranking query 1120. Elapsed time since start: 15937.65 seconds.
+Done reranking query 1121. Elapsed time since start: 15944.93 seconds.
+Done reranking query 1122. Elapsed time since start: 15963.83 seconds.
+Done reranking query 1123. Elapsed time since start: 15972.93 seconds.
+Done reranking query 1124. Elapsed time since start: 15989.79 seconds.
+Done reranking query 1125. Elapsed time since start: 16000.38 seconds.
+Saved 1125 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1125 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1126. Elapsed time since start: 16014.58 seconds.
+Done reranking query 1127. Elapsed time since start: 16026.56 seconds.
+Done reranking query 1128. Elapsed time since start: 16038.43 seconds.
+Done reranking query 1129. Elapsed time since start: 16048.52 seconds.
+Done reranking query 1130. Elapsed time since start: 16055.96 seconds.
+Done reranking query 1131. Elapsed time since start: 16066.33 seconds.
+Done reranking query 1132. Elapsed time since start: 16078.26 seconds.
+Done reranking query 1133. Elapsed time since start: 16100.84 seconds.
+Done reranking query 1134. Elapsed time since start: 16115.58 seconds.
+Done reranking query 1135. Elapsed time since start: 16153.05 seconds.
+Done reranking query 1136. Elapsed time since start: 16169.27 seconds.
+Done reranking query 1137. Elapsed time since start: 16176.25 seconds.
+Done reranking query 1138. Elapsed time since start: 16187.90 seconds.
+Done reranking query 1139. Elapsed time since start: 16198.18 seconds.
+Done reranking query 1140. Elapsed time since start: 16210.34 seconds.
+Saved 1140 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1140 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1141. Elapsed time since start: 16217.40 seconds.
+Done reranking query 1142. Elapsed time since start: 16227.47 seconds.
+Done reranking query 1143. Elapsed time since start: 16238.63 seconds.
+Done reranking query 1144. Elapsed time since start: 16252.30 seconds.
+Done reranking query 1145. Elapsed time since start: 16263.72 seconds.
+Done reranking query 1146. Elapsed time since start: 16276.41 seconds.
+Done reranking query 1147. Elapsed time since start: 16288.32 seconds.
+Done reranking query 1148. Elapsed time since start: 16299.18 seconds.
+Done reranking query 1149. Elapsed time since start: 16314.06 seconds.
+Done reranking query 1150. Elapsed time since start: 16326.66 seconds.
+Done reranking query 1151. Elapsed time since start: 16344.37 seconds.
+Done reranking query 1152. Elapsed time since start: 16356.99 seconds.
+Done reranking query 1153. Elapsed time since start: 16370.97 seconds.
+Done reranking query 1154. Elapsed time since start: 16386.17 seconds.
+Done reranking query 1155. Elapsed time since start: 16403.81 seconds.
+Saved 1155 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1155 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1156. Elapsed time since start: 16418.14 seconds.
+Done reranking query 1157. Elapsed time since start: 16432.74 seconds.
+Done reranking query 1158. Elapsed time since start: 16446.28 seconds.
+Done reranking query 1159. Elapsed time since start: 16466.45 seconds.
+Done reranking query 1160. Elapsed time since start: 16472.58 seconds.
+Done reranking query 1161. Elapsed time since start: 16485.06 seconds.
+Done reranking query 1162. Elapsed time since start: 16496.83 seconds.
+Done reranking query 1163. Elapsed time since start: 16513.26 seconds.
+Done reranking query 1164. Elapsed time since start: 16527.48 seconds.
+Done reranking query 1165. Elapsed time since start: 16542.16 seconds.
+Done reranking query 1166. Elapsed time since start: 16558.35 seconds.
+Done reranking query 1167. Elapsed time since start: 16573.80 seconds.
+Done reranking query 1168. Elapsed time since start: 16581.92 seconds.
+Done reranking query 1169. Elapsed time since start: 16592.49 seconds.
+Done reranking query 1170. Elapsed time since start: 16600.73 seconds.
+Saved 1170 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1170 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1171. Elapsed time since start: 16608.62 seconds.
+Done reranking query 1172. Elapsed time since start: 16616.20 seconds.
+Done reranking query 1173. Elapsed time since start: 16629.26 seconds.
+Done reranking query 1174. Elapsed time since start: 16636.75 seconds.
+Done reranking query 1175. Elapsed time since start: 16653.41 seconds.
+Done reranking query 1176. Elapsed time since start: 16666.62 seconds.
+Done reranking query 1177. Elapsed time since start: 16674.16 seconds.
+Done reranking query 1178. Elapsed time since start: 16688.62 seconds.
+Done reranking query 1179. Elapsed time since start: 16700.06 seconds.
+Done reranking query 1180. Elapsed time since start: 16714.47 seconds.
+Done reranking query 1181. Elapsed time since start: 16724.24 seconds.
+Done reranking query 1182. Elapsed time since start: 16736.89 seconds.
+Done reranking query 1183. Elapsed time since start: 16752.19 seconds.
+Done reranking query 1184. Elapsed time since start: 16774.84 seconds.
+Done reranking query 1185. Elapsed time since start: 16785.73 seconds.
+Saved 1185 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1185 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1186. Elapsed time since start: 16799.48 seconds.
+Done reranking query 1187. Elapsed time since start: 16824.19 seconds.
+Done reranking query 1188. Elapsed time since start: 16836.07 seconds.
+Done reranking query 1189. Elapsed time since start: 16843.86 seconds.
+Done reranking query 1190. Elapsed time since start: 16860.04 seconds.
+Done reranking query 1191. Elapsed time since start: 16874.27 seconds.
+Done reranking query 1192. Elapsed time since start: 16885.77 seconds.
+Done reranking query 1193. Elapsed time since start: 16904.79 seconds.
+Done reranking query 1194. Elapsed time since start: 16923.92 seconds.
+Done reranking query 1195. Elapsed time since start: 16941.14 seconds.
+Done reranking query 1196. Elapsed time since start: 16953.66 seconds.
+Done reranking query 1197. Elapsed time since start: 16964.31 seconds.
+Done reranking query 1198. Elapsed time since start: 16981.08 seconds.
+Done reranking query 1199. Elapsed time since start: 17003.08 seconds.
+Done reranking query 1200. Elapsed time since start: 17050.50 seconds.
+Saved 1200 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1200 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1201. Elapsed time since start: 17061.40 seconds.
+Done reranking query 1202. Elapsed time since start: 17073.14 seconds.
+Done reranking query 1203. Elapsed time since start: 17087.65 seconds.
+Done reranking query 1204. Elapsed time since start: 17101.85 seconds.
+Done reranking query 1205. Elapsed time since start: 17110.32 seconds.
+Done reranking query 1206. Elapsed time since start: 17120.36 seconds.
+Done reranking query 1207. Elapsed time since start: 17145.98 seconds.
+Done reranking query 1208. Elapsed time since start: 17152.03 seconds.
+Done reranking query 1209. Elapsed time since start: 17165.65 seconds.
+Done reranking query 1210. Elapsed time since start: 17193.48 seconds.
+Done reranking query 1211. Elapsed time since start: 17207.07 seconds.
+Done reranking query 1212. Elapsed time since start: 17214.14 seconds.
+Done reranking query 1213. Elapsed time since start: 17228.60 seconds.
+Done reranking query 1214. Elapsed time since start: 17243.95 seconds.
+Done reranking query 1215. Elapsed time since start: 17254.13 seconds.
+Saved 1215 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1215 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1216. Elapsed time since start: 17271.66 seconds.
+Done reranking query 1217. Elapsed time since start: 17284.14 seconds.
+Done reranking query 1218. Elapsed time since start: 17292.48 seconds.
+Done reranking query 1219. Elapsed time since start: 17300.18 seconds.
+Done reranking query 1220. Elapsed time since start: 17334.55 seconds.
+Done reranking query 1221. Elapsed time since start: 17342.94 seconds.
+Done reranking query 1222. Elapsed time since start: 17349.75 seconds.
+Done reranking query 1223. Elapsed time since start: 17361.19 seconds.
+Done reranking query 1224. Elapsed time since start: 17374.63 seconds.
+Done reranking query 1225. Elapsed time since start: 17381.82 seconds.
+Done reranking query 1226. Elapsed time since start: 17390.90 seconds.
+Done reranking query 1227. Elapsed time since start: 17407.18 seconds.
+Done reranking query 1228. Elapsed time since start: 17421.05 seconds.
+Done reranking query 1229. Elapsed time since start: 17441.16 seconds.
+Done reranking query 1230. Elapsed time since start: 17448.94 seconds.
+Saved 1230 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1230 reranked responses to Gemini_structured-reranked-50-indices.json
+Done reranking query 1231. Elapsed time since start: 17465.72 seconds.
+Done reranking query 1232. Elapsed time since start: 17475.85 seconds.
+Done reranking query 1233. Elapsed time since start: 17494.07 seconds.
+Done reranking query 1234. Elapsed time since start: 17500.38 seconds.
+Done reranking query 1235. Elapsed time since start: 17509.24 seconds.
+Done reranking query 1236. Elapsed time since start: 17522.38 seconds.
+Done reranking query 1237. Elapsed time since start: 17529.68 seconds.
+Done reranking query 1238. Elapsed time since start: 17543.88 seconds.
+Done reranking query 1239. Elapsed time since start: 17552.55 seconds.
+Done reranking query 1240. Elapsed time since start: 17559.07 seconds.
+Done reranking query 1241. Elapsed time since start: 17571.53 seconds.
+Done reranking query 1242. Elapsed time since start: 17591.07 seconds.
+Done reranking query 1243. Elapsed time since start: 17624.37 seconds.
+Done reranking query 1244. Elapsed time since start: 17634.14 seconds.
+Done reranking query 1245. Elapsed time since start: 17652.30 seconds.
+Saved 1245 reranked responses to Gemini_text-reranked-50-indices.json
+Saved 1245 reranked responses to Gemini_structured-reranked-50-indices.json
+Saved all reranked responses to Gemini_text-reranked-50-indices.json
+Saved all reranked responses to Gemini_structured-reranked-50-indices.json
+[2025-04-10 06:00:09] Job completed. Proceeding to next job...
