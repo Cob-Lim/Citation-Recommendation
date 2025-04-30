@@ -1,6 +1,6 @@
 # Citation Recommendation with CiteBART, RAG, and Agentic Retrieval
 
-This project explores multiple **Citation Recommendation** strategies using both classic and modern **Retrieval-Augmented Generation (RAG)** techniques. It benchmarks **CiteBART (SOTA)** against variations of **RAG pipelines** (Naive, Advanced), an **Agentic Recommender using Gemini + Google Search**, and a **Hybrid Two-Stage Retrieval** system. Evaluation was conducted using ground truth citation contexts to assess relevance and performance.
+This project explores multiple **Citation Recommendation** strategies using both classic and modern **Retrieval-Augmented Generation (RAG)** techniques. It benchmarks **CiteBART (SOTA)** against variations of **RAG pipelines** (Naive, Advanced), an **Agentic Recommender using Gemini + Google Search**, and a **Hybrid Two-Stage Retrieval** system. Evaluation was conducted by comparing the citations retrieved for each citation context against the corresponding ground truth citations, assessing how accurately the system identified and matched the intended references.
 
 ---
 
