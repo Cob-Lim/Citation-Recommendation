@@ -54,34 +54,27 @@ This project explores multiple **Citation Recommendation** strategies using both
 
 ## Tech Stack
 
-| Component              | Tool/Service                        |
-|------------------------|-------------------------------------|
-| Dataset                | Custom academic corpus              |
-| Embeddings             | `text-embedding-3-small`            |
-| RAG Framework          | LangChain                           |
-| Vector Store           | ChromaDB                            |
-| Generator              | `gpt-4o-mini`, Gemini 1.5 Pro       |
-| Reranker               | FlagEmbedding, MXBAI Reranker       |
-| Citation Model         | CiteBART (fine-tuned)               |
-| Web Search             | Google Search API                   |
-| Evaluation             | Custom + BLEU, MRR, nDCG, Recall    |
+| Component              | Tool/Service                            |
+|------------------------|-----------------------------------------|
+| Dataset                | ACL-200 (from CiteBART)                 |
+| Embeddings             | `INF-Retriever-v1-1.5B`                 |
+| RAG Framework          | LangChain                               |
+| Vector Store           | ChromaDB                                |
+| Reranker               | FlagEmbedding, MXBAI Reranker           |
+| LLM Reranker           | Gemini 2.0 Flash Thinking, DeepSeek V3  |
+| Citation Model         | CiteBART (fine-tuned)                   |
+| External Search Agent  | Gemini 2.0 Flash + Google Search        |
+| Evaluation             | Recall, MRR                             |
 
 ---
 
 ## Key Results Summary
 
-| Method                     | Recall@10 | MRR@10 
-|---------------------------|----------|--------
-| CiteBART (SOTA)           | 0.72     | 0.53   
-| Naive RAG                 | 0.61     | 0.41   
-| Advanced RAG              | 0.76     | 0.56   
-| Agentic (Gemini + Google) | 0.78     | 0.60   
-| Two-Stage Hybrid          | **0.8643** | **0.6**
+![Recall Across Architectures](Images/Recall%20Across%20Architectures.png)
+![MRR Across Architectures](Images/MRR%20Across%20Architectures.png)
 
+- The **Two-Stage Hybrid (Advanced RAG + Gemini)** pipeline achieved the highest performance across all methods, outperforming others in both Recall and Mean Reciprocal Rank (MRR).
 ---
 
-## Future Work
-- Fine-tune Gemini agent to improve web citation filtering and formatting.
-- Extend CiteBART to include **metadata injection** (journal, year, etc.).
-- Test performance across diverse disciplines (e.g., law, medicine, CS).
-- Introduce a confidence calibration module for fallback switching.
+## Disclaimer
+- All experiments were run on an Amazon EC2 g5.xlarge instance, with the exception of external API calls, which were executed outside the instance.
