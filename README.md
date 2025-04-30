@@ -78,4 +78,4 @@ This project explores multiple **Citation Recommendation** strategies using both
 ---
 
 ## Disclaimer
-- All experiments were run on an Amazon EC2 **'g5.xlarge'** instance, with the exception of external API calls, which were executed outside the instance.
+- All experiments were run on an Amazon EC2 `g5.xlarge` instance, with the exception of external API calls, which were executed outside the instance.
