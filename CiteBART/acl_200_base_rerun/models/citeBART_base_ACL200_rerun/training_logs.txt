@@ -1,0 +1,15 @@
+Starting training from scratch...
+Training Completed Successfully ✅
+
+Metrics:
+ train_runtime  train_samples_per_second  train_steps_per_second   total_flos  train_loss  epoch
+     26886.418                    27.951                   3.494 1.789910e+17    0.032702   15.0
+=== Evaluation Started ===
+=== Evaluation Started ===
+
+=== Final Evaluation Metrics ===
+Mean Recall@10: 0.6504
+Mean MRR@10: 0.4947
+Mean NDCG@10: 0.5322
+=============================
+
